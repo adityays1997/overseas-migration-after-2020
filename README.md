@@ -251,4 +251,4 @@ cleaning_log.md           what was dropped, renamed or fixed, with row counts
 
 ## Author
 
-<S yaddanapudi>
+Syaddanpudi
