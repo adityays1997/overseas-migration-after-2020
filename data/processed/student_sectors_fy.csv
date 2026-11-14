@@ -1,0 +1,568 @@
+state,sector,fy,arrivals,departures,net
+Australia,higher education,2004-05,32750,9010,23740
+Australia,higher education,2005-06,42040,14780,27260
+Australia,higher education,2006-07,57940,16020,41920
+Australia,higher education,2007-08,73150,15620,57530
+Australia,higher education,2008-09,72080,18120,53960
+Australia,higher education,2009-10,56500,24200,32300
+Australia,higher education,2010-11,43020,30100,12920
+Australia,higher education,2011-12,41870,30390,11480
+Australia,higher education,2012-13,56500,28370,28130
+Australia,higher education,2013-14,79140,26560,52580
+Australia,higher education,2014-15,85070,25330,59740
+Australia,higher education,2015-16,89170,24190,64980
+Australia,higher education,2016-17,101440,25410,76030
+Australia,higher education,2017-18,106520,31150,75370
+Australia,higher education,2018-19,111310,40930,70380
+Australia,higher education,2019-20,75950,66030,9920
+Australia,higher education,2020-21,730,43580,-42850
+Australia,higher education,2021-22,98410,15530,82880
+Australia,higher education,2022-23,177400,7930,169470
+Australia,higher education,2023-24,146660,18950,127710
+Australia,higher education,2024-25,126270,28640,97630
+Australia,other,2004-05,25440,9150,16290
+Australia,other,2005-06,20550,7880,12670
+Australia,other,2006-07,25810,6090,19720
+Australia,other,2007-08,29160,6330,22830
+Australia,other,2008-09,27110,7030,20080
+Australia,other,2009-10,24450,7690,16760
+Australia,other,2010-11,21330,7900,13430
+Australia,other,2011-12,21250,8160,13090
+Australia,other,2012-13,21260,8650,12610
+Australia,other,2013-14,25450,9330,16120
+Australia,other,2014-15,25870,10990,14880
+Australia,other,2015-16,27690,10470,17220
+Australia,other,2016-17,31670,10010,21660
+Australia,other,2017-18,31460,9110,22350
+Australia,other,2018-19,30390,9540,20850
+Australia,other,2019-20,23070,12730,10340
+Australia,other,2020-21,670,7550,-6880
+Australia,other,2021-22,21540,4330,17210
+Australia,other,2022-23,62220,3010,59210
+Australia,other,2023-24,37450,5910,31540
+Australia,other,2024-25,21750,8020,13730
+Australia,vocational education and training,2004-05,7990,3080,4910
+Australia,vocational education and training,2005-06,10500,3410,7090
+Australia,vocational education and training,2006-07,19970,3370,16600
+Australia,vocational education and training,2007-08,31420,4070,27350
+Australia,vocational education and training,2008-09,53570,5560,48010
+Australia,vocational education and training,2009-10,25710,9880,15830
+Australia,vocational education and training,2010-11,11000,12330,-1330
+Australia,vocational education and training,2011-12,10150,9020,1130
+Australia,vocational education and training,2012-13,8460,7940,520
+Australia,vocational education and training,2013-14,9740,8260,1480
+Australia,vocational education and training,2014-15,11180,8720,2460
+Australia,vocational education and training,2015-16,15270,9450,5820
+Australia,vocational education and training,2016-17,16300,11390,4910
+Australia,vocational education and training,2017-18,19650,15150,4500
+Australia,vocational education and training,2018-19,22650,16980,5670
+Australia,vocational education and training,2019-20,11420,22160,-10740
+Australia,vocational education and training,2020-21,120,11060,-10940
+Australia,vocational education and training,2021-22,21470,7000,14470
+Australia,vocational education and training,2022-23,38140,4550,33590
+Australia,vocational education and training,2023-24,20020,7960,12060
+Australia,vocational education and training,2024-25,8690,11980,-3290
+Australian Capital Territory,higher education,2004-05,510,170,340
+Australian Capital Territory,higher education,2005-06,690,250,440
+Australian Capital Territory,higher education,2006-07,860,340,520
+Australian Capital Territory,higher education,2007-08,1070,320,750
+Australian Capital Territory,higher education,2008-09,1360,350,1010
+Australian Capital Territory,higher education,2009-10,1480,580,900
+Australian Capital Territory,higher education,2010-11,1190,790,400
+Australian Capital Territory,higher education,2011-12,1290,1020,270
+Australian Capital Territory,higher education,2012-13,1410,1090,320
+Australian Capital Territory,higher education,2013-14,2030,1020,1010
+Australian Capital Territory,higher education,2014-15,2310,840,1470
+Australian Capital Territory,higher education,2015-16,2430,840,1590
+Australian Capital Territory,higher education,2016-17,2870,990,1880
+Australian Capital Territory,higher education,2017-18,3230,1250,1980
+Australian Capital Territory,higher education,2018-19,2420,1750,670
+Australian Capital Territory,higher education,2019-20,1530,2480,-950
+Australian Capital Territory,higher education,2020-21,20,1420,-1400
+Australian Capital Territory,higher education,2021-22,2560,440,2120
+Australian Capital Territory,higher education,2022-23,4720,270,4450
+Australian Capital Territory,higher education,2023-24,3370,840,2530
+Australian Capital Territory,higher education,2024-25,2940,1230,1710
+Australian Capital Territory,other,2004-05,580,350,230
+Australian Capital Territory,other,2005-06,500,450,50
+Australian Capital Territory,other,2006-07,620,360,260
+Australian Capital Territory,other,2007-08,630,410,220
+Australian Capital Territory,other,2008-09,670,450,220
+Australian Capital Territory,other,2009-10,730,450,280
+Australian Capital Territory,other,2010-11,660,450,210
+Australian Capital Territory,other,2011-12,810,530,280
+Australian Capital Territory,other,2012-13,880,500,380
+Australian Capital Territory,other,2013-14,850,590,260
+Australian Capital Territory,other,2014-15,860,620,240
+Australian Capital Territory,other,2015-16,780,620,160
+Australian Capital Territory,other,2016-17,890,570,320
+Australian Capital Territory,other,2017-18,900,420,480
+Australian Capital Territory,other,2018-19,700,520,180
+Australian Capital Territory,other,2019-20,520,610,-90
+Australian Capital Territory,other,2020-21,50,380,-330
+Australian Capital Territory,other,2021-22,770,240,530
+Australian Capital Territory,other,2022-23,880,270,610
+Australian Capital Territory,other,2023-24,780,310,470
+Australian Capital Territory,other,2024-25,740,390,350
+Australian Capital Territory,vocational education and training,2004-05,60,20,40
+Australian Capital Territory,vocational education and training,2005-06,90,40,50
+Australian Capital Territory,vocational education and training,2006-07,130,30,100
+Australian Capital Territory,vocational education and training,2007-08,230,30,200
+Australian Capital Territory,vocational education and training,2008-09,330,30,300
+Australian Capital Territory,vocational education and training,2009-10,260,70,190
+Australian Capital Territory,vocational education and training,2010-11,130,70,60
+Australian Capital Territory,vocational education and training,2011-12,170,70,100
+Australian Capital Territory,vocational education and training,2012-13,150,70,80
+Australian Capital Territory,vocational education and training,2013-14,180,110,70
+Australian Capital Territory,vocational education and training,2014-15,150,80,70
+Australian Capital Territory,vocational education and training,2015-16,200,70,130
+Australian Capital Territory,vocational education and training,2016-17,210,80,130
+Australian Capital Territory,vocational education and training,2017-18,230,110,120
+Australian Capital Territory,vocational education and training,2018-19,210,110,100
+Australian Capital Territory,vocational education and training,2019-20,120,180,-60
+Australian Capital Territory,vocational education and training,2020-21,0,120,-120
+Australian Capital Territory,vocational education and training,2021-22,340,80,260
+Australian Capital Territory,vocational education and training,2022-23,390,50,340
+Australian Capital Territory,vocational education and training,2023-24,180,80,100
+Australian Capital Territory,vocational education and training,2024-25,90,90,0
+New South Wales,higher education,2004-05,11440,2780,8660
+New South Wales,higher education,2005-06,14830,4770,10060
+New South Wales,higher education,2006-07,20110,5200,14910
+New South Wales,higher education,2007-08,23690,5270,18420
+New South Wales,higher education,2008-09,22720,6200,16520
+New South Wales,higher education,2009-10,18870,8100,10770
+New South Wales,higher education,2010-11,14370,10200,4170
+New South Wales,higher education,2011-12,14340,10380,3960
+New South Wales,higher education,2012-13,20460,9420,11040
+New South Wales,higher education,2013-14,27380,8720,18660
+New South Wales,higher education,2014-15,31120,8390,22730
+New South Wales,higher education,2015-16,32050,7980,24070
+New South Wales,higher education,2016-17,36900,8270,28630
+New South Wales,higher education,2017-18,38680,10870,27810
+New South Wales,higher education,2018-19,37440,15290,22150
+New South Wales,higher education,2019-20,24240,25420,-1180
+New South Wales,higher education,2020-21,320,14630,-14310
+New South Wales,higher education,2021-22,37270,5420,31850
+New South Wales,higher education,2022-23,63190,2890,60300
+New South Wales,higher education,2023-24,49900,8060,41840
+New South Wales,higher education,2024-25,45620,11960,33660
+New South Wales,other,2004-05,9620,3270,6350
+New South Wales,other,2005-06,7410,2380,5030
+New South Wales,other,2006-07,9980,1520,8460
+New South Wales,other,2007-08,11950,1550,10400
+New South Wales,other,2008-09,10020,1730,8290
+New South Wales,other,2009-10,8450,2040,6410
+New South Wales,other,2010-11,7180,2180,5000
+New South Wales,other,2011-12,6910,2190,4720
+New South Wales,other,2012-13,6700,2330,4370
+New South Wales,other,2013-14,7900,2410,5490
+New South Wales,other,2014-15,8420,2820,5600
+New South Wales,other,2015-16,9410,2590,6820
+New South Wales,other,2016-17,11510,2570,8940
+New South Wales,other,2017-18,11680,2650,9030
+New South Wales,other,2018-19,10600,2750,7850
+New South Wales,other,2019-20,7600,3900,3700
+New South Wales,other,2020-21,260,2000,-1740
+New South Wales,other,2021-22,7200,1250,5950
+New South Wales,other,2022-23,20130,920,19210
+New South Wales,other,2023-24,12070,1810,10260
+New South Wales,other,2024-25,6500,2340,4160
+New South Wales,vocational education and training,2004-05,3790,1580,2210
+New South Wales,vocational education and training,2005-06,4870,1750,3120
+New South Wales,vocational education and training,2006-07,9390,1840,7550
+New South Wales,vocational education and training,2007-08,14980,2220,12760
+New South Wales,vocational education and training,2008-09,18540,3040,15500
+New South Wales,vocational education and training,2009-10,8650,4840,3810
+New South Wales,vocational education and training,2010-11,4970,5550,-580
+New South Wales,vocational education and training,2011-12,4600,4290,310
+New South Wales,vocational education and training,2012-13,3750,3910,-160
+New South Wales,vocational education and training,2013-14,4460,3900,560
+New South Wales,vocational education and training,2014-15,5420,4100,1320
+New South Wales,vocational education and training,2015-16,6710,4450,2260
+New South Wales,vocational education and training,2016-17,7260,5100,2160
+New South Wales,vocational education and training,2017-18,9180,6790,2390
+New South Wales,vocational education and training,2018-19,10630,7710,2920
+New South Wales,vocational education and training,2019-20,4360,10660,-6300
+New South Wales,vocational education and training,2020-21,60,4790,-4730
+New South Wales,vocational education and training,2021-22,10920,3350,7570
+New South Wales,vocational education and training,2022-23,14480,2090,12390
+New South Wales,vocational education and training,2023-24,7200,3460,3740
+New South Wales,vocational education and training,2024-25,2910,4780,-1870
+Northern Territory,higher education,2004-05,50,10,40
+Northern Territory,higher education,2005-06,90,10,80
+Northern Territory,higher education,2006-07,120,40,80
+Northern Territory,higher education,2007-08,130,30,100
+Northern Territory,higher education,2008-09,190,20,170
+Northern Territory,higher education,2009-10,160,40,120
+Northern Territory,higher education,2010-11,140,50,90
+Northern Territory,higher education,2011-12,220,40,180
+Northern Territory,higher education,2012-13,270,50,220
+Northern Territory,higher education,2013-14,350,50,300
+Northern Territory,higher education,2014-15,470,40,430
+Northern Territory,higher education,2015-16,520,60,460
+Northern Territory,higher education,2016-17,470,70,400
+Northern Territory,higher education,2017-18,330,50,280
+Northern Territory,higher education,2018-19,290,30,260
+Northern Territory,higher education,2019-20,250,50,200
+Northern Territory,higher education,2020-21,20,20,0
+Northern Territory,higher education,2021-22,410,30,380
+Northern Territory,higher education,2022-23,1170,10,1160
+Northern Territory,higher education,2023-24,960,10,950
+Northern Territory,higher education,2024-25,830,20,810
+Northern Territory,other,2004-05,50,50,0
+Northern Territory,other,2005-06,40,30,10
+Northern Territory,other,2006-07,60,20,40
+Northern Territory,other,2007-08,80,30,50
+Northern Territory,other,2008-09,60,10,50
+Northern Territory,other,2009-10,90,20,70
+Northern Territory,other,2010-11,70,30,40
+Northern Territory,other,2011-12,70,30,40
+Northern Territory,other,2012-13,90,40,50
+Northern Territory,other,2013-14,90,50,40
+Northern Territory,other,2014-15,90,60,30
+Northern Territory,other,2015-16,80,40,40
+Northern Territory,other,2016-17,90,60,30
+Northern Territory,other,2017-18,60,30,30
+Northern Territory,other,2018-19,100,50,50
+Northern Territory,other,2019-20,70,30,40
+Northern Territory,other,2020-21,10,20,-10
+Northern Territory,other,2021-22,80,20,60
+Northern Territory,other,2022-23,160,20,140
+Northern Territory,other,2023-24,90,20,70
+Northern Territory,other,2024-25,90,30,60
+Northern Territory,vocational education and training,2004-05,10,0,10
+Northern Territory,vocational education and training,2005-06,20,0,20
+Northern Territory,vocational education and training,2006-07,30,10,20
+Northern Territory,vocational education and training,2007-08,50,10,40
+Northern Territory,vocational education and training,2008-09,80,10,70
+Northern Territory,vocational education and training,2009-10,70,20,50
+Northern Territory,vocational education and training,2010-11,30,20,10
+Northern Territory,vocational education and training,2011-12,40,30,10
+Northern Territory,vocational education and training,2012-13,30,20,10
+Northern Territory,vocational education and training,2013-14,50,20,30
+Northern Territory,vocational education and training,2014-15,30,30,0
+Northern Territory,vocational education and training,2015-16,50,40,10
+Northern Territory,vocational education and training,2016-17,50,40,10
+Northern Territory,vocational education and training,2017-18,50,30,20
+Northern Territory,vocational education and training,2018-19,160,50,110
+Northern Territory,vocational education and training,2019-20,60,50,10
+Northern Territory,vocational education and training,2020-21,0,30,-30
+Northern Territory,vocational education and training,2021-22,150,30,120
+Northern Territory,vocational education and training,2022-23,250,20,230
+Northern Territory,vocational education and training,2023-24,100,20,80
+Northern Territory,vocational education and training,2024-25,50,30,20
+Queensland,higher education,2004-05,4750,1700,3050
+Queensland,higher education,2005-06,5520,2840,2680
+Queensland,higher education,2006-07,6670,3180,3490
+Queensland,higher education,2007-08,10880,2910,7970
+Queensland,higher education,2008-09,10960,3270,7690
+Queensland,higher education,2009-10,8950,4280,4670
+Queensland,higher education,2010-11,7350,5420,1930
+Queensland,higher education,2011-12,6480,5550,930
+Queensland,higher education,2012-13,8210,5370,2840
+Queensland,higher education,2013-14,13120,4770,8350
+Queensland,higher education,2014-15,10880,4620,6260
+Queensland,higher education,2015-16,10900,4160,6740
+Queensland,higher education,2016-17,12120,4120,8000
+Queensland,higher education,2017-18,13010,4700,8310
+Queensland,higher education,2018-19,13760,5850,7910
+Queensland,higher education,2019-20,9710,9010,700
+Queensland,higher education,2020-21,130,5630,-5500
+Queensland,higher education,2021-22,10190,2670,7520
+Queensland,higher education,2022-23,21020,1170,19850
+Queensland,higher education,2023-24,17610,2800,14810
+Queensland,higher education,2024-25,15000,4140,10860
+Queensland,other,2004-05,4040,1730,2310
+Queensland,other,2005-06,3730,1560,2170
+Queensland,other,2006-07,4490,1350,3140
+Queensland,other,2007-08,4850,1310,3540
+Queensland,other,2008-09,5080,1470,3610
+Queensland,other,2009-10,4570,1600,2970
+Queensland,other,2010-11,3960,1670,2290
+Queensland,other,2011-12,4040,1630,2410
+Queensland,other,2012-13,4260,1840,2420
+Queensland,other,2013-14,5110,1970,3140
+Queensland,other,2014-15,5140,2380,2760
+Queensland,other,2015-16,5390,2020,3370
+Queensland,other,2016-17,6450,1770,4680
+Queensland,other,2017-18,6360,1890,4470
+Queensland,other,2018-19,6460,1900,4560
+Queensland,other,2019-20,5260,2400,2860
+Queensland,other,2020-21,130,1370,-1240
+Queensland,other,2021-22,4140,830,3310
+Queensland,other,2022-23,15150,620,14530
+Queensland,other,2023-24,8550,1090,7460
+Queensland,other,2024-25,5010,1690,3320
+Queensland,vocational education and training,2004-05,850,450,400
+Queensland,vocational education and training,2005-06,860,450,410
+Queensland,vocational education and training,2006-07,1550,420,1130
+Queensland,vocational education and training,2007-08,3200,530,2670
+Queensland,vocational education and training,2008-09,7730,750,6980
+Queensland,vocational education and training,2009-10,4030,1390,2640
+Queensland,vocational education and training,2010-11,1340,2030,-690
+Queensland,vocational education and training,2011-12,1210,1570,-360
+Queensland,vocational education and training,2012-13,1180,1300,-120
+Queensland,vocational education and training,2013-14,1210,1390,-180
+Queensland,vocational education and training,2014-15,1550,1440,110
+Queensland,vocational education and training,2015-16,2480,1630,850
+Queensland,vocational education and training,2016-17,2740,2290,450
+Queensland,vocational education and training,2017-18,2580,2930,-350
+Queensland,vocational education and training,2018-19,3960,3310,650
+Queensland,vocational education and training,2019-20,2250,3950,-1700
+Queensland,vocational education and training,2020-21,20,1700,-1680
+Queensland,vocational education and training,2021-22,2740,1150,1590
+Queensland,vocational education and training,2022-23,7450,840,6610
+Queensland,vocational education and training,2023-24,3980,1470,2510
+Queensland,vocational education and training,2024-25,1940,2490,-550
+South Australia,higher education,2004-05,2380,460,1920
+South Australia,higher education,2005-06,3050,760,2290
+South Australia,higher education,2006-07,3860,870,2990
+South Australia,higher education,2007-08,4570,970,3600
+South Australia,higher education,2008-09,5120,950,4170
+South Australia,higher education,2009-10,4220,1420,2800
+South Australia,higher education,2010-11,3090,1840,1250
+South Australia,higher education,2011-12,2930,1890,1040
+South Australia,higher education,2012-13,3400,1850,1550
+South Australia,higher education,2013-14,4370,1810,2560
+South Australia,higher education,2014-15,5050,1730,3320
+South Australia,higher education,2015-16,5180,1620,3560
+South Australia,higher education,2016-17,5360,1670,3690
+South Australia,higher education,2017-18,5530,1870,3660
+South Australia,higher education,2018-19,6330,1970,4360
+South Australia,higher education,2019-20,5800,3880,1920
+South Australia,higher education,2020-21,40,1760,-1720
+South Australia,higher education,2021-22,6750,920,5830
+South Australia,higher education,2022-23,11420,520,10900
+South Australia,higher education,2023-24,8960,840,8120
+South Australia,higher education,2024-25,7060,1030,6030
+South Australia,other,2004-05,1540,510,1030
+South Australia,other,2005-06,1390,580,810
+South Australia,other,2006-07,1870,610,1260
+South Australia,other,2007-08,1740,660,1080
+South Australia,other,2008-09,1620,810,810
+South Australia,other,2009-10,1600,770,830
+South Australia,other,2010-11,1440,660,780
+South Australia,other,2011-12,1480,750,730
+South Australia,other,2012-13,1490,780,710
+South Australia,other,2013-14,1900,920,980
+South Australia,other,2014-15,1720,1030,690
+South Australia,other,2015-16,1640,1130,510
+South Australia,other,2016-17,1510,1130,380
+South Australia,other,2017-18,1520,660,860
+South Australia,other,2018-19,1520,660,860
+South Australia,other,2019-20,1330,900,430
+South Australia,other,2020-21,30,570,-540
+South Australia,other,2021-22,1290,330,960
+South Australia,other,2022-23,3380,180,3200
+South Australia,other,2023-24,2350,330,2020
+South Australia,other,2024-25,1410,500,910
+South Australia,vocational education and training,2004-05,240,110,130
+South Australia,vocational education and training,2005-06,240,100,140
+South Australia,vocational education and training,2006-07,360,100,260
+South Australia,vocational education and training,2007-08,860,90,770
+South Australia,vocational education and training,2008-09,2650,130,2520
+South Australia,vocational education and training,2009-10,1290,310,980
+South Australia,vocational education and training,2010-11,400,480,-80
+South Australia,vocational education and training,2011-12,440,340,100
+South Australia,vocational education and training,2012-13,320,300,20
+South Australia,vocational education and training,2013-14,360,290,70
+South Australia,vocational education and training,2014-15,330,230,100
+South Australia,vocational education and training,2015-16,600,230,370
+South Australia,vocational education and training,2016-17,630,250,380
+South Australia,vocational education and training,2017-18,740,290,450
+South Australia,vocational education and training,2018-19,820,300,520
+South Australia,vocational education and training,2019-20,570,480,90
+South Australia,vocational education and training,2020-21,10,270,-260
+South Australia,vocational education and training,2021-22,1010,130,880
+South Australia,vocational education and training,2022-23,1650,150,1500
+South Australia,vocational education and training,2023-24,970,260,710
+South Australia,vocational education and training,2024-25,470,440,30
+Tasmania,higher education,2004-05,420,100,320
+Tasmania,higher education,2005-06,450,170,280
+Tasmania,higher education,2006-07,540,170,370
+Tasmania,higher education,2007-08,670,210,460
+Tasmania,higher education,2008-09,680,220,460
+Tasmania,higher education,2009-10,680,290,390
+Tasmania,higher education,2010-11,490,340,150
+Tasmania,higher education,2011-12,640,360,280
+Tasmania,higher education,2012-13,580,390,190
+Tasmania,higher education,2013-14,740,380,360
+Tasmania,higher education,2014-15,1120,410,710
+Tasmania,higher education,2015-16,970,260,710
+Tasmania,higher education,2016-17,1020,250,770
+Tasmania,higher education,2017-18,1230,290,940
+Tasmania,higher education,2018-19,1360,360,1000
+Tasmania,higher education,2019-20,830,690,140
+Tasmania,higher education,2020-21,10,220,-210
+Tasmania,higher education,2021-22,960,80,880
+Tasmania,higher education,2022-23,1360,60,1300
+Tasmania,higher education,2023-24,1140,80,1060
+Tasmania,higher education,2024-25,490,80,410
+Tasmania,other,2004-05,240,70,170
+Tasmania,other,2005-06,220,70,150
+Tasmania,other,2006-07,220,90,130
+Tasmania,other,2007-08,250,70,180
+Tasmania,other,2008-09,200,90,110
+Tasmania,other,2009-10,170,100,70
+Tasmania,other,2010-11,170,100,70
+Tasmania,other,2011-12,170,90,80
+Tasmania,other,2012-13,210,90,120
+Tasmania,other,2013-14,200,80,120
+Tasmania,other,2014-15,260,110,150
+Tasmania,other,2015-16,290,100,190
+Tasmania,other,2016-17,250,110,140
+Tasmania,other,2017-18,280,90,190
+Tasmania,other,2018-19,240,140,100
+Tasmania,other,2019-20,200,180,20
+Tasmania,other,2020-21,20,80,-60
+Tasmania,other,2021-22,160,70,90
+Tasmania,other,2022-23,350,40,310
+Tasmania,other,2023-24,260,50,210
+Tasmania,other,2024-25,170,50,120
+Tasmania,vocational education and training,2004-05,30,30,0
+Tasmania,vocational education and training,2005-06,50,30,20
+Tasmania,vocational education and training,2006-07,90,40,50
+Tasmania,vocational education and training,2007-08,80,30,50
+Tasmania,vocational education and training,2008-09,170,20,150
+Tasmania,vocational education and training,2009-10,80,50,30
+Tasmania,vocational education and training,2010-11,40,50,-10
+Tasmania,vocational education and training,2011-12,40,40,0
+Tasmania,vocational education and training,2012-13,30,20,10
+Tasmania,vocational education and training,2013-14,30,20,10
+Tasmania,vocational education and training,2014-15,30,20,10
+Tasmania,vocational education and training,2015-16,30,20,10
+Tasmania,vocational education and training,2016-17,40,20,20
+Tasmania,vocational education and training,2017-18,90,30,60
+Tasmania,vocational education and training,2018-19,110,50,60
+Tasmania,vocational education and training,2019-20,110,120,-10
+Tasmania,vocational education and training,2020-21,10,70,-60
+Tasmania,vocational education and training,2021-22,190,60,130
+Tasmania,vocational education and training,2022-23,290,30,260
+Tasmania,vocational education and training,2023-24,110,40,70
+Tasmania,vocational education and training,2024-25,50,50,0
+Victoria,higher education,2004-05,10060,2570,7490
+Victoria,higher education,2005-06,14170,4340,9830
+Victoria,higher education,2006-07,21760,4600,17160
+Victoria,higher education,2007-08,26100,4620,21480
+Victoria,higher education,2008-09,24720,5560,19160
+Victoria,higher education,2009-10,17580,7510,10070
+Victoria,higher education,2010-11,12740,9190,3550
+Victoria,higher education,2011-12,12660,9030,3630
+Victoria,higher education,2012-13,17870,8220,9650
+Victoria,higher education,2013-14,25860,7770,18090
+Victoria,higher education,2014-15,28460,7530,20930
+Victoria,higher education,2015-16,30640,7640,23000
+Victoria,higher education,2016-17,36150,8360,27790
+Victoria,higher education,2017-18,38430,10250,28180
+Victoria,higher education,2018-19,41990,13650,28340
+Victoria,higher education,2019-20,27390,22140,5250
+Victoria,higher education,2020-21,160,18390,-18230
+Victoria,higher education,2021-22,35010,5150,29860
+Victoria,higher education,2022-23,51560,2590,48970
+Victoria,higher education,2023-24,44610,5480,39130
+Victoria,higher education,2024-25,41560,8600,32960
+Victoria,other,2004-05,7530,2530,5000
+Victoria,other,2005-06,5580,2140,3440
+Victoria,other,2006-07,6610,1560,5050
+Victoria,other,2007-08,7300,1750,5550
+Victoria,other,2008-09,7070,1800,5270
+Victoria,other,2009-10,6620,1860,4760
+Victoria,other,2010-11,5800,2050,3750
+Victoria,other,2011-12,5750,2080,3670
+Victoria,other,2012-13,5600,2270,3330
+Victoria,other,2013-14,7110,2320,4790
+Victoria,other,2014-15,7110,2830,4280
+Victoria,other,2015-16,7930,2790,5140
+Victoria,other,2016-17,8950,2700,6250
+Victoria,other,2017-18,9020,2600,6420
+Victoria,other,2018-19,8950,2770,6180
+Victoria,other,2019-20,6670,3870,2800
+Victoria,other,2020-21,130,2620,-2490
+Victoria,other,2021-22,6620,1210,5410
+Victoria,other,2022-23,18440,770,17670
+Victoria,other,2023-24,10540,1910,8630
+Victoria,other,2024-25,6280,2410,3870
+Victoria,vocational education and training,2004-05,2300,620,1680
+Victoria,vocational education and training,2005-06,3630,710,2920
+Victoria,vocational education and training,2006-07,7130,650,6480
+Victoria,vocational education and training,2007-08,10130,800,9330
+Victoria,vocational education and training,2008-09,20180,1120,19060
+Victoria,vocational education and training,2009-10,8750,2450,6300
+Victoria,vocational education and training,2010-11,3010,3200,-190
+Victoria,vocational education and training,2011-12,2530,2070,460
+Victoria,vocational education and training,2012-13,1970,1730,240
+Victoria,vocational education and training,2013-14,2070,1830,240
+Victoria,vocational education and training,2014-15,2340,2060,280
+Victoria,vocational education and training,2015-16,3530,2110,1420
+Victoria,vocational education and training,2016-17,3900,2560,1340
+Victoria,vocational education and training,2017-18,5580,3660,1920
+Victoria,vocational education and training,2018-19,5590,4300,1290
+Victoria,vocational education and training,2019-20,3080,5770,-2690
+Victoria,vocational education and training,2020-21,20,3660,-3640
+Victoria,vocational education and training,2021-22,5120,1890,3230
+Victoria,vocational education and training,2022-23,10000,1180,8820
+Victoria,vocational education and training,2023-24,5530,2190,3340
+Victoria,vocational education and training,2024-25,2260,3360,-1100
+Western Australia,higher education,2004-05,3150,1230,1920
+Western Australia,higher education,2005-06,3250,1650,1600
+Western Australia,higher education,2006-07,4020,1620,2400
+Western Australia,higher education,2007-08,6040,1310,4730
+Western Australia,higher education,2008-09,6320,1550,4770
+Western Australia,higher education,2009-10,4570,1990,2580
+Western Australia,higher education,2010-11,3650,2270,1380
+Western Australia,higher education,2011-12,3320,2120,1200
+Western Australia,higher education,2012-13,4300,1980,2320
+Western Australia,higher education,2013-14,5290,2040,3250
+Western Australia,higher education,2014-15,5670,1770,3900
+Western Australia,higher education,2015-16,6480,1640,4840
+Western Australia,higher education,2016-17,6550,1680,4870
+Western Australia,higher education,2017-18,6100,1880,4220
+Western Australia,higher education,2018-19,7710,2020,5690
+Western Australia,higher education,2019-20,6210,2350,3860
+Western Australia,higher education,2020-21,30,1510,-1480
+Western Australia,higher education,2021-22,5240,820,4420
+Western Australia,higher education,2022-23,22950,410,22540
+Western Australia,higher education,2023-24,20100,830,19270
+Western Australia,higher education,2024-25,12770,1580,11190
+Western Australia,other,2004-05,1860,660,1200
+Western Australia,other,2005-06,1690,690,1000
+Western Australia,other,2006-07,1960,580,1380
+Western Australia,other,2007-08,2360,550,1810
+Western Australia,other,2008-09,2390,660,1730
+Western Australia,other,2009-10,2230,850,1380
+Western Australia,other,2010-11,2050,770,1280
+Western Australia,other,2011-12,2010,860,1150
+Western Australia,other,2012-13,2030,800,1230
+Western Australia,other,2013-14,2290,990,1300
+Western Australia,other,2014-15,2270,1140,1130
+Western Australia,other,2015-16,2170,1180,990
+Western Australia,other,2016-17,2030,1110,920
+Western Australia,other,2017-18,1640,770,870
+Western Australia,other,2018-19,1820,750,1070
+Western Australia,other,2019-20,1420,850,570
+Western Australia,other,2020-21,50,500,-450
+Western Australia,other,2021-22,1290,380,910
+Western Australia,other,2022-23,3740,210,3530
+Western Australia,other,2023-24,2820,400,2420
+Western Australia,other,2024-25,1540,610,930
+Western Australia,vocational education and training,2004-05,700,270,430
+Western Australia,vocational education and training,2005-06,730,340,390
+Western Australia,vocational education and training,2006-07,1310,290,1020
+Western Australia,vocational education and training,2007-08,1890,350,1540
+Western Australia,vocational education and training,2008-09,3900,450,3450
+Western Australia,vocational education and training,2009-10,2580,750,1830
+Western Australia,vocational education and training,2010-11,1080,930,150
+Western Australia,vocational education and training,2011-12,1140,610,530
+Western Australia,vocational education and training,2012-13,1030,590,440
+Western Australia,vocational education and training,2013-14,1390,700,690
+Western Australia,vocational education and training,2014-15,1340,760,580
+Western Australia,vocational education and training,2015-16,1680,900,780
+Western Australia,vocational education and training,2016-17,1460,1050,410
+Western Australia,vocational education and training,2017-18,1190,1310,-120
+Western Australia,vocational education and training,2018-19,1170,1160,10
+Western Australia,vocational education and training,2019-20,860,950,-90
+Western Australia,vocational education and training,2020-21,10,420,-410
+Western Australia,vocational education and training,2021-22,1010,340,670
+Western Australia,vocational education and training,2022-23,3640,210,3430
+Western Australia,vocational education and training,2023-24,1960,450,1510
+Western Australia,vocational education and training,2024-25,920,750,170

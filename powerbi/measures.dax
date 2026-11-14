@@ -1,0 +1,128 @@
+// DAX measures for the overseas migration report.
+// Put them in a measures table, e.g. _Measures (Enter Data > one blank column > hide it).
+// Relationships these assume (all single direction, many-to-one):
+//   FactNOM[fy_end_date]           -> DimDate[Date]
+//   FactPopulation[quarter_end]    -> DimDate[Date]
+//   FactVisaHolders[snapshot_date] -> DimDate[Date]
+//   FactNOM[state_abbr], FactPopulation[state_abbr] -> DimState[state_abbr]
+//   FactNOM[visa_group]            -> DimVisaGroup[visa_group]
+// ExcessStep has no relationship. It only feeds the waterfall.
+
+
+// 1. Net overseas migration. Additive across states, visa groups and years.
+NOM Net =
+SUM ( FactNOM[net] )
+
+
+// 2. Migrant arrivals.
+NOM Arrivals =
+SUM ( FactNOM[arrivals] )
+
+
+// 3. Migrant departures. Kept separate because the main finding is about this one.
+NOM Departures =
+SUM ( FactNOM[departures] )
+
+
+// 4. How far net migration in the selected years is above "normal", where normal is the
+//    2015-16 to 2018-19 average multiplied by the number of years selected. The baseline
+//    respects the state and visa slicers but ignores the date slicer.
+Excess Net vs Baseline =
+VAR YearsSelected =
+    DISTINCTCOUNT ( FactNOM[fy_end] )
+VAR BaselinePerYear =
+    CALCULATE (
+        AVERAGEX ( VALUES ( DimDate[FY end year] ), [NOM Net] ),
+        REMOVEFILTERS ( DimDate ),
+        DimDate[Is baseline FY] = TRUE ()
+    )
+RETURN
+    [NOM Net] - BaselinePerYear * YearsSelected
+
+
+// 5. Feeds the waterfall on page 2. Splits the excess into the part from arrivals and the
+//    part from fewer departures. Fewer departures than normal is shown as a positive number.
+Excess Step Value =
+VAR YearsSelected =
+    DISTINCTCOUNT ( FactNOM[fy_end] )
+VAR BaseArrivals =
+    CALCULATE (
+        AVERAGEX ( VALUES ( DimDate[FY end year] ), [NOM Arrivals] ),
+        REMOVEFILTERS ( DimDate ),
+        DimDate[Is baseline FY] = TRUE ()
+    )
+VAR BaseDepartures =
+    CALCULATE (
+        AVERAGEX ( VALUES ( DimDate[FY end year] ), [NOM Departures] ),
+        REMOVEFILTERS ( DimDate ),
+        DimDate[Is baseline FY] = TRUE ()
+    )
+RETURN
+    SWITCH (
+        SELECTEDVALUE ( ExcessStep[step] ),
+        "Arrivals vs normal", [NOM Arrivals] - BaseArrivals * YearsSelected,
+        "Fewer departures than normal", BaseDepartures * YearsSelected - [NOM Departures]
+    )
+
+
+// 6. Quarterly NOM summed over the 12 months to the end of the period on the axis.
+//    Smooths out the quarterly noise and makes it comparable with annual figures.
+NOM Rolling 4Q =
+VAR EndDate =
+    MAX ( DimDate[Date] )
+RETURN
+    CALCULATE (
+        SUM ( FactPopulation[nom] ),
+        DATESINPERIOD ( DimDate[Date], EndDate, -12, MONTH )
+    )
+
+
+// 7. Rolling NOM per 1,000 residents, using population a year earlier as the base so the
+//    migration being measured isn't in the denominator.
+NOM per 1,000 Residents =
+VAR EndDate =
+    MAX ( DimDate[Date] )
+VAR ErpYearAgo =
+    CALCULATE (
+        SUM ( FactPopulation[erp] ),
+        REMOVEFILTERS ( DimDate ),
+        FactPopulation[quarter_end] = EOMONTH ( EndDate, -12 )
+    )
+RETURN
+    DIVIDE ( [NOM Rolling 4Q], ErpYearAgo ) * 1000
+
+
+// 8. The pre-COVID reference line: average of measure 7 for the years ending Sep 2015 to
+//    Dec 2019. Use it as a dashed line on the small multiples (Analytics pane won't do this
+//    per panel, so add it as a second line series instead).
+Pre-COVID NOM per 1,000 =
+CALCULATE (
+    AVERAGEX ( VALUES ( DimDate[Quarter end] ), [NOM per 1,000 Residents] ),
+    REMOVEFILTERS ( DimDate ),
+    DATESBETWEEN ( DimDate[Date], DATE ( 2015, 7, 1 ), DATE ( 2019, 12, 31 ) )
+)
+
+
+// 9. Visa holders are a stock, so summing across snapshots is meaningless. This returns the
+//    count at the latest snapshot inside whatever date range is selected.
+Temp Visa Holders =
+VAR LastSnapshot =
+    CALCULATE ( MAX ( FactVisaHolders[snapshot_date] ) )
+RETURN
+    CALCULATE (
+        SUM ( FactVisaHolders[visa_holders] ),
+        FactVisaHolders[snapshot_date] = LastSnapshot
+    )
+
+
+// 10. Change since June 2019. Comparing June with June avoids the summer and Christmas
+//     swings in the quarterly snapshots.
+Temp Visa Holders Change vs Jun 2019 =
+VAR June2019 =
+    CALCULATE (
+        SUM ( FactVisaHolders[visa_holders] ),
+        REMOVEFILTERS ( DimDate ),
+        FactVisaHolders[snapshot_date] = DATE ( 2019, 6, 30 )
+    )
+RETURN
+    [Temp Visa Holders] - June2019

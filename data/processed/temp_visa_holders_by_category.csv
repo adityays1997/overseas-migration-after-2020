@@ -1,0 +1,1141 @@
+snapshot_date,visa_category,applicant_type,visa_holders
+2011-12-31,Bridging,Primary,101799
+2011-12-31,Bridging,Secondary,31
+2011-12-31,Crew and Transit,Primary,15378
+2011-12-31,Other Temporary,Primary,2028
+2011-12-31,Other Temporary,Secondary,65
+2011-12-31,Special Category,Primary,587100
+2011-12-31,Student,Primary,214334
+2011-12-31,Student,Secondary,40348
+2011-12-31,Temporary Graduate,Primary,15938
+2011-12-31,Temporary Graduate,Secondary,5973
+2011-12-31,Temporary Resident (Other Employment),Primary,12059
+2011-12-31,Temporary Resident (Other Employment),Secondary,6195
+2011-12-31,Temporary Resident (Skilled Employment),Primary,68326
+2011-12-31,Temporary Resident (Skilled Employment),Secondary,60368
+2011-12-31,Visitor,Primary,365772
+2011-12-31,Visitor,Secondary,1584
+2011-12-31,Working Holiday Maker,Primary,134838
+2012-03-31,Bridging,Primary,122227
+2012-03-31,Bridging,Secondary,118
+2012-03-31,Crew and Transit,Primary,14082
+2012-03-31,Other Temporary,Primary,2617
+2012-03-31,Other Temporary,Secondary,87
+2012-03-31,Special Category,Primary,616107
+2012-03-31,Student,Primary,299879
+2012-03-31,Student,Secondary,44586
+2012-03-31,Temporary Graduate,Primary,20633
+2012-03-31,Temporary Graduate,Secondary,7344
+2012-03-31,Temporary Resident (Other Employment),Primary,13727
+2012-03-31,Temporary Resident (Other Employment),Secondary,6643
+2012-03-31,Temporary Resident (Skilled Employment),Primary,88597
+2012-03-31,Temporary Resident (Skilled Employment),Secondary,71823
+2012-03-31,Visitor,Primary,218417
+2012-03-31,Visitor,Secondary,1209
+2012-03-31,Working Holiday Maker,Primary,142599
+2012-06-30,Bridging,Primary,101896
+2012-06-30,Bridging,Secondary,149
+2012-06-30,Crew and Transit,Primary,12804
+2012-06-30,Crew and Transit,Secondary,2
+2012-06-30,Other Temporary,Primary,2832
+2012-06-30,Other Temporary,Secondary,74
+2012-06-30,Special Category,Primary,646093
+2012-06-30,Student,Primary,260752
+2012-06-30,Student,Secondary,46293
+2012-06-30,Temporary Graduate,Primary,25729
+2012-06-30,Temporary Graduate,Secondary,9210
+2012-06-30,Temporary Resident (Other Employment),Primary,13338
+2012-06-30,Temporary Resident (Other Employment),Secondary,6181
+2012-06-30,Temporary Resident (Skilled Employment),Primary,91061
+2012-06-30,Temporary Resident (Skilled Employment),Secondary,71212
+2012-06-30,Visitor,Primary,200687
+2012-06-30,Visitor,Secondary,1541
+2012-06-30,Working Holiday Maker,Primary,136593
+2012-09-30,Bridging,Primary,98663
+2012-09-30,Bridging,Secondary,331
+2012-09-30,Crew and Transit,Primary,10299
+2012-09-30,Other Temporary,Primary,2633
+2012-09-30,Other Temporary,Secondary,83
+2012-09-30,Special Category,Primary,644708
+2012-09-30,Student,Primary,297025
+2012-09-30,Student,Secondary,45230
+2012-09-30,Temporary Graduate,Primary,28955
+2012-09-30,Temporary Graduate,Secondary,10211
+2012-09-30,Temporary Protection,Primary,9
+2012-09-30,Temporary Protection,Secondary,1
+2012-09-30,Temporary Resident (Other Employment),Primary,13739
+2012-09-30,Temporary Resident (Other Employment),Secondary,6285
+2012-09-30,Temporary Resident (Skilled Employment),Primary,98609
+2012-09-30,Temporary Resident (Skilled Employment),Secondary,76975
+2012-09-30,Visitor,Primary,189893
+2012-09-30,Visitor,Secondary,1303
+2012-09-30,Working Holiday Maker,Primary,145663
+2012-12-31,Bridging,Primary,85478
+2012-12-31,Bridging,Secondary,859
+2012-12-31,Crew and Transit,Primary,19260
+2012-12-31,Crew and Transit,Secondary,9
+2012-12-31,Other Temporary,Primary,1942
+2012-12-31,Other Temporary,Secondary,55
+2012-12-31,Special Category,Primary,618572
+2012-12-31,Student,Primary,201918
+2012-12-31,Student,Secondary,40274
+2012-12-31,Temporary Graduate,Primary,27978
+2012-12-31,Temporary Graduate,Secondary,10230
+2012-12-31,Temporary Protection,Primary,10
+2012-12-31,Temporary Protection,Secondary,1
+2012-12-31,Temporary Resident (Other Employment),Primary,12834
+2012-12-31,Temporary Resident (Other Employment),Secondary,6016
+2012-12-31,Temporary Resident (Skilled Employment),Primary,83846
+2012-12-31,Temporary Resident (Skilled Employment),Secondary,73268
+2012-12-31,Visitor,Primary,399218
+2012-12-31,Visitor,Secondary,2111
+2012-12-31,Working Holiday Maker,Primary,162475
+2013-03-31,Bridging,Primary,99339
+2013-03-31,Bridging,Secondary,1644
+2013-03-31,Crew and Transit,Primary,17827
+2013-03-31,Crew and Transit,Secondary,11
+2013-03-31,Other Temporary,Primary,2458
+2013-03-31,Other Temporary,Secondary,63
+2013-03-31,Special Category,Primary,632891
+2013-03-31,Student,Primary,289498
+2013-03-31,Student,Secondary,42858
+2013-03-31,Temporary Graduate,Primary,30766
+2013-03-31,Temporary Graduate,Secondary,10322
+2013-03-31,Temporary Protection,Primary,9
+2013-03-31,Temporary Protection,Secondary,1
+2013-03-31,Temporary Resident (Other Employment),Primary,14697
+2013-03-31,Temporary Resident (Other Employment),Secondary,6411
+2013-03-31,Temporary Resident (Skilled Employment),Primary,105602
+2013-03-31,Temporary Resident (Skilled Employment),Secondary,85320
+2013-03-31,Visitor,Primary,246006
+2013-03-31,Visitor,Secondary,1329
+2013-03-31,Working Holiday Maker,Primary,170696
+2013-06-30,Bridging,Primary,80540
+2013-06-30,Bridging,Secondary,1435
+2013-06-30,Crew and Transit,Primary,12536
+2013-06-30,Crew and Transit,Secondary,45
+2013-06-30,Other Temporary,Primary,2399
+2013-06-30,Other Temporary,Secondary,71
+2013-06-30,Special Category,Primary,640770
+2013-06-30,Student,Primary,260241
+2013-06-30,Student,Secondary,44007
+2013-06-30,Temporary Graduate,Primary,27424
+2013-06-30,Temporary Graduate,Secondary,8800
+2013-06-30,Temporary Protection,Primary,9
+2013-06-30,Temporary Protection,Secondary,1
+2013-06-30,Temporary Resident (Other Employment),Primary,14758
+2013-06-30,Temporary Resident (Other Employment),Secondary,5935
+2013-06-30,Temporary Resident (Skilled Employment),Primary,107979
+2013-06-30,Temporary Resident (Skilled Employment),Secondary,83237
+2013-06-30,Visitor,Primary,198021
+2013-06-30,Visitor,Secondary,669
+2013-06-30,Working Holiday Maker,Primary,160503
+2013-09-30,Bridging,Primary,82678
+2013-09-30,Bridging,Secondary,489
+2013-09-30,Crew and Transit,Primary,12461
+2013-09-30,Crew and Transit,Secondary,10
+2013-09-30,Other Temporary,Primary,2525
+2013-09-30,Other Temporary,Secondary,60
+2013-09-30,Special Category,Primary,648200
+2013-09-30,Student,Primary,302819
+2013-09-30,Student,Secondary,44143
+2013-09-30,Temporary Graduate,Primary,23309
+2013-09-30,Temporary Graduate,Secondary,7040
+2013-09-30,Temporary Protection,Primary,9
+2013-09-30,Temporary Protection,Secondary,1
+2013-09-30,Temporary Resident (Other Employment),Primary,15938
+2013-09-30,Temporary Resident (Other Employment),Secondary,6171
+2013-09-30,Temporary Resident (Skilled Employment),Primary,110287
+2013-09-30,Temporary Resident (Skilled Employment),Secondary,86159
+2013-09-30,Visitor,Primary,199512
+2013-09-30,Visitor,Secondary,336
+2013-09-30,Working Holiday Maker,Primary,166258
+2013-12-31,Bridging,Primary,69240
+2013-12-31,Bridging,Secondary,354
+2013-12-31,Crew and Transit,Primary,19002
+2013-12-31,Other Temporary,Primary,1945
+2013-12-31,Other Temporary,Secondary,52
+2013-12-31,Special Category,Primary,625366
+2013-12-31,Student,Primary,217111
+2013-12-31,Student,Secondary,40670
+2013-12-31,Temporary Graduate,Primary,18929
+2013-12-31,Temporary Graduate,Secondary,5734
+2013-12-31,Temporary Protection,Primary,29
+2013-12-31,Temporary Protection,Secondary,3
+2013-12-31,Temporary Resident (Other Employment),Primary,14663
+2013-12-31,Temporary Resident (Other Employment),Secondary,6136
+2013-12-31,Temporary Resident (Skilled Employment),Primary,90781
+2013-12-31,Temporary Resident (Skilled Employment),Secondary,78287
+2013-12-31,Visitor,Primary,443209
+2013-12-31,Visitor,Secondary,269
+2013-12-31,Working Holiday Maker,Primary,178982
+2014-03-31,Bridging,Primary,83085
+2014-03-31,Bridging,Secondary,618
+2014-03-31,Crew and Transit,Primary,16596
+2014-03-31,Other Temporary,Primary,2562
+2014-03-31,Other Temporary,Secondary,70
+2014-03-31,Special Category,Primary,644890
+2014-03-31,Student,Primary,321325
+2014-03-31,Student,Secondary,45587
+2014-03-31,Temporary Graduate,Primary,19602
+2014-03-31,Temporary Graduate,Secondary,5504
+2014-03-31,Temporary Protection,Primary,101
+2014-03-31,Temporary Protection,Secondary,7
+2014-03-31,Temporary Resident (Other Employment),Primary,16947
+2014-03-31,Temporary Resident (Other Employment),Secondary,6538
+2014-03-31,Temporary Resident (Skilled Employment),Primary,111781
+2014-03-31,Temporary Resident (Skilled Employment),Secondary,89777
+2014-03-31,Visitor,Primary,233405
+2014-03-31,Visitor,Secondary,89
+2014-03-31,Working Holiday Maker,Primary,174210
+2014-06-30,Bridging,Primary,67325
+2014-06-30,Bridging,Secondary,432
+2014-06-30,Crew and Transit,Primary,11744
+2014-06-30,Other Temporary,Primary,2368
+2014-06-30,Other Temporary,Secondary,61
+2014-06-30,Special Category,Primary,649085
+2014-06-30,Student,Primary,291803
+2014-06-30,Student,Secondary,47958
+2014-06-30,Temporary Graduate,Primary,19546
+2014-06-30,Temporary Graduate,Secondary,5652
+2014-06-30,Temporary Protection,Primary,138
+2014-06-30,Temporary Protection,Secondary,7
+2014-06-30,Temporary Resident (Other Employment),Primary,16199
+2014-06-30,Temporary Resident (Other Employment),Secondary,5973
+2014-06-30,Temporary Resident (Skilled Employment),Primary,108875
+2014-06-30,Temporary Resident (Skilled Employment),Secondary,86208
+2014-06-30,Visitor,Primary,200658
+2014-06-30,Visitor,Secondary,73
+2014-06-30,Working Holiday Maker,Primary,151201
+2014-09-30,Bridging,Primary,71222
+2014-09-30,Bridging,Secondary,468
+2014-09-30,Crew and Transit,Primary,13655
+2014-09-30,Crew and Transit,Secondary,1
+2014-09-30,Other Temporary,Primary,2664
+2014-09-30,Other Temporary,Secondary,57
+2014-09-30,Special Category,Primary,657207
+2014-09-30,Student,Primary,338343
+2014-09-30,Student,Secondary,49454
+2014-09-30,Temporary Graduate,Primary,17161
+2014-09-30,Temporary Graduate,Secondary,4807
+2014-09-30,Temporary Protection,Primary,159
+2014-09-30,Temporary Protection,Secondary,7
+2014-09-30,Temporary Resident (Other Employment),Primary,17220
+2014-09-30,Temporary Resident (Other Employment),Secondary,6186
+2014-09-30,Temporary Resident (Skilled Employment),Primary,109840
+2014-09-30,Temporary Resident (Skilled Employment),Secondary,87094
+2014-09-30,Visitor,Primary,225225
+2014-09-30,Visitor,Secondary,40
+2014-09-30,Working Holiday Maker,Primary,151224
+2014-12-31,Bridging,Primary,60435
+2014-12-31,Bridging,Secondary,360
+2014-12-31,Crew and Transit,Primary,19781
+2014-12-31,Other Temporary,Primary,2006
+2014-12-31,Other Temporary,Secondary,51
+2014-12-31,Special Category,Primary,623438
+2014-12-31,Student,Primary,256002
+2014-12-31,Student,Secondary,47167
+2014-12-31,Temporary Graduate,Primary,15067
+2014-12-31,Temporary Graduate,Secondary,4439
+2014-12-31,Temporary Protection,Primary,162
+2014-12-31,Temporary Protection,Secondary,7
+2014-12-31,Temporary Resident (Other Employment),Primary,16279
+2014-12-31,Temporary Resident (Other Employment),Secondary,6166
+2014-12-31,Temporary Resident (Skilled Employment),Primary,90042
+2014-12-31,Temporary Resident (Skilled Employment),Secondary,77869
+2014-12-31,Visitor,Primary,467695
+2014-12-31,Visitor,Secondary,53
+2014-12-31,Working Holiday Maker,Primary,160940
+2014-12-31,Working Holiday Maker,Secondary,1
+2015-03-31,Bridging,Primary,74312
+2015-03-31,Bridging,Secondary,597
+2015-03-31,Crew and Transit,Primary,21068
+2015-03-31,Other Temporary,Primary,2826
+2015-03-31,Other Temporary,Secondary,71
+2015-03-31,Special Category,Primary,648993
+2015-03-31,Student,Primary,361740
+2015-03-31,Student,Secondary,51381
+2015-03-31,Temporary Graduate,Primary,18220
+2015-03-31,Temporary Graduate,Secondary,4801
+2015-03-31,Temporary Protection,Primary,162
+2015-03-31,Temporary Protection,Secondary,7
+2015-03-31,Temporary Resident (Other Employment),Primary,18818
+2015-03-31,Temporary Resident (Other Employment),Secondary,6743
+2015-03-31,Temporary Resident (Skilled Employment),Primary,106755
+2015-03-31,Temporary Resident (Skilled Employment),Secondary,86403
+2015-03-31,Visitor,Primary,284830
+2015-03-31,Visitor,Secondary,24
+2015-03-31,Working Holiday Maker,Primary,160275
+2015-06-30,Bridging,Primary,64875
+2015-06-30,Bridging,Secondary,394
+2015-06-30,Crew and Transit,Primary,14534
+2015-06-30,Other Temporary,Primary,2619
+2015-06-30,Other Temporary,Secondary,68
+2015-06-30,Special Category,Primary,653832
+2015-06-30,Student,Primary,321610
+2015-06-30,Student,Secondary,52954
+2015-06-30,Temporary Graduate,Primary,20757
+2015-06-30,Temporary Graduate,Secondary,5503
+2015-06-30,Temporary Protection,Primary,193
+2015-06-30,Temporary Protection,Secondary,11
+2015-06-30,Temporary Resident (Other Employment),Primary,18103
+2015-06-30,Temporary Resident (Other Employment),Secondary,6259
+2015-06-30,Temporary Resident (Skilled Employment),Primary,104755
+2015-06-30,Temporary Resident (Skilled Employment),Secondary,83247
+2015-06-30,Visitor,Primary,226372
+2015-06-30,Visitor,Secondary,23
+2015-06-30,Working Holiday Maker,Primary,143918
+2015-09-30,Bridging,Primary,74348
+2015-09-30,Bridging,Secondary,483
+2015-09-30,Crew and Transit,Primary,15839
+2015-09-30,Other Temporary,Primary,2984
+2015-09-30,Other Temporary,Secondary,68
+2015-09-30,Special Category,Primary,661547
+2015-09-30,Student,Primary,372884
+2015-09-30,Student,Secondary,52857
+2015-09-30,Temporary Graduate,Primary,20213
+2015-09-30,Temporary Graduate,Secondary,5303
+2015-09-30,Temporary Protection,Primary,244
+2015-09-30,Temporary Protection,Secondary,22
+2015-09-30,Temporary Resident (Other Employment),Primary,18992
+2015-09-30,Temporary Resident (Other Employment),Secondary,6571
+2015-09-30,Temporary Resident (Skilled Employment),Primary,103862
+2015-09-30,Temporary Resident (Skilled Employment),Secondary,82943
+2015-09-30,Visitor,Primary,258055
+2015-09-30,Visitor,Secondary,22
+2015-09-30,Working Holiday Maker,Primary,144451
+2015-12-31,Bridging,Primary,71381
+2015-12-31,Bridging,Secondary,474
+2015-12-31,Crew and Transit,Primary,23100
+2015-12-31,Other Temporary,Primary,2101
+2015-12-31,Other Temporary,Secondary,68
+2015-12-31,Special Category,Primary,634562
+2015-12-31,Student,Primary,278970
+2015-12-31,Student,Secondary,49159
+2015-12-31,Temporary Graduate,Primary,18770
+2015-12-31,Temporary Graduate,Secondary,5100
+2015-12-31,Temporary Protection,Primary,509
+2015-12-31,Temporary Protection,Secondary,80
+2015-12-31,Temporary Resident (Other Employment),Primary,17022
+2015-12-31,Temporary Resident (Other Employment),Secondary,6439
+2015-12-31,Temporary Resident (Skilled Employment),Primary,85903
+2015-12-31,Temporary Resident (Skilled Employment),Secondary,74002
+2015-12-31,Visitor,Primary,517075
+2015-12-31,Visitor,Secondary,15
+2015-12-31,Working Holiday Maker,Primary,155183
+2016-03-31,Bridging,Primary,97027
+2016-03-31,Bridging,Secondary,844
+2016-03-31,Crew and Transit,Primary,21004
+2016-03-31,Other Temporary,Primary,3173
+2016-03-31,Other Temporary,Secondary,81
+2016-03-31,Special Category,Primary,651391
+2016-03-31,Student,Primary,392198
+2016-03-31,Student,Secondary,51996
+2016-03-31,Temporary Graduate,Primary,23034
+2016-03-31,Temporary Graduate,Secondary,6023
+2016-03-31,Temporary Protection,Primary,872
+2016-03-31,Temporary Protection,Secondary,155
+2016-03-31,Temporary Resident (Other Employment),Primary,20003
+2016-03-31,Temporary Resident (Other Employment),Secondary,7042
+2016-03-31,Temporary Resident (Skilled Employment),Primary,97768
+2016-03-31,Temporary Resident (Skilled Employment),Secondary,79627
+2016-03-31,Visitor,Primary,326158
+2016-03-31,Visitor,Secondary,20
+2016-03-31,Working Holiday Maker,Primary,153855
+2016-06-30,Bridging,Primary,80963
+2016-06-30,Bridging,Secondary,609
+2016-06-30,Crew and Transit,Primary,13608
+2016-06-30,Other Temporary,Primary,2922
+2016-06-30,Other Temporary,Secondary,78
+2016-06-30,Special Category,Primary,660182
+2016-06-30,Student,Primary,347889
+2016-06-30,Student,Secondary,53534
+2016-06-30,Temporary Graduate,Primary,29794
+2016-06-30,Temporary Graduate,Secondary,7923
+2016-06-30,Temporary Protection,Primary,1340
+2016-06-30,Temporary Protection,Secondary,246
+2016-06-30,Temporary Resident (Other Employment),Primary,19015
+2016-06-30,Temporary Resident (Other Employment),Secondary,6444
+2016-06-30,Temporary Resident (Skilled Employment),Primary,94889
+2016-06-30,Temporary Resident (Skilled Employment),Secondary,75696
+2016-06-30,Visitor,Primary,262429
+2016-06-30,Visitor,Secondary,16
+2016-06-30,Working Holiday Maker,Primary,137376
+2016-09-30,Bridging,Primary,95538
+2016-09-30,Bridging,Secondary,839
+2016-09-30,Crew and Transit,Primary,12511
+2016-09-30,Other Temporary,Primary,3357
+2016-09-30,Other Temporary,Secondary,85
+2016-09-30,Special Category,Primary,677029
+2016-09-30,Student,Primary,417017
+2016-09-30,Student,Secondary,53794
+2016-09-30,Temporary Graduate,Primary,30249
+2016-09-30,Temporary Graduate,Secondary,8389
+2016-09-30,Temporary Protection,Primary,2390
+2016-09-30,Temporary Protection,Secondary,446
+2016-09-30,Temporary Resident (Other Employment),Primary,19912
+2016-09-30,Temporary Resident (Other Employment),Secondary,6762
+2016-09-30,Temporary Resident (Skilled Employment),Primary,95758
+2016-09-30,Temporary Resident (Skilled Employment),Secondary,76433
+2016-09-30,Visitor,Primary,279908
+2016-09-30,Visitor,Secondary,14
+2016-09-30,Working Holiday Maker,Primary,138029
+2016-12-31,Bridging,Primary,91193
+2016-12-31,Bridging,Secondary,862
+2016-12-31,Crew and Transit,Primary,24973
+2016-12-31,Other Temporary,Primary,2291
+2016-12-31,Other Temporary,Secondary,67
+2016-12-31,Special Category,Primary,646828
+2016-12-31,Student,Primary,306079
+2016-12-31,Student,Secondary,49676
+2016-12-31,Temporary Graduate,Primary,28625
+2016-12-31,Temporary Graduate,Secondary,8613
+2016-12-31,Temporary Protection,Primary,3304
+2016-12-31,Temporary Protection,Secondary,629
+2016-12-31,Temporary Resident (Other Employment),Primary,18146
+2016-12-31,Temporary Resident (Other Employment),Secondary,6694
+2016-12-31,Temporary Resident (Skilled Employment),Primary,81299
+2016-12-31,Temporary Resident (Skilled Employment),Secondary,68924
+2016-12-31,Visitor,Primary,565745
+2016-12-31,Visitor,Secondary,14
+2016-12-31,Working Holiday Maker,Primary,148495
+2017-03-31,Bridging,Primary,119140
+2017-03-31,Bridging,Secondary,1097
+2017-03-31,Crew and Transit,Primary,21451
+2017-03-31,Other Temporary,Primary,3875
+2017-03-31,Other Temporary,Secondary,90
+2017-03-31,Special Category,Primary,666324
+2017-03-31,Student,Primary,451474
+2017-03-31,Student,Secondary,51238
+2017-03-31,Temporary Graduate,Primary,34105
+2017-03-31,Temporary Graduate,Secondary,9829
+2017-03-31,Temporary Protection,Primary,4665
+2017-03-31,Temporary Protection,Secondary,919
+2017-03-31,Temporary Resident (Other Employment),Primary,21308
+2017-03-31,Temporary Resident (Other Employment),Secondary,7223
+2017-03-31,Temporary Resident (Skilled Employment),Primary,95360
+2017-03-31,Temporary Resident (Skilled Employment),Secondary,75341
+2017-03-31,Visitor,Primary,329529
+2017-03-31,Visitor,Secondary,14
+2017-03-31,Working Holiday Maker,Primary,150059
+2017-06-30,Bridging,Primary,104903
+2017-06-30,Bridging,Secondary,1020
+2017-06-30,Crew and Transit,Primary,13428
+2017-06-30,Other Temporary,Primary,3492
+2017-06-30,Other Temporary,Secondary,80
+2017-06-30,Special Category,Primary,665394
+2017-06-30,Student,Primary,387419
+2017-06-30,Student,Secondary,56379
+2017-06-30,Temporary Graduate,Primary,41498
+2017-06-30,Temporary Graduate,Secondary,12084
+2017-06-30,Temporary Protection,Primary,6144
+2017-06-30,Temporary Protection,Secondary,1407
+2017-06-30,Temporary Resident (Other Employment),Primary,20729
+2017-06-30,Temporary Resident (Other Employment),Secondary,6722
+2017-06-30,Temporary Resident (Skilled Employment),Primary,90592
+2017-06-30,Temporary Resident (Skilled Employment),Secondary,70821
+2017-06-30,Visitor,Primary,294354
+2017-06-30,Visitor,Secondary,14
+2017-06-30,Working Holiday Maker,Primary,134269
+2017-09-30,Bridging,Primary,128975
+2017-09-30,Bridging,Secondary,1134
+2017-09-30,Crew and Transit,Primary,12092
+2017-09-30,Other Temporary,Primary,4145
+2017-09-30,Other Temporary,Secondary,92
+2017-09-30,Special Category,Primary,674569
+2017-09-30,Student,Primary,457171
+2017-09-30,Student,Secondary,55933
+2017-09-30,Temporary Graduate,Primary,42932
+2017-09-30,Temporary Graduate,Secondary,12516
+2017-09-30,Temporary Protection,Primary,7119
+2017-09-30,Temporary Protection,Secondary,1831
+2017-09-30,Temporary Resident (Other Employment),Primary,22898
+2017-09-30,Temporary Resident (Other Employment),Secondary,6801
+2017-09-30,Temporary Resident (Skilled Employment),Primary,90045
+2017-09-30,Temporary Resident (Skilled Employment),Secondary,70251
+2017-09-30,Visitor,Primary,316638
+2017-09-30,Working Holiday Maker,Primary,136925
+2017-12-31,Bridging,Primary,129171
+2017-12-31,Bridging,Secondary,1279
+2017-12-31,Crew and Transit,Primary,24079
+2017-12-31,Other Temporary,Primary,2690
+2017-12-31,Other Temporary,Secondary,77
+2017-12-31,Special Category,Primary,653429
+2017-12-31,Student,Primary,330903
+2017-12-31,Student,Secondary,53010
+2017-12-31,Temporary Graduate,Primary,41110
+2017-12-31,Temporary Graduate,Secondary,13144
+2017-12-31,Temporary Protection,Primary,8084
+2017-12-31,Temporary Protection,Secondary,2222
+2017-12-31,Temporary Resident (Other Employment),Primary,20515
+2017-12-31,Temporary Resident (Other Employment),Secondary,6702
+2017-12-31,Temporary Resident (Skilled Employment),Primary,75608
+2017-12-31,Temporary Resident (Skilled Employment),Secondary,62535
+2017-12-31,Visitor,Primary,609620
+2017-12-31,Working Holiday Maker,Primary,146431
+2018-03-31,Bridging,Primary,165120
+2018-03-31,Bridging,Secondary,1119
+2018-03-31,Crew and Transit,Primary,20452
+2018-03-31,Other Temporary,Primary,4552
+2018-03-31,Other Temporary,Secondary,110
+2018-03-31,Special Category,Primary,669115
+2018-03-31,Student,Primary,479545
+2018-03-31,Student,Secondary,56266
+2018-03-31,Temporary Graduate,Primary,50133
+2018-03-31,Temporary Graduate,Secondary,15113
+2018-03-31,Temporary Protection,Primary,8675
+2018-03-31,Temporary Protection,Secondary,2684
+2018-03-31,Temporary Resident (Other Employment),Primary,30091
+2018-03-31,Temporary Resident (Other Employment),Secondary,7527
+2018-03-31,Temporary Resident (Skilled Employment),Primary,84676
+2018-03-31,Temporary Resident (Skilled Employment),Secondary,66920
+2018-03-31,Visitor,Primary,394889
+2018-03-31,Working Holiday Maker,Primary,148124
+2018-06-30,Bridging,Primary,147430
+2018-06-30,Bridging,Secondary,578
+2018-06-30,Crew and Transit,Primary,13075
+2018-06-30,Other Temporary,Primary,4404
+2018-06-30,Other Temporary,Secondary,104
+2018-06-30,Special Category,Primary,673198
+2018-06-30,Student,Primary,425141
+2018-06-30,Student,Secondary,61793
+2018-06-30,Temporary Graduate,Primary,54603
+2018-06-30,Temporary Graduate,Secondary,16554
+2018-06-30,Temporary Protection,Primary,9481
+2018-06-30,Temporary Protection,Secondary,3057
+2018-06-30,Temporary Resident (Other Employment),Primary,24539
+2018-06-30,Temporary Resident (Other Employment),Secondary,7024
+2018-06-30,Temporary Resident (Skilled Employment),Primary,83474
+2018-06-30,Temporary Resident (Skilled Employment),Secondary,63865
+2018-06-30,Visitor,Primary,304140
+2018-06-30,Working Holiday Maker,Primary,134909
+2018-09-30,Bridging,Primary,169902
+2018-09-30,Bridging,Secondary,400
+2018-09-30,Crew and Transit,Primary,15828
+2018-09-30,Other Temporary,Primary,4820
+2018-09-30,Other Temporary,Secondary,108
+2018-09-30,Special Category,Primary,682440
+2018-09-30,Student,Primary,511551
+2018-09-30,Student,Secondary,63786
+2018-09-30,Temporary Graduate,Primary,56785
+2018-09-30,Temporary Graduate,Secondary,17521
+2018-09-30,Temporary Protection,Primary,9994
+2018-09-30,Temporary Protection,Secondary,3364
+2018-09-30,Temporary Resident (Other Employment),Primary,26197
+2018-09-30,Temporary Resident (Other Employment),Secondary,7411
+2018-09-30,Temporary Resident (Skilled Employment),Primary,86666
+2018-09-30,Temporary Resident (Skilled Employment),Secondary,66280
+2018-09-30,Visitor,Primary,325729
+2018-09-30,Working Holiday Maker,Primary,136467
+2018-12-31,Bridging,Primary,161849
+2018-12-31,Bridging,Secondary,252
+2018-12-31,Crew and Transit,Primary,25112
+2018-12-31,Other Temporary,Primary,2894
+2018-12-31,Other Temporary,Secondary,83
+2018-12-31,Special Category,Primary,656983
+2018-12-31,Student,Primary,372052
+2018-12-31,Student,Secondary,61572
+2018-12-31,Temporary Graduate,Primary,52582
+2018-12-31,Temporary Graduate,Secondary,17467
+2018-12-31,Temporary Protection,Primary,10442
+2018-12-31,Temporary Protection,Secondary,3751
+2018-12-31,Temporary Resident (Other Employment),Primary,23213
+2018-12-31,Temporary Resident (Other Employment),Secondary,6965
+2018-12-31,Temporary Resident (Skilled Employment),Primary,73948
+2018-12-31,Temporary Resident (Skilled Employment),Secondary,62059
+2018-12-31,Visitor,Primary,630196
+2018-12-31,Visitor,Secondary,1
+2018-12-31,Working Holiday Maker,Primary,145479
+2019-03-31,Bridging,Primary,202658
+2019-03-31,Bridging,Secondary,258
+2019-03-31,Crew and Transit,Primary,24636
+2019-03-31,Other Temporary,Primary,5309
+2019-03-31,Other Temporary,Secondary,110
+2019-03-31,Special Category,Primary,676084
+2019-03-31,Student,Primary,548217
+2019-03-31,Student,Secondary,64608
+2019-03-31,Temporary Graduate,Primary,61553
+2019-03-31,Temporary Graduate,Secondary,19201
+2019-03-31,Temporary Protection,Primary,10748
+2019-03-31,Temporary Protection,Secondary,3988
+2019-03-31,Temporary Resident (Other Employment),Primary,27755
+2019-03-31,Temporary Resident (Other Employment),Secondary,7772
+2019-03-31,Temporary Resident (Skilled Employment),Primary,85916
+2019-03-31,Temporary Resident (Skilled Employment),Secondary,68289
+2019-03-31,Visitor,Primary,348161
+2019-03-31,Visitor,Secondary,1
+2019-03-31,Working Holiday Maker,Primary,149143
+2019-06-30,Bridging,Primary,179626
+2019-06-30,Bridging,Secondary,295
+2019-06-30,Crew and Transit,Primary,12076
+2019-06-30,Other Temporary,Primary,4811
+2019-06-30,Other Temporary,Secondary,113
+2019-06-30,Special Category,Primary,678658
+2019-06-30,Student,Primary,482909
+2019-06-30,Student,Secondary,70230
+2019-06-30,Temporary Graduate,Primary,70172
+2019-06-30,Temporary Graduate,Secondary,21604
+2019-06-30,Temporary Protection,Primary,11252
+2019-06-30,Temporary Protection,Secondary,4161
+2019-06-30,Temporary Resident (Other Employment),Primary,27068
+2019-06-30,Temporary Resident (Other Employment),Secondary,7553
+2019-06-30,Temporary Resident (Skilled Employment),Primary,80064
+2019-06-30,Temporary Resident (Skilled Employment),Secondary,62764
+2019-06-30,Visitor,Primary,316469
+2019-06-30,Working Holiday Maker,Primary,135263
+2019-09-30,Bridging,Primary,203598
+2019-09-30,Bridging,Secondary,288
+2019-09-30,Crew and Transit,Primary,11832
+2019-09-30,Other Temporary,Primary,5111
+2019-09-30,Other Temporary,Secondary,117
+2019-09-30,Special Category,Primary,685172
+2019-09-30,Student,Primary,561439
+2019-09-30,Student,Secondary,72377
+2019-09-30,Temporary Graduate,Primary,72093
+2019-09-30,Temporary Graduate,Secondary,22564
+2019-09-30,Temporary Protection,Primary,11592
+2019-09-30,Temporary Protection,Secondary,4344
+2019-09-30,Temporary Resident (Other Employment),Primary,28308
+2019-09-30,Temporary Resident (Other Employment),Secondary,7797
+2019-09-30,Temporary Resident (Skilled Employment),Primary,78327
+2019-09-30,Temporary Resident (Skilled Employment),Secondary,60940
+2019-09-30,Visitor,Primary,337562
+2019-09-30,Visitor,Secondary,1
+2019-09-30,Working Holiday Maker,Primary,135124
+2019-12-31,Bridging,Primary,191364
+2019-12-31,Bridging,Secondary,291
+2019-12-31,Crew and Transit,Primary,23748
+2019-12-31,Other Temporary,Primary,3157
+2019-12-31,Other Temporary,Secondary,83
+2019-12-31,Special Category,Primary,668687
+2019-12-31,Student,Primary,410206
+2019-12-31,Student,Secondary,70337
+2019-12-31,Temporary Graduate,Primary,66855
+2019-12-31,Temporary Graduate,Secondary,22469
+2019-12-31,Temporary Protection,Primary,11962
+2019-12-31,Temporary Protection,Secondary,4547
+2019-12-31,Temporary Resident (Other Employment),Primary,25784
+2019-12-31,Temporary Resident (Other Employment),Secondary,7539
+2019-12-31,Temporary Resident (Skilled Employment),Primary,64585
+2019-12-31,Temporary Resident (Skilled Employment),Secondary,54575
+2019-12-31,Visitor,Primary,635108
+2019-12-31,Visitor,Secondary,1
+2019-12-31,Working Holiday Maker,Primary,141142
+2020-03-31,Bridging,Primary,256234
+2020-03-31,Bridging,Secondary,295
+2020-03-31,Crew and Transit,Primary,26252
+2020-03-31,Other Temporary,Primary,5285
+2020-03-31,Other Temporary,Secondary,107
+2020-03-31,Special Category,Primary,672432
+2020-03-31,Student,Primary,496793
+2020-03-31,Student,Secondary,71131
+2020-03-31,Temporary Graduate,Primary,73287
+2020-03-31,Temporary Graduate,Secondary,23532
+2020-03-31,Temporary Protection,Primary,12499
+2020-03-31,Temporary Protection,Secondary,4724
+2020-03-31,Temporary Resident (Other Employment),Primary,26432
+2020-03-31,Temporary Resident (Other Employment),Secondary,7676
+2020-03-31,Temporary Resident (Skilled Employment),Primary,77691
+2020-03-31,Temporary Resident (Skilled Employment),Secondary,61640
+2020-03-31,Visitor,Primary,206024
+2020-03-31,Visitor,Secondary,1
+2020-03-31,Working Holiday Maker,Primary,119266
+2020-06-30,Bridging,Primary,303520
+2020-06-30,Bridging,Secondary,318
+2020-06-30,Crew and Transit,Primary,9044
+2020-06-30,Other Temporary,Primary,5287
+2020-06-30,Other Temporary,Secondary,100
+2020-06-30,Special Category,Primary,667288
+2020-06-30,Student,Primary,482876
+2020-06-30,Student,Secondary,72434
+2020-06-30,Temporary Graduate,Primary,76940
+2020-06-30,Temporary Graduate,Secondary,23299
+2020-06-30,Temporary Protection,Primary,12775
+2020-06-30,Temporary Protection,Secondary,4872
+2020-06-30,Temporary Resident (Other Employment),Primary,20611
+2020-06-30,Temporary Resident (Other Employment),Secondary,7029
+2020-06-30,Temporary Resident (Skilled Employment),Primary,71404
+2020-06-30,Temporary Resident (Skilled Employment),Secondary,56741
+2020-06-30,Visitor,Primary,93494
+2020-06-30,Working Holiday Maker,Primary,85691
+2020-09-30,Bridging,Primary,307122
+2020-09-30,Bridging,Secondary,341
+2020-09-30,Crew and Transit,Primary,8337
+2020-09-30,Other Temporary,Primary,5055
+2020-09-30,Other Temporary,Secondary,100
+2020-09-30,Special Category,Primary,657178
+2020-09-30,Special Category,Secondary,8
+2020-09-30,Student,Primary,412030
+2020-09-30,Student,Secondary,64353
+2020-09-30,Temporary Graduate,Primary,82747
+2020-09-30,Temporary Graduate,Secondary,25118
+2020-09-30,Temporary Protection,Primary,12839
+2020-09-30,Temporary Protection,Secondary,4947
+2020-09-30,Temporary Resident (Other Employment),Primary,19969
+2020-09-30,Temporary Resident (Other Employment),Secondary,6272
+2020-09-30,Temporary Resident (Skilled Employment),Primary,65358
+2020-09-30,Temporary Resident (Skilled Employment),Secondary,51958
+2020-09-30,Visitor,Primary,86748
+2020-09-30,Working Holiday Maker,Primary,65066
+2020-12-31,Bridging,Primary,305277
+2020-12-31,Bridging,Secondary,339
+2020-12-31,Crew and Transit,Primary,8997
+2020-12-31,Other Temporary,Primary,4739
+2020-12-31,Other Temporary,Secondary,96
+2020-12-31,Special Category,Primary,656673
+2020-12-31,Special Category,Secondary,7
+2020-12-31,Student,Primary,385828
+2020-12-31,Student,Secondary,64104
+2020-12-31,Temporary Graduate,Primary,80702
+2020-12-31,Temporary Graduate,Secondary,23927
+2020-12-31,Temporary Protection,Primary,12959
+2020-12-31,Temporary Protection,Secondary,4960
+2020-12-31,Temporary Resident (Other Employment),Primary,22827
+2020-12-31,Temporary Resident (Other Employment),Secondary,6482
+2020-12-31,Temporary Resident (Skilled Employment),Primary,61137
+2020-12-31,Temporary Resident (Skilled Employment),Secondary,49201
+2020-12-31,Visitor,Primary,57786
+2020-12-31,Working Holiday Maker,Primary,49541
+2020-12-31,Working Holiday Maker,Secondary,1
+2021-03-31,Bridging,Primary,359617
+2021-03-31,Bridging,Secondary,364
+2021-03-31,Crew and Transit,Primary,10455
+2021-03-31,Other Temporary,Primary,3860
+2021-03-31,Other Temporary,Secondary,84
+2021-03-31,Special Category,Primary,659248
+2021-03-31,Special Category,Secondary,6
+2021-03-31,Student,Primary,323126
+2021-03-31,Student,Secondary,54659
+2021-03-31,Temporary Graduate,Primary,77754
+2021-03-31,Temporary Graduate,Secondary,22571
+2021-03-31,Temporary Protection,Primary,13058
+2021-03-31,Temporary Protection,Secondary,5050
+2021-03-31,Temporary Resident (Other Employment),Primary,25912
+2021-03-31,Temporary Resident (Other Employment),Secondary,6582
+2021-03-31,Temporary Resident (Skilled Employment),Primary,57954
+2021-03-31,Temporary Resident (Skilled Employment),Secondary,46379
+2021-03-31,Visitor,Primary,28741
+2021-03-31,Working Holiday Maker,Primary,38629
+2021-03-31,Working Holiday Maker,Secondary,1
+2021-06-30,Bridging,Primary,310406
+2021-06-30,Bridging,Secondary,354
+2021-06-30,Crew and Transit,Primary,9874
+2021-06-30,Other Temporary,Primary,3888
+2021-06-30,Other Temporary,Secondary,84
+2021-06-30,Special Category,Primary,663896
+2021-06-30,Special Category,Secondary,6
+2021-06-30,Student,Primary,319567
+2021-06-30,Student,Secondary,54489
+2021-06-30,Temporary Graduate,Primary,69129
+2021-06-30,Temporary Graduate,Secondary,19565
+2021-06-30,Temporary Protection,Primary,13159
+2021-06-30,Temporary Protection,Secondary,5169
+2021-06-30,Temporary Resident (Other Employment),Primary,29048
+2021-06-30,Temporary Resident (Other Employment),Secondary,6586
+2021-06-30,Temporary Resident (Skilled Employment),Primary,55031
+2021-06-30,Temporary Resident (Skilled Employment),Secondary,43998
+2021-06-30,Visitor,Primary,40810
+2021-06-30,Working Holiday Maker,Primary,36525
+2021-06-30,Working Holiday Maker,Secondary,1
+2021-09-30,Bridging,Primary,330441
+2021-09-30,Bridging,Secondary,367
+2021-09-30,Crew and Transit,Primary,9026
+2021-09-30,Other Temporary,Primary,3680
+2021-09-30,Other Temporary,Secondary,81
+2021-09-30,Special Category,Primary,657818
+2021-09-30,Special Category,Secondary,5
+2021-09-30,Student,Primary,271089
+2021-09-30,Student,Secondary,46826
+2021-09-30,Temporary Graduate,Primary,75846
+2021-09-30,Temporary Graduate,Secondary,19196
+2021-09-30,Temporary Protection,Primary,13320
+2021-09-30,Temporary Protection,Secondary,5288
+2021-09-30,Temporary Resident (Other Employment),Primary,32541
+2021-09-30,Temporary Resident (Other Employment),Secondary,6664
+2021-09-30,Temporary Resident (Skilled Employment),Primary,52861
+2021-09-30,Temporary Resident (Skilled Employment),Secondary,42174
+2021-09-30,Visitor,Primary,38728
+2021-09-30,Working Holiday Maker,Primary,29821
+2021-12-31,Bridging,Primary,332977
+2021-12-31,Bridging,Secondary,380
+2021-12-31,Crew and Transit,Primary,10511
+2021-12-31,Other Temporary,Primary,3457
+2021-12-31,Other Temporary,Secondary,84
+2021-12-31,Special Category,Primary,656984
+2021-12-31,Special Category,Secondary,4
+2021-12-31,Student,Primary,268529
+2021-12-31,Student,Secondary,47420
+2021-12-31,Temporary Graduate,Primary,73674
+2021-12-31,Temporary Graduate,Secondary,21585
+2021-12-31,Temporary Protection,Primary,13447
+2021-12-31,Temporary Protection,Secondary,5354
+2021-12-31,Temporary Resident (Other Employment),Primary,38752
+2021-12-31,Temporary Resident (Other Employment),Secondary,6841
+2021-12-31,Temporary Resident (Skilled Employment),Primary,49582
+2021-12-31,Temporary Resident (Skilled Employment),Secondary,41155
+2021-12-31,Visitor,Primary,66583
+2021-12-31,Working Holiday Maker,Primary,19324
+2022-03-31,Bridging,Primary,372715
+2022-03-31,Bridging,Secondary,394
+2022-03-31,Crew and Transit,Primary,10174
+2022-03-31,Other Temporary,Primary,3287
+2022-03-31,Other Temporary,Secondary,81
+2022-03-31,Special Category,Primary,659957
+2022-03-31,Special Category,Secondary,4
+2022-03-31,Student,Primary,292228
+2022-03-31,Student,Secondary,44616
+2022-03-31,Temporary Graduate,Primary,74311
+2022-03-31,Temporary Graduate,Secondary,22778
+2022-03-31,Temporary Protection,Primary,13487
+2022-03-31,Temporary Protection,Secondary,5499
+2022-03-31,Temporary Resident (Other Employment),Primary,44414
+2022-03-31,Temporary Resident (Other Employment),Secondary,7890
+2022-03-31,Temporary Resident (Skilled Employment),Primary,52439
+2022-03-31,Temporary Resident (Skilled Employment),Secondary,43500
+2022-03-31,Visitor,Primary,144982
+2022-03-31,Working Holiday Maker,Primary,23021
+2022-06-30,Bridging,Primary,344439
+2022-06-30,Bridging,Secondary,393
+2022-06-30,Crew and Transit,Primary,12969
+2022-06-30,Other Temporary,Primary,3535
+2022-06-30,Other Temporary,Secondary,85
+2022-06-30,Special Category,Primary,668268
+2022-06-30,Special Category,Secondary,5
+2022-06-30,Student,Primary,311552
+2022-06-30,Student,Secondary,46367
+2022-06-30,Temporary Graduate,Primary,74365
+2022-06-30,Temporary Graduate,Secondary,24268
+2022-06-30,Temporary Protection,Primary,15151
+2022-06-30,Temporary Protection,Secondary,5623
+2022-06-30,Temporary Resident (Other Employment),Primary,49388
+2022-06-30,Temporary Resident (Other Employment),Secondary,8274
+2022-06-30,Temporary Resident (Skilled Employment),Primary,51767
+2022-06-30,Temporary Resident (Skilled Employment),Secondary,42806
+2022-06-30,Visitor,Primary,219607
+2022-06-30,Working Holiday Maker,Primary,40912
+2022-09-30,Bridging,Primary,368796
+2022-09-30,Bridging,Secondary,386
+2022-09-30,Crew and Transit,Primary,14200
+2022-09-30,Other Temporary,Primary,3906
+2022-09-30,Other Temporary,Secondary,87
+2022-09-30,Special Category,Primary,680044
+2022-09-30,Special Category,Secondary,3
+2022-09-30,Student,Primary,371976
+2022-09-30,Student,Secondary,47349
+2022-09-30,Temporary Graduate,Primary,88736
+2022-09-30,Temporary Graduate,Secondary,26293
+2022-09-30,Temporary Protection,Primary,17746
+2022-09-30,Temporary Protection,Secondary,5694
+2022-09-30,Temporary Resident (Other Employment),Primary,51971
+2022-09-30,Temporary Resident (Other Employment),Secondary,9526
+2022-09-30,Temporary Resident (Skilled Employment),Primary,58207
+2022-09-30,Temporary Resident (Skilled Employment),Secondary,47684
+2022-09-30,Visitor,Primary,271301
+2022-09-30,Working Holiday Maker,Primary,71704
+2022-12-31,Bridging,Primary,203140
+2022-12-31,Bridging,Secondary,354
+2022-12-31,Crew and Transit,Primary,23120
+2022-12-31,Other Temporary,Primary,3442
+2022-12-31,Other Temporary,Secondary,77
+2022-12-31,Special Category,Primary,666169
+2022-12-31,Special Category,Secondary,3
+2022-12-31,Student,Primary,395478
+2022-12-31,Student,Secondary,61492
+2022-12-31,Temporary Graduate,Primary,110272
+2022-12-31,Temporary Graduate,Secondary,34422
+2022-12-31,Temporary Protection,Primary,17636
+2022-12-31,Temporary Protection,Secondary,5811
+2022-12-31,Temporary Resident (Other Employment),Primary,90371
+2022-12-31,Temporary Resident (Other Employment),Secondary,16119
+2022-12-31,Temporary Resident (Skilled Employment),Primary,56163
+2022-12-31,Temporary Resident (Skilled Employment),Secondary,49156
+2022-12-31,Visitor,Primary,530283
+2022-12-31,Working Holiday Maker,Primary,112335
+2023-03-31,Bridging,Primary,193629
+2023-03-31,Bridging,Secondary,359
+2023-03-31,Crew and Transit,Primary,23832
+2023-03-31,Other Temporary,Primary,4259
+2023-03-31,Other Temporary,Secondary,92
+2023-03-31,Special Category,Primary,687134
+2023-03-31,Special Category,Secondary,3
+2023-03-31,Student,Primary,513958
+2023-03-31,Student,Secondary,68800
+2023-03-31,Temporary Graduate,Primary,135199
+2023-03-31,Temporary Graduate,Secondary,47976
+2023-03-31,Temporary Protection,Primary,17063
+2023-03-31,Temporary Protection,Secondary,5761
+2023-03-31,Temporary Resident (Other Employment),Primary,117935
+2023-03-31,Temporary Resident (Other Employment),Secondary,22443
+2023-03-31,Temporary Resident (Skilled Employment),Primary,67470
+2023-03-31,Temporary Resident (Skilled Employment),Secondary,57223
+2023-03-31,Visitor,Primary,347363
+2023-03-31,Working Holiday Maker,Primary,136621
+2023-06-30,Bridging,Primary,176496
+2023-06-30,Bridging,Secondary,360
+2023-06-30,Crew and Transit,Primary,13838
+2023-06-30,Other Temporary,Primary,4211
+2023-06-30,Other Temporary,Secondary,81
+2023-06-30,Special Category,Primary,697955
+2023-06-30,Special Category,Secondary,2
+2023-06-30,Student,Primary,491056
+2023-06-30,Student,Secondary,77697
+2023-06-30,Temporary Graduate,Primary,145282
+2023-06-30,Temporary Graduate,Secondary,54490
+2023-06-30,Temporary Protection,Primary,14967
+2023-06-30,Temporary Protection,Secondary,4823
+2023-06-30,Temporary Resident (Other Employment),Primary,143630
+2023-06-30,Temporary Resident (Other Employment),Secondary,26982
+2023-06-30,Temporary Resident (Skilled Employment),Primary,70377
+2023-06-30,Temporary Resident (Skilled Employment),Secondary,59627
+2023-06-30,Visitor,Primary,330449
+2023-06-30,Working Holiday Maker,Primary,137391
+2023-09-30,Bridging,Primary,190908
+2023-09-30,Bridging,Secondary,327
+2023-09-30,Crew and Transit,Primary,13724
+2023-09-30,Other Temporary,Primary,5127
+2023-09-30,Other Temporary,Secondary,89
+2023-09-30,Special Category,Primary,717716
+2023-09-30,Special Category,Secondary,2
+2023-09-30,Student,Primary,581616
+2023-09-30,Student,Secondary,82562
+2023-09-30,Temporary Graduate,Primary,138534
+2023-09-30,Temporary Graduate,Secondary,54743
+2023-09-30,Temporary Protection,Primary,12287
+2023-09-30,Temporary Protection,Secondary,3302
+2023-09-30,Temporary Resident (Other Employment),Primary,169743
+2023-09-30,Temporary Resident (Other Employment),Secondary,30551
+2023-09-30,Temporary Resident (Skilled Employment),Primary,75558
+2023-09-30,Temporary Resident (Skilled Employment),Secondary,64178
+2023-09-30,Visitor,Primary,339919
+2023-09-30,Working Holiday Maker,Primary,144685
+2023-12-31,Bridging,Primary,211257
+2023-12-31,Bridging,Secondary,313
+2023-12-31,Crew and Transit,Primary,29212
+2023-12-31,Other Temporary,Primary,3515
+2023-12-31,Other Temporary,Secondary,73
+2023-12-31,Special Category,Primary,701866
+2023-12-31,Special Category,Secondary,2
+2023-12-31,Student,Primary,464941
+2023-12-31,Student,Secondary,82134
+2023-12-31,Temporary Graduate,Primary,126615
+2023-12-31,Temporary Graduate,Secondary,53215
+2023-12-31,Temporary Protection,Primary,8492
+2023-12-31,Temporary Protection,Secondary,2062
+2023-12-31,Temporary Resident (Other Employment),Primary,137051
+2023-12-31,Temporary Resident (Other Employment),Secondary,25258
+2023-12-31,Temporary Resident (Skilled Employment),Primary,67756
+2023-12-31,Temporary Resident (Skilled Employment),Secondary,62695
+2023-12-31,Visitor,Primary,601051
+2023-12-31,Working Holiday Maker,Primary,170437
+2024-03-31,Bridging,Primary,285941
+2024-03-31,Bridging,Secondary,352
+2024-03-31,Crew and Transit,Primary,24244
+2024-03-31,Other Temporary,Primary,5023
+2024-03-31,Other Temporary,Secondary,89
+2024-03-31,Special Category,Primary,718588
+2024-03-31,Special Category,Secondary,2
+2024-03-31,Student,Primary,586965
+2024-03-31,Student,Secondary,84394
+2024-03-31,Temporary Graduate,Primary,143312
+2024-03-31,Temporary Graduate,Secondary,56585
+2024-03-31,Temporary Protection,Primary,6318
+2024-03-31,Temporary Protection,Secondary,1041
+2024-03-31,Temporary Resident (Other Employment),Primary,132476
+2024-03-31,Temporary Resident (Other Employment),Secondary,22652
+2024-03-31,Temporary Resident (Skilled Employment),Primary,82402
+2024-03-31,Temporary Resident (Skilled Employment),Secondary,71589
+2024-03-31,Visitor,Primary,404516
+2024-03-31,Working Holiday Maker,Primary,183668
+2024-06-30,Bridging,Primary,297076
+2024-06-30,Bridging,Secondary,296
+2024-06-30,Crew and Transit,Primary,15347
+2024-06-30,Other Temporary,Primary,4940
+2024-06-30,Other Temporary,Secondary,86
+2024-06-30,Special Category,Primary,717763
+2024-06-30,Special Category,Secondary,2
+2024-06-30,Student,Primary,523416
+2024-06-30,Student,Secondary,84846
+2024-06-30,Temporary Graduate,Primary,155214
+2024-06-30,Temporary Graduate,Secondary,61280
+2024-06-30,Temporary Protection,Primary,5202
+2024-06-30,Temporary Protection,Secondary,525
+2024-06-30,Temporary Resident (Other Employment),Primary,108131
+2024-06-30,Temporary Resident (Other Employment),Secondary,20210
+2024-06-30,Temporary Resident (Skilled Employment),Primary,91298
+2024-06-30,Temporary Resident (Skilled Employment),Secondary,77427
+2024-06-30,Visitor,Primary,337844
+2024-06-30,Visitor,Secondary,1
+2024-06-30,Working Holiday Maker,Primary,173215
+2024-06-30,Working Holiday Maker,Secondary,1
+2024-09-30,Bridging,Primary,338157
+2024-09-30,Bridging,Secondary,274
+2024-09-30,Crew and Transit,Primary,14286
+2024-09-30,Other Temporary,Primary,5683
+2024-09-30,Other Temporary,Secondary,89
+2024-09-30,Special Category,Primary,720362
+2024-09-30,Special Category,Secondary,2
+2024-09-30,Student,Primary,593692
+2024-09-30,Student,Secondary,81031
+2024-09-30,Temporary Graduate,Primary,164385
+2024-09-30,Temporary Graduate,Secondary,63927
+2024-09-30,Temporary Protection,Primary,4659
+2024-09-30,Temporary Protection,Secondary,305
+2024-09-30,Temporary Resident (Other Employment),Primary,68528
+2024-09-30,Temporary Resident (Other Employment),Secondary,14881
+2024-09-30,Temporary Resident (Skilled Employment),Primary,100063
+2024-09-30,Temporary Resident (Skilled Employment),Secondary,83672
+2024-09-30,Visitor,Primary,333084
+2024-09-30,Working Holiday Maker,Primary,192631
+2024-12-31,Bridging,Primary,342242
+2024-12-31,Bridging,Secondary,264
+2024-12-31,Crew and Transit,Primary,25127
+2024-12-31,Other Temporary,Primary,3559
+2024-12-31,Other Temporary,Secondary,67
+2024-12-31,Special Category,Primary,701278
+2024-12-31,Special Category,Secondary,2
+2024-12-31,Student,Primary,443664
+2024-12-31,Student,Secondary,78519
+2024-12-31,Temporary Graduate,Primary,135830
+2024-12-31,Temporary Graduate,Secondary,59474
+2024-12-31,Temporary Protection,Primary,4245
+2024-12-31,Temporary Protection,Secondary,236
+2024-12-31,Temporary Resident (Other Employment),Primary,54063
+2024-12-31,Temporary Resident (Other Employment),Secondary,11396
+2024-12-31,Temporary Resident (Skilled Employment),Primary,87161
+2024-12-31,Temporary Resident (Skilled Employment),Secondary,79669
+2024-12-31,Visitor,Primary,629075
+2024-12-31,Working Holiday Maker,Primary,206187
+2025-03-31,Bridging,Primary,379540
+2025-03-31,Bridging,Secondary,264
+2025-03-31,Crew and Transit,Primary,21200
+2025-03-31,Other Temporary,Primary,5615
+2025-03-31,Other Temporary,Secondary,83
+2025-03-31,Special Category,Primary,720690
+2025-03-31,Special Category,Secondary,2
+2025-03-31,Student,Primary,595339
+2025-03-31,Student,Secondary,77643
+2025-03-31,Temporary Graduate,Primary,159631
+2025-03-31,Temporary Graduate,Secondary,62559
+2025-03-31,Temporary Protection,Primary,3589
+2025-03-31,Temporary Protection,Secondary,203
+2025-03-31,Temporary Resident (Other Employment),Primary,57288
+2025-03-31,Temporary Resident (Other Employment),Secondary,10641
+2025-03-31,Temporary Resident (Skilled Employment),Primary,110742
+2025-03-31,Temporary Resident (Skilled Employment),Secondary,94070
+2025-03-31,Visitor,Primary,373892
+2025-03-31,Working Holiday Maker,Primary,224014
+2025-03-31,Working Holiday Maker,Secondary,1
+2025-06-30,Bridging,Primary,369352
+2025-06-30,Bridging,Secondary,275
+2025-06-30,Crew and Transit,Primary,13782
+2025-06-30,Other Temporary,Primary,5133
+2025-06-30,Other Temporary,Secondary,69
+2025-06-30,Special Category,Primary,736229
+2025-06-30,Special Category,Secondary,2
+2025-06-30,Student,Primary,513656
+2025-06-30,Student,Secondary,78686
+2025-06-30,Temporary Graduate,Primary,163657
+2025-06-30,Temporary Graduate,Secondary,65252
+2025-06-30,Temporary Protection,Primary,1580
+2025-06-30,Temporary Protection,Secondary,156
+2025-06-30,Temporary Resident (Other Employment),Primary,52579
+2025-06-30,Temporary Resident (Other Employment),Secondary,8928
+2025-06-30,Temporary Resident (Skilled Employment),Primary,119443
+2025-06-30,Temporary Resident (Skilled Employment),Secondary,100267
+2025-06-30,Visitor,Primary,325969
+2025-06-30,Working Holiday Maker,Primary,210971
+2025-09-30,Bridging,Primary,404835
+2025-09-30,Bridging,Secondary,315
+2025-09-30,Crew and Transit,Primary,13236
+2025-09-30,Other Temporary,Primary,5571
+2025-09-30,Other Temporary,Secondary,69
+2025-09-30,Special Category,Primary,736304
+2025-09-30,Special Category,Secondary,2
+2025-09-30,Student,Primary,561778
+2025-09-30,Student,Secondary,72892
+2025-09-30,Temporary Graduate,Primary,173302
+2025-09-30,Temporary Graduate,Secondary,66022
+2025-09-30,Temporary Protection,Primary,1337
+2025-09-30,Temporary Protection,Secondary,131
+2025-09-30,Temporary Resident (Other Employment),Primary,51746
+2025-09-30,Temporary Resident (Other Employment),Secondary,7994
+2025-09-30,Temporary Resident (Skilled Employment),Primary,126718
+2025-09-30,Temporary Resident (Skilled Employment),Secondary,106883
+2025-09-30,Visitor,Primary,357815
+2025-09-30,Working Holiday Maker,Primary,217624
+2025-12-31,Bridging,Primary,387225
+2025-12-31,Bridging,Secondary,347
+2025-12-31,Crew and Transit,Primary,21777
+2025-12-31,Other Temporary,Primary,3479
+2025-12-31,Other Temporary,Secondary,57
+2025-12-31,Special Category,Primary,709435
+2025-12-31,Special Category,Secondary,2
+2025-12-31,Student,Primary,409385
+2025-12-31,Student,Secondary,68505
+2025-12-31,Temporary Graduate,Primary,161193
+2025-12-31,Temporary Graduate,Secondary,64708
+2025-12-31,Temporary Protection,Primary,1605
+2025-12-31,Temporary Protection,Secondary,121
+2025-12-31,Temporary Resident (Other Employment),Primary,45717
+2025-12-31,Temporary Resident (Other Employment),Secondary,7710
+2025-12-31,Temporary Resident (Skilled Employment),Primary,112638
+2025-12-31,Temporary Resident (Skilled Employment),Secondary,103130
+2025-12-31,Visitor,Primary,660545
+2025-12-31,Working Holiday Maker,Primary,225751
+2026-03-31,Bridging,Primary,431911
+2026-03-31,Bridging,Secondary,389
+2026-03-31,Crew and Transit,Primary,21289
+2026-03-31,Other Temporary,Primary,5270
+2026-03-31,Other Temporary,Secondary,71
+2026-03-31,Special Category,Primary,732209
+2026-03-31,Special Category,Secondary,1
+2026-03-31,Student,Primary,543960
+2026-03-31,Student,Secondary,65718
+2026-03-31,Temporary Graduate,Primary,189883
+2026-03-31,Temporary Graduate,Secondary,69091
+2026-03-31,Temporary Protection,Primary,1598
+2026-03-31,Temporary Protection,Secondary,112
+2026-03-31,Temporary Resident (Other Employment),Primary,52942
+2026-03-31,Temporary Resident (Other Employment),Secondary,8667
+2026-03-31,Temporary Resident (Skilled Employment),Primary,137688
+2026-03-31,Temporary Resident (Skilled Employment),Secondary,118133
+2026-03-31,Visitor,Primary,357110
+2026-03-31,Working Holiday Maker,Primary,237015
+2026-06-30,Bridging,Primary,412462
+2026-06-30,Bridging,Secondary,463
+2026-06-30,Crew and Transit,Primary,12835
+2026-06-30,Other Temporary,Primary,4583
+2026-06-30,Other Temporary,Secondary,56
+2026-06-30,Special Category,Primary,731621
+2026-06-30,Special Category,Secondary,1
+2026-06-30,Student,Primary,460881
+2026-06-30,Student,Secondary,67920
+2026-06-30,Temporary Graduate,Primary,197294
+2026-06-30,Temporary Graduate,Secondary,73897
+2026-06-30,Temporary Protection,Primary,1640
+2026-06-30,Temporary Protection,Secondary,94
+2026-06-30,Temporary Resident (Other Employment),Primary,52465
+2026-06-30,Temporary Resident (Other Employment),Secondary,8258
+2026-06-30,Temporary Resident (Skilled Employment),Primary,140386
+2026-06-30,Temporary Resident (Skilled Employment),Secondary,120193
+2026-06-30,Visitor,Primary,296625
+2026-06-30,Working Holiday Maker,Primary,225648
+2026-09-30,Bridging,Primary,445108
+2026-09-30,Bridging,Secondary,570
+2026-09-30,Crew and Transit,Primary,11764
+2026-09-30,Other Temporary,Primary,5371
+2026-09-30,Other Temporary,Secondary,66
+2026-09-30,Special Category,Primary,743240
+2026-09-30,Special Category,Secondary,1
+2026-09-30,Student,Primary,491361
+2026-09-30,Student,Secondary,59980
+2026-09-30,Temporary Graduate,Primary,203435
+2026-09-30,Temporary Graduate,Secondary,74397
+2026-09-30,Temporary Protection,Primary,1466
+2026-09-30,Temporary Protection,Secondary,89
+2026-09-30,Temporary Resident (Other Employment),Primary,52348
+2026-09-30,Temporary Resident (Other Employment),Secondary,8148
+2026-09-30,Temporary Resident (Skilled Employment),Primary,144025
+2026-09-30,Temporary Resident (Skilled Employment),Secondary,124268
+2026-09-30,Visitor,Primary,348595
+2026-09-30,Working Holiday Maker,Primary,217827

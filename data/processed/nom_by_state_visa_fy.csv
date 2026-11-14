@@ -1,0 +1,2269 @@
+state,state_abbr,visa_type,visa_group,fy,fy_end,arrivals,departures,net
+Australia,Aus,Australian citizen,Australian citizen,2004-05,2005,69260,90480,-21220
+Australia,Aus,Australian citizen,Australian citizen,2005-06,2006,72610,91060,-18450
+Australia,Aus,Australian citizen,Australian citizen,2006-07,2007,75300,92470,-17170
+Australia,Aus,Australian citizen,Australian citizen,2007-08,2008,75830,96020,-20190
+Australia,Aus,Australian citizen,Australian citizen,2008-09,2009,80440,82900,-2460
+Australia,Aus,Australian citizen,Australian citizen,2009-10,2010,78870,83140,-4270
+Australia,Aus,Australian citizen,Australian citizen,2010-11,2011,78870,87670,-8800
+Australia,Aus,Australian citizen,Australian citizen,2011-12,2012,76070,82930,-6860
+Australia,Aus,Australian citizen,Australian citizen,2012-13,2013,77100,85690,-8590
+Australia,Aus,Australian citizen,Australian citizen,2013-14,2014,72180,92180,-20000
+Australia,Aus,Australian citizen,Australian citizen,2014-15,2015,71680,97570,-25890
+Australia,Aus,Australian citizen,Australian citizen,2015-16,2016,75800,97290,-21490
+Australia,Aus,Australian citizen,Australian citizen,2016-17,2017,79280,92560,-13280
+Australia,Aus,Australian citizen,Australian citizen,2017-18,2018,77160,89770,-12610
+Australia,Aus,Australian citizen,Australian citizen,2018-19,2019,78900,85890,-6990
+Australia,Aus,Australian citizen,Australian citizen,2019-20,2020,96410,60390,36020
+Australia,Aus,Australian citizen,Australian citizen,2020-21,2021,61370,44010,17360
+Australia,Aus,Australian citizen,Australian citizen,2021-22,2022,62480,77670,-15190
+Australia,Aus,Australian citizen,Australian citizen,2022-23,2023,58750,89220,-30470
+Australia,Aus,Australian citizen,Australian citizen,2023-24,2024,60840,85820,-24980
+Australia,Aus,Australian citizen,Australian citizen,2024-25,2025,64060,81510,-17450
+Australia,Aus,NZ citizen,NZ citizen (444),2004-05,2005,37330,16920,20410
+Australia,Aus,NZ citizen,NZ citizen (444),2005-06,2006,38760,16080,22680
+Australia,Aus,NZ citizen,NZ citizen (444),2006-07,2007,44420,15470,28950
+Australia,Aus,NZ citizen,NZ citizen (444),2007-08,2008,51680,15410,36270
+Australia,Aus,NZ citizen,NZ citizen (444),2008-09,2009,46890,16930,29960
+Australia,Aus,NZ citizen,NZ citizen (444),2009-10,2010,38630,17990,20640
+Australia,Aus,NZ citizen,NZ citizen (444),2010-11,2011,53610,16810,36800
+Australia,Aus,NZ citizen,NZ citizen (444),2011-12,2012,61070,16380,44690
+Australia,Aus,NZ citizen,NZ citizen (444),2012-13,2013,54120,20060,34060
+Australia,Aus,NZ citizen,NZ citizen (444),2013-14,2014,37770,25300,12470
+Australia,Aus,NZ citizen,NZ citizen (444),2014-15,2015,31750,27080,4670
+Australia,Aus,NZ citizen,NZ citizen (444),2015-16,2016,33700,27640,6060
+Australia,Aus,NZ citizen,NZ citizen (444),2016-17,2017,32330,25600,6730
+Australia,Aus,NZ citizen,NZ citizen (444),2017-18,2018,30380,22910,7470
+Australia,Aus,NZ citizen,NZ citizen (444),2018-19,2019,30540,22410,8130
+Australia,Aus,NZ citizen,NZ citizen (444),2019-20,2020,22220,20850,1370
+Australia,Aus,NZ citizen,NZ citizen (444),2020-21,2021,16950,19050,-2100
+Australia,Aus,NZ citizen,NZ citizen (444),2021-22,2022,24120,15230,8890
+Australia,Aus,NZ citizen,NZ citizen (444),2022-23,2023,42660,16390,26270
+Australia,Aus,NZ citizen,NZ citizen (444),2023-24,2024,51680,14280,37400
+Australia,Aus,NZ citizen,NZ citizen (444),2024-25,2025,53020,14730,38290
+Australia,Aus,Permanent,Family,2004-05,2005,28430,4090,24340
+Australia,Aus,Permanent,Family,2005-06,2006,30400,4230,26170
+Australia,Aus,Permanent,Family,2006-07,2007,32480,4500,27980
+Australia,Aus,Permanent,Family,2007-08,2008,33100,4810,28290
+Australia,Aus,Permanent,Family,2008-09,2009,35060,4810,30250
+Australia,Aus,Permanent,Family,2009-10,2010,35580,5460,30120
+Australia,Aus,Permanent,Family,2010-11,2011,33730,5870,27860
+Australia,Aus,Permanent,Family,2011-12,2012,34770,5590,29180
+Australia,Aus,Permanent,Family,2012-13,2013,35230,5560,29670
+Australia,Aus,Permanent,Family,2013-14,2014,35510,5700,29810
+Australia,Aus,Permanent,Family,2014-15,2015,32050,6150,25900
+Australia,Aus,Permanent,Family,2015-16,2016,31590,5790,25800
+Australia,Aus,Permanent,Family,2016-17,2017,29680,5610,24070
+Australia,Aus,Permanent,Family,2017-18,2018,26280,5560,20720
+Australia,Aus,Permanent,Family,2018-19,2019,24290,5780,18510
+Australia,Aus,Permanent,Family,2019-20,2020,20300,6380,13920
+Australia,Aus,Permanent,Family,2020-21,2021,15650,4180,11470
+Australia,Aus,Permanent,Family,2021-22,2022,25910,6370,19540
+Australia,Aus,Permanent,Family,2022-23,2023,21100,5610,15490
+Australia,Aus,Permanent,Family,2023-24,2024,23120,5110,18010
+Australia,Aus,Permanent,Family,2024-25,2025,24390,4840,19550
+Australia,Aus,Permanent,Humanitarian & special eligibility,2004-05,2005,13580,200,13380
+Australia,Aus,Permanent,Humanitarian & special eligibility,2005-06,2006,12320,210,12110
+Australia,Aus,Permanent,Humanitarian & special eligibility,2006-07,2007,12400,90,12310
+Australia,Aus,Permanent,Humanitarian & special eligibility,2007-08,2008,9470,110,9360
+Australia,Aus,Permanent,Humanitarian & special eligibility,2008-09,2009,11630,70,11560
+Australia,Aus,Permanent,Humanitarian & special eligibility,2009-10,2010,9920,120,9800
+Australia,Aus,Permanent,Humanitarian & special eligibility,2010-11,2011,9180,120,9060
+Australia,Aus,Permanent,Humanitarian & special eligibility,2011-12,2012,7700,160,7540
+Australia,Aus,Permanent,Humanitarian & special eligibility,2012-13,2013,8540,140,8400
+Australia,Aus,Permanent,Humanitarian & special eligibility,2013-14,2014,13170,150,13020
+Australia,Aus,Permanent,Humanitarian & special eligibility,2014-15,2015,11690,140,11550
+Australia,Aus,Permanent,Humanitarian & special eligibility,2015-16,2016,11080,150,10930
+Australia,Aus,Permanent,Humanitarian & special eligibility,2016-17,2017,24120,130,23990
+Australia,Aus,Permanent,Humanitarian & special eligibility,2017-18,2018,12190,150,12040
+Australia,Aus,Permanent,Humanitarian & special eligibility,2018-19,2019,15340,170,15170
+Australia,Aus,Permanent,Humanitarian & special eligibility,2019-20,2020,13000,120,12880
+Australia,Aus,Permanent,Humanitarian & special eligibility,2020-21,2021,590,80,510
+Australia,Aus,Permanent,Humanitarian & special eligibility,2021-22,2022,7780,110,7670
+Australia,Aus,Permanent,Humanitarian & special eligibility,2022-23,2023,12970,120,12850
+Australia,Aus,Permanent,Humanitarian & special eligibility,2023-24,2024,17590,170,17420
+Australia,Aus,Permanent,Humanitarian & special eligibility,2024-25,2025,14870,180,14690
+Australia,Aus,Permanent,Other permanent,2004-05,2005,3650,5160,-1510
+Australia,Aus,Permanent,Other permanent,2005-06,2006,3640,4640,-1000
+Australia,Aus,Permanent,Other permanent,2006-07,2007,3770,4660,-890
+Australia,Aus,Permanent,Other permanent,2007-08,2008,3940,4820,-880
+Australia,Aus,Permanent,Other permanent,2008-09,2009,4000,4390,-390
+Australia,Aus,Permanent,Other permanent,2009-10,2010,3990,5230,-1240
+Australia,Aus,Permanent,Other permanent,2010-11,2011,4320,5310,-990
+Australia,Aus,Permanent,Other permanent,2011-12,2012,4250,5380,-1130
+Australia,Aus,Permanent,Other permanent,2012-13,2013,4960,5490,-530
+Australia,Aus,Permanent,Other permanent,2013-14,2014,5340,5880,-540
+Australia,Aus,Permanent,Other permanent,2014-15,2015,5510,6350,-840
+Australia,Aus,Permanent,Other permanent,2015-16,2016,6070,6470,-400
+Australia,Aus,Permanent,Other permanent,2016-17,2017,6270,6690,-420
+Australia,Aus,Permanent,Other permanent,2017-18,2018,6130,7110,-980
+Australia,Aus,Permanent,Other permanent,2018-19,2019,7530,8110,-580
+Australia,Aus,Permanent,Other permanent,2019-20,2020,10320,9410,910
+Australia,Aus,Permanent,Other permanent,2020-21,2021,6090,7110,-1020
+Australia,Aus,Permanent,Other permanent,2021-22,2022,9320,10250,-930
+Australia,Aus,Permanent,Other permanent,2022-23,2023,10930,9560,1370
+Australia,Aus,Permanent,Other permanent,2023-24,2024,9350,8380,970
+Australia,Aus,Permanent,Other permanent,2024-25,2025,8540,8410,130
+Australia,Aus,Permanent,Skilled (permanent),2004-05,2005,35540,6570,28970
+Australia,Aus,Permanent,Skilled (permanent),2005-06,2006,42750,6800,35950
+Australia,Aus,Permanent,Skilled (permanent),2006-07,2007,47540,7140,40400
+Australia,Aus,Permanent,Skilled (permanent),2007-08,2008,51600,7430,44170
+Australia,Aus,Permanent,Skilled (permanent),2008-09,2009,48360,7330,41030
+Australia,Aus,Permanent,Skilled (permanent),2009-10,2010,41140,9090,32050
+Australia,Aus,Permanent,Skilled (permanent),2010-11,2011,33060,8080,24980
+Australia,Aus,Permanent,Skilled (permanent),2011-12,2012,40980,7730,33250
+Australia,Aus,Permanent,Skilled (permanent),2012-13,2013,38020,7480,30540
+Australia,Aus,Permanent,Skilled (permanent),2013-14,2014,40330,7960,32370
+Australia,Aus,Permanent,Skilled (permanent),2014-15,2015,42240,8640,33600
+Australia,Aus,Permanent,Skilled (permanent),2015-16,2016,41850,8570,33280
+Australia,Aus,Permanent,Skilled (permanent),2016-17,2017,46140,8060,38080
+Australia,Aus,Permanent,Skilled (permanent),2017-18,2018,43320,7770,35550
+Australia,Aus,Permanent,Skilled (permanent),2018-19,2019,38230,7490,30740
+Australia,Aus,Permanent,Skilled (permanent),2019-20,2020,27280,8500,18780
+Australia,Aus,Permanent,Skilled (permanent),2020-21,2021,14620,6560,8060
+Australia,Aus,Permanent,Skilled (permanent),2021-22,2022,28100,6930,21170
+Australia,Aus,Permanent,Skilled (permanent),2022-23,2023,35390,4850,30540
+Australia,Aus,Permanent,Skilled (permanent),2023-24,2024,40880,4890,35990
+Australia,Aus,Permanent,Skilled (permanent),2024-25,2025,40410,5200,35210
+Australia,Aus,Temporary,Other temporary,2004-05,2005,9320,13210,-3890
+Australia,Aus,Temporary,Other temporary,2005-06,2006,7580,11930,-4350
+Australia,Aus,Temporary,Other temporary,2006-07,2007,6780,11230,-4450
+Australia,Aus,Temporary,Other temporary,2007-08,2008,6920,11800,-4880
+Australia,Aus,Temporary,Other temporary,2008-09,2009,5720,14370,-8650
+Australia,Aus,Temporary,Other temporary,2009-10,2010,5330,17310,-11980
+Australia,Aus,Temporary,Other temporary,2010-11,2011,6450,19400,-12950
+Australia,Aus,Temporary,Other temporary,2011-12,2012,7100,19070,-11970
+Australia,Aus,Temporary,Other temporary,2012-13,2013,7220,19960,-12740
+Australia,Aus,Temporary,Other temporary,2013-14,2014,7330,22130,-14800
+Australia,Aus,Temporary,Other temporary,2014-15,2015,7480,20900,-13420
+Australia,Aus,Temporary,Other temporary,2015-16,2016,8490,22370,-13880
+Australia,Aus,Temporary,Other temporary,2016-17,2017,10120,24080,-13960
+Australia,Aus,Temporary,Other temporary,2017-18,2018,12320,29310,-16990
+Australia,Aus,Temporary,Other temporary,2018-19,2019,13410,33040,-19630
+Australia,Aus,Temporary,Other temporary,2019-20,2020,18680,39870,-21190
+Australia,Aus,Temporary,Other temporary,2020-21,2021,10390,50180,-39790
+Australia,Aus,Temporary,Other temporary,2021-22,2022,32490,42180,-9690
+Australia,Aus,Temporary,Other temporary,2022-23,2023,47600,31850,15750
+Australia,Aus,Temporary,Other temporary,2023-24,2024,39510,44530,-5020
+Australia,Aus,Temporary,Other temporary,2024-25,2025,26170,45920,-19750
+Australia,Aus,Temporary,Skilled (temporary),2004-05,2005,17100,7220,9880
+Australia,Aus,Temporary,Skilled (temporary),2005-06,2006,27730,8480,19250
+Australia,Aus,Temporary,Skilled (temporary),2006-07,2007,35850,9390,26460
+Australia,Aus,Temporary,Skilled (temporary),2007-08,2008,44010,10600,33410
+Australia,Aus,Temporary,Skilled (temporary),2008-09,2009,44060,13560,30500
+Australia,Aus,Temporary,Skilled (temporary),2009-10,2010,26270,14600,11670
+Australia,Aus,Temporary,Skilled (temporary),2010-11,2011,35600,12710,22890
+Australia,Aus,Temporary,Skilled (temporary),2011-12,2012,47880,13360,34520
+Australia,Aus,Temporary,Skilled (temporary),2012-13,2013,43460,18240,25220
+Australia,Aus,Temporary,Skilled (temporary),2013-14,2014,32870,22290,10580
+Australia,Aus,Temporary,Skilled (temporary),2014-15,2015,31490,21410,10080
+Australia,Aus,Temporary,Skilled (temporary),2015-16,2016,30490,18880,11610
+Australia,Aus,Temporary,Skilled (temporary),2016-17,2017,32690,15900,16790
+Australia,Aus,Temporary,Skilled (temporary),2017-18,2018,26940,15500,11440
+Australia,Aus,Temporary,Skilled (temporary),2018-19,2019,32600,15660,16940
+Australia,Aus,Temporary,Skilled (temporary),2019-20,2020,22840,13650,9190
+Australia,Aus,Temporary,Skilled (temporary),2020-21,2021,8950,11320,-2370
+Australia,Aus,Temporary,Skilled (temporary),2021-22,2022,24420,8730,15690
+Australia,Aus,Temporary,Skilled (temporary),2022-23,2023,49250,5630,43620
+Australia,Aus,Temporary,Skilled (temporary),2023-24,2024,48870,7340,41530
+Australia,Aus,Temporary,Skilled (temporary),2024-25,2025,45780,10080,35700
+Australia,Aus,Temporary,Student,2004-05,2005,66180,21240,44940
+Australia,Aus,Temporary,Student,2005-06,2006,73090,26080,47010
+Australia,Aus,Temporary,Student,2006-07,2007,103730,25480,78250
+Australia,Aus,Temporary,Student,2007-08,2008,133730,26020,107710
+Australia,Aus,Temporary,Student,2008-09,2009,152760,30700,122060
+Australia,Aus,Temporary,Student,2009-10,2010,106660,41770,64890
+Australia,Aus,Temporary,Student,2010-11,2011,75350,50340,25010
+Australia,Aus,Temporary,Student,2011-12,2012,73270,47560,25710
+Australia,Aus,Temporary,Student,2012-13,2013,86210,44950,41260
+Australia,Aus,Temporary,Student,2013-14,2014,114330,44150,70180
+Australia,Aus,Temporary,Student,2014-15,2015,122130,45050,77080
+Australia,Aus,Temporary,Student,2015-16,2016,132130,44110,88020
+Australia,Aus,Temporary,Student,2016-17,2017,149410,46810,102600
+Australia,Aus,Temporary,Student,2017-18,2018,157630,55420,102210
+Australia,Aus,Temporary,Student,2018-19,2019,164340,67440,96900
+Australia,Aus,Temporary,Student,2019-20,2020,110440,100920,9520
+Australia,Aus,Temporary,Student,2020-21,2021,1510,62190,-60680
+Australia,Aus,Temporary,Student,2021-22,2022,141420,26870,114550
+Australia,Aus,Temporary,Student,2022-23,2023,277760,15490,262270
+Australia,Aus,Temporary,Student,2023-24,2024,204130,32820,171310
+Australia,Aus,Temporary,Student,2024-25,2025,156710,48640,108070
+Australia,Aus,Temporary,Visitor,2004-05,2005,35770,14320,21450
+Australia,Aus,Temporary,Visitor,2005-06,2006,36100,15510,20590
+Australia,Aus,Temporary,Visitor,2006-07,2007,37590,11740,25850
+Australia,Aus,Temporary,Visitor,2007-08,2008,49990,21040,28950
+Australia,Aus,Temporary,Visitor,2008-09,2009,42340,20850,21490
+Australia,Aus,Temporary,Visitor,2009-10,2010,40260,16250,24010
+Australia,Aus,Temporary,Visitor,2010-11,2011,41710,16420,25290
+Australia,Aus,Temporary,Visitor,2011-12,2012,42720,13870,28850
+Australia,Aus,Temporary,Visitor,2012-13,2013,47920,15030,32890
+Australia,Aus,Temporary,Visitor,2013-14,2014,44440,12230,32210
+Australia,Aus,Temporary,Visitor,2014-15,2015,50240,12200,38040
+Australia,Aus,Temporary,Visitor,2015-16,2016,60550,16460,44090
+Australia,Aus,Temporary,Visitor,2016-17,2017,72270,18470,53800
+Australia,Aus,Temporary,Visitor,2017-18,2018,79430,20830,58600
+Australia,Aus,Temporary,Visitor,2018-19,2019,91220,27310,63910
+Australia,Aus,Temporary,Visitor,2019-20,2020,117740,16880,100860
+Australia,Aus,Temporary,Visitor,2020-21,2021,7700,15020,-7320
+Australia,Aus,Temporary,Visitor,2021-22,2022,47410,17100,30310
+Australia,Aus,Temporary,Visitor,2022-23,2023,108350,18400,89950
+Australia,Aus,Temporary,Visitor,2023-24,2024,85330,17190,68140
+Australia,Aus,Temporary,Visitor,2024-25,2025,56080,18340,37740
+Australia,Aus,Temporary,Working holiday,2004-05,2005,12930,3530,9400
+Australia,Aus,Temporary,Working holiday,2005-06,2006,17080,2840,14240
+Australia,Aus,Temporary,Working holiday,2006-07,2007,21630,4650,16980
+Australia,Aus,Temporary,Working holiday,2007-08,2008,29120,7770,21350
+Australia,Aus,Temporary,Working holiday,2008-09,2009,34300,10480,23820
+Australia,Aus,Temporary,Working holiday,2009-10,2010,33030,15030,18000
+Australia,Aus,Temporary,Working holiday,2010-11,2011,43460,15560,27900
+Australia,Aus,Temporary,Working holiday,2011-12,2012,54620,15720,38900
+Australia,Aus,Temporary,Working holiday,2012-13,2013,59250,20850,38400
+Australia,Aus,Temporary,Working holiday,2013-14,2014,54190,26970,27220
+Australia,Aus,Temporary,Working holiday,2014-15,2015,51600,28510,23090
+Australia,Aus,Temporary,Working holiday,2015-16,2016,50100,27470,22630
+Australia,Aus,Temporary,Working holiday,2016-17,2017,50330,25960,24370
+Australia,Aus,Temporary,Working holiday,2017-18,2018,50990,22500,28490
+Australia,Aus,Temporary,Working holiday,2018-19,2019,49090,25080,24010
+Australia,Aus,Temporary,Working holiday,2019-20,2020,43950,25520,18430
+Australia,Aus,Temporary,Working holiday,2020-21,2021,1020,7820,-6800
+Australia,Aus,Temporary,Working holiday,2021-22,2022,20470,4580,15890
+Australia,Aus,Temporary,Working holiday,2022-23,2023,73670,2960,70710
+Australia,Aus,Temporary,Working holiday,2023-24,2024,80070,11680,68390
+Australia,Aus,Temporary,Working holiday,2024-25,2025,78340,24950,53390
+Australia,Aus,Unknown,Unknown visa,2004-05,2005,12310,15880,-3570
+Australia,Aus,Unknown,Unknown visa,2005-06,2006,14470,16830,-2360
+Australia,Aus,Unknown,Unknown visa,2006-07,2007,15950,17820,-1870
+Australia,Aus,Unknown,Unknown visa,2007-08,2008,11950,18170,-6220
+Australia,Aus,Unknown,Unknown visa,2008-09,2009,14230,13530,700
+Australia,Aus,Unknown,Unknown visa,2009-10,2010,18250,15880,2370
+Australia,Aus,Unknown,Unknown visa,2010-11,2011,16440,13120,3320
+Australia,Aus,Unknown,Unknown visa,2011-12,2012,16900,7630,9270
+Australia,Aus,Unknown,Unknown visa,2012-13,2013,20060,8310,11750
+Australia,Aus,Unknown,Unknown visa,2013-14,2014,7220,11960,-4740
+Australia,Aus,Unknown,Unknown visa,2014-15,2015,7390,7220,170
+Australia,Aus,Unknown,Unknown visa,2015-16,2016,7430,7840,-410
+Australia,Aus,Unknown,Unknown visa,2016-17,2017,7510,6930,580
+Australia,Aus,Unknown,Unknown visa,2017-18,2018,4750,12470,-7720
+Australia,Aus,Unknown,Unknown visa,2018-19,2019,4910,10680,-5770
+Australia,Aus,Unknown,Unknown visa,2019-20,2020,3670,11670,-8000
+Australia,Aus,Unknown,Unknown visa,2020-21,2021,1160,3410,-2250
+Australia,Aus,Unknown,Unknown visa,2021-22,2022,-10,-20,10
+Australia,Aus,Unknown,Unknown visa,2022-23,2023,-20,-10,-10
+Australia,Aus,Unknown,Unknown visa,2023-24,2024,-10,-10,0
+Australia,Aus,Unknown,Unknown visa,2024-25,2025,0,0,0
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2004-05,2005,1790,2880,-1090
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2005-06,2006,1900,2740,-840
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2006-07,2007,1930,2560,-630
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2007-08,2008,2120,2840,-720
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2008-09,2009,2220,2480,-260
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2009-10,2010,2280,2590,-310
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2010-11,2011,1930,2610,-680
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2011-12,2012,2400,2510,-110
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2012-13,2013,2210,2630,-420
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2013-14,2014,2050,2860,-810
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2014-15,2015,2140,2790,-650
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2015-16,2016,2450,2930,-480
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2016-17,2017,2380,2820,-440
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2017-18,2018,2400,2570,-170
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2018-19,2019,2400,2520,-120
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2019-20,2020,2770,1630,1140
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2020-21,2021,1650,1930,-280
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2021-22,2022,1810,2680,-870
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2022-23,2023,1700,2700,-1000
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2023-24,2024,2120,2820,-700
+Australian Capital Territory,ACT,Australian citizen,Australian citizen,2024-25,2025,2020,2500,-480
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2004-05,2005,270,190,80
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2005-06,2006,240,160,80
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2006-07,2007,300,140,160
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2007-08,2008,340,140,200
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2008-09,2009,310,120,190
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2009-10,2010,350,210,140
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2010-11,2011,460,170,290
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2011-12,2012,550,120,430
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2012-13,2013,520,190,330
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2013-14,2014,320,190,130
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2014-15,2015,290,200,90
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2015-16,2016,300,170,130
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2016-17,2017,340,220,120
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2017-18,2018,320,170,150
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2018-19,2019,230,190,40
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2019-20,2020,180,170,10
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2020-21,2021,150,180,-30
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2021-22,2022,160,160,0
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2022-23,2023,320,130,190
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2023-24,2024,360,100,260
+Australian Capital Territory,ACT,NZ citizen,NZ citizen (444),2024-25,2025,390,110,280
+Australian Capital Territory,ACT,Permanent,Family,2004-05,2005,350,70,280
+Australian Capital Territory,ACT,Permanent,Family,2005-06,2006,400,60,340
+Australian Capital Territory,ACT,Permanent,Family,2006-07,2007,440,60,380
+Australian Capital Territory,ACT,Permanent,Family,2007-08,2008,410,70,340
+Australian Capital Territory,ACT,Permanent,Family,2008-09,2009,510,80,430
+Australian Capital Territory,ACT,Permanent,Family,2009-10,2010,490,80,410
+Australian Capital Territory,ACT,Permanent,Family,2010-11,2011,500,110,390
+Australian Capital Territory,ACT,Permanent,Family,2011-12,2012,580,80,500
+Australian Capital Territory,ACT,Permanent,Family,2012-13,2013,540,100,440
+Australian Capital Territory,ACT,Permanent,Family,2013-14,2014,550,110,440
+Australian Capital Territory,ACT,Permanent,Family,2014-15,2015,520,110,410
+Australian Capital Territory,ACT,Permanent,Family,2015-16,2016,440,110,330
+Australian Capital Territory,ACT,Permanent,Family,2016-17,2017,450,80,370
+Australian Capital Territory,ACT,Permanent,Family,2017-18,2018,460,90,370
+Australian Capital Territory,ACT,Permanent,Family,2018-19,2019,370,110,260
+Australian Capital Territory,ACT,Permanent,Family,2019-20,2020,330,110,220
+Australian Capital Territory,ACT,Permanent,Family,2020-21,2021,250,70,180
+Australian Capital Territory,ACT,Permanent,Family,2021-22,2022,450,110,340
+Australian Capital Territory,ACT,Permanent,Family,2022-23,2023,310,110,200
+Australian Capital Territory,ACT,Permanent,Family,2023-24,2024,340,90,250
+Australian Capital Territory,ACT,Permanent,Family,2024-25,2025,380,90,290
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2004-05,2005,220,0,220
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2005-06,2006,190,0,190
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2006-07,2007,90,0,90
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2007-08,2008,170,0,170
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2008-09,2009,190,0,190
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2009-10,2010,120,0,120
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2010-11,2011,130,0,130
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2011-12,2012,70,10,60
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2012-13,2013,50,0,50
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2013-14,2014,150,0,150
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2014-15,2015,120,0,120
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2015-16,2016,190,0,190
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2016-17,2017,290,0,290
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2017-18,2018,190,0,190
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2018-19,2019,210,0,210
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2019-20,2020,170,10,160
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2020-21,2021,10,0,10
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2021-22,2022,100,0,100
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2022-23,2023,170,0,170
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2023-24,2024,230,10,220
+Australian Capital Territory,ACT,Permanent,Humanitarian & special eligibility,2024-25,2025,170,0,170
+Australian Capital Territory,ACT,Permanent,Other permanent,2004-05,2005,50,70,-20
+Australian Capital Territory,ACT,Permanent,Other permanent,2005-06,2006,60,70,-10
+Australian Capital Territory,ACT,Permanent,Other permanent,2006-07,2007,50,50,0
+Australian Capital Territory,ACT,Permanent,Other permanent,2007-08,2008,40,60,-20
+Australian Capital Territory,ACT,Permanent,Other permanent,2008-09,2009,40,70,-30
+Australian Capital Territory,ACT,Permanent,Other permanent,2009-10,2010,40,70,-30
+Australian Capital Territory,ACT,Permanent,Other permanent,2010-11,2011,60,60,0
+Australian Capital Territory,ACT,Permanent,Other permanent,2011-12,2012,60,60,0
+Australian Capital Territory,ACT,Permanent,Other permanent,2012-13,2013,70,60,10
+Australian Capital Territory,ACT,Permanent,Other permanent,2013-14,2014,80,70,10
+Australian Capital Territory,ACT,Permanent,Other permanent,2014-15,2015,70,70,0
+Australian Capital Territory,ACT,Permanent,Other permanent,2015-16,2016,80,80,0
+Australian Capital Territory,ACT,Permanent,Other permanent,2016-17,2017,80,90,-10
+Australian Capital Territory,ACT,Permanent,Other permanent,2017-18,2018,80,90,-10
+Australian Capital Territory,ACT,Permanent,Other permanent,2018-19,2019,100,130,-30
+Australian Capital Territory,ACT,Permanent,Other permanent,2019-20,2020,120,120,0
+Australian Capital Territory,ACT,Permanent,Other permanent,2020-21,2021,120,70,50
+Australian Capital Territory,ACT,Permanent,Other permanent,2021-22,2022,110,150,-40
+Australian Capital Territory,ACT,Permanent,Other permanent,2022-23,2023,130,140,-10
+Australian Capital Territory,ACT,Permanent,Other permanent,2023-24,2024,140,130,10
+Australian Capital Territory,ACT,Permanent,Other permanent,2024-25,2025,100,130,-30
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2004-05,2005,340,70,270
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2005-06,2006,410,60,350
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2006-07,2007,380,70,310
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2007-08,2008,570,100,470
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2008-09,2009,710,80,630
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2009-10,2010,670,130,540
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2010-11,2011,420,140,280
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2011-12,2012,1000,80,920
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2012-13,2013,680,120,560
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2013-14,2014,950,130,820
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2014-15,2015,1110,140,970
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2015-16,2016,720,150,570
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2016-17,2017,700,140,560
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2017-18,2018,670,130,540
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2018-19,2019,590,110,480
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2019-20,2020,400,120,280
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2020-21,2021,220,120,100
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2021-22,2022,520,160,360
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2022-23,2023,900,110,790
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2023-24,2024,980,110,870
+Australian Capital Territory,ACT,Permanent,Skilled (permanent),2024-25,2025,1790,140,1650
+Australian Capital Territory,ACT,Temporary,Other temporary,2004-05,2005,160,200,-40
+Australian Capital Territory,ACT,Temporary,Other temporary,2005-06,2006,120,220,-100
+Australian Capital Territory,ACT,Temporary,Other temporary,2006-07,2007,100,210,-110
+Australian Capital Territory,ACT,Temporary,Other temporary,2007-08,2008,140,160,-20
+Australian Capital Territory,ACT,Temporary,Other temporary,2008-09,2009,120,200,-80
+Australian Capital Territory,ACT,Temporary,Other temporary,2009-10,2010,120,210,-90
+Australian Capital Territory,ACT,Temporary,Other temporary,2010-11,2011,150,340,-190
+Australian Capital Territory,ACT,Temporary,Other temporary,2011-12,2012,170,330,-160
+Australian Capital Territory,ACT,Temporary,Other temporary,2012-13,2013,230,370,-140
+Australian Capital Territory,ACT,Temporary,Other temporary,2013-14,2014,240,420,-180
+Australian Capital Territory,ACT,Temporary,Other temporary,2014-15,2015,280,440,-160
+Australian Capital Territory,ACT,Temporary,Other temporary,2015-16,2016,250,490,-240
+Australian Capital Territory,ACT,Temporary,Other temporary,2016-17,2017,330,490,-160
+Australian Capital Territory,ACT,Temporary,Other temporary,2017-18,2018,470,620,-150
+Australian Capital Territory,ACT,Temporary,Other temporary,2018-19,2019,410,750,-340
+Australian Capital Territory,ACT,Temporary,Other temporary,2019-20,2020,340,910,-570
+Australian Capital Territory,ACT,Temporary,Other temporary,2020-21,2021,130,1070,-940
+Australian Capital Territory,ACT,Temporary,Other temporary,2021-22,2022,720,970,-250
+Australian Capital Territory,ACT,Temporary,Other temporary,2022-23,2023,1040,660,380
+Australian Capital Territory,ACT,Temporary,Other temporary,2023-24,2024,800,760,40
+Australian Capital Territory,ACT,Temporary,Other temporary,2024-25,2025,590,810,-220
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2004-05,2005,350,100,250
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2005-06,2006,420,150,270
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2006-07,2007,490,120,370
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2007-08,2008,560,150,410
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2008-09,2009,600,160,440
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2009-10,2010,530,190,340
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2010-11,2011,480,170,310
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2011-12,2012,960,170,790
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2012-13,2013,650,180,470
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2013-14,2014,510,250,260
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2014-15,2015,580,260,320
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2015-16,2016,450,190,260
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2016-17,2017,550,220,330
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2017-18,2018,380,210,170
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2018-19,2019,480,180,300
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2019-20,2020,350,150,200
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2020-21,2021,60,120,-60
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2021-22,2022,230,110,120
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2022-23,2023,460,80,380
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2023-24,2024,530,60,470
+Australian Capital Territory,ACT,Temporary,Skilled (temporary),2024-25,2025,510,70,440
+Australian Capital Territory,ACT,Temporary,Student,2004-05,2005,1150,530,620
+Australian Capital Territory,ACT,Temporary,Student,2005-06,2006,1280,730,550
+Australian Capital Territory,ACT,Temporary,Student,2006-07,2007,1610,730,880
+Australian Capital Territory,ACT,Temporary,Student,2007-08,2008,1940,750,1190
+Australian Capital Territory,ACT,Temporary,Student,2008-09,2009,2370,830,1540
+Australian Capital Territory,ACT,Temporary,Student,2009-10,2010,2470,1100,1370
+Australian Capital Territory,ACT,Temporary,Student,2010-11,2011,1990,1310,680
+Australian Capital Territory,ACT,Temporary,Student,2011-12,2012,2260,1620,640
+Australian Capital Territory,ACT,Temporary,Student,2012-13,2013,2430,1660,770
+Australian Capital Territory,ACT,Temporary,Student,2013-14,2014,3070,1720,1350
+Australian Capital Territory,ACT,Temporary,Student,2014-15,2015,3320,1540,1780
+Australian Capital Territory,ACT,Temporary,Student,2015-16,2016,3410,1530,1880
+Australian Capital Territory,ACT,Temporary,Student,2016-17,2017,3960,1630,2330
+Australian Capital Territory,ACT,Temporary,Student,2017-18,2018,4350,1770,2580
+Australian Capital Territory,ACT,Temporary,Student,2018-19,2019,3330,2380,950
+Australian Capital Territory,ACT,Temporary,Student,2019-20,2020,2170,3270,-1100
+Australian Capital Territory,ACT,Temporary,Student,2020-21,2021,70,1920,-1850
+Australian Capital Territory,ACT,Temporary,Student,2021-22,2022,3670,750,2920
+Australian Capital Territory,ACT,Temporary,Student,2022-23,2023,5980,590,5390
+Australian Capital Territory,ACT,Temporary,Student,2023-24,2024,4330,1230,3100
+Australian Capital Territory,ACT,Temporary,Student,2024-25,2025,3770,1710,2060
+Australian Capital Territory,ACT,Temporary,Visitor,2004-05,2005,390,190,200
+Australian Capital Territory,ACT,Temporary,Visitor,2005-06,2006,400,180,220
+Australian Capital Territory,ACT,Temporary,Visitor,2006-07,2007,480,220,260
+Australian Capital Territory,ACT,Temporary,Visitor,2007-08,2008,570,240,330
+Australian Capital Territory,ACT,Temporary,Visitor,2008-09,2009,580,210,370
+Australian Capital Territory,ACT,Temporary,Visitor,2009-10,2010,580,160,420
+Australian Capital Territory,ACT,Temporary,Visitor,2010-11,2011,600,210,390
+Australian Capital Territory,ACT,Temporary,Visitor,2011-12,2012,620,150,470
+Australian Capital Territory,ACT,Temporary,Visitor,2012-13,2013,640,130,510
+Australian Capital Territory,ACT,Temporary,Visitor,2013-14,2014,600,140,460
+Australian Capital Territory,ACT,Temporary,Visitor,2014-15,2015,670,130,540
+Australian Capital Territory,ACT,Temporary,Visitor,2015-16,2016,700,180,520
+Australian Capital Territory,ACT,Temporary,Visitor,2016-17,2017,800,190,610
+Australian Capital Territory,ACT,Temporary,Visitor,2017-18,2018,1120,280,840
+Australian Capital Territory,ACT,Temporary,Visitor,2018-19,2019,1350,410,940
+Australian Capital Territory,ACT,Temporary,Visitor,2019-20,2020,2190,290,1900
+Australian Capital Territory,ACT,Temporary,Visitor,2020-21,2021,120,350,-230
+Australian Capital Territory,ACT,Temporary,Visitor,2021-22,2022,960,370,590
+Australian Capital Territory,ACT,Temporary,Visitor,2022-23,2023,1980,320,1660
+Australian Capital Territory,ACT,Temporary,Visitor,2023-24,2024,1480,370,1110
+Australian Capital Territory,ACT,Temporary,Visitor,2024-25,2025,1050,380,670
+Australian Capital Territory,ACT,Temporary,Working holiday,2004-05,2005,80,10,70
+Australian Capital Territory,ACT,Temporary,Working holiday,2005-06,2006,100,10,90
+Australian Capital Territory,ACT,Temporary,Working holiday,2006-07,2007,120,20,100
+Australian Capital Territory,ACT,Temporary,Working holiday,2007-08,2008,170,20,150
+Australian Capital Territory,ACT,Temporary,Working holiday,2008-09,2009,190,40,150
+Australian Capital Territory,ACT,Temporary,Working holiday,2009-10,2010,230,70,160
+Australian Capital Territory,ACT,Temporary,Working holiday,2010-11,2011,250,100,150
+Australian Capital Territory,ACT,Temporary,Working holiday,2011-12,2012,400,80,320
+Australian Capital Territory,ACT,Temporary,Working holiday,2012-13,2013,370,130,240
+Australian Capital Territory,ACT,Temporary,Working holiday,2013-14,2014,310,150,160
+Australian Capital Territory,ACT,Temporary,Working holiday,2014-15,2015,270,140,130
+Australian Capital Territory,ACT,Temporary,Working holiday,2015-16,2016,260,130,130
+Australian Capital Territory,ACT,Temporary,Working holiday,2016-17,2017,280,100,180
+Australian Capital Territory,ACT,Temporary,Working holiday,2017-18,2018,350,100,250
+Australian Capital Territory,ACT,Temporary,Working holiday,2018-19,2019,260,130,130
+Australian Capital Territory,ACT,Temporary,Working holiday,2019-20,2020,190,100,90
+Australian Capital Territory,ACT,Temporary,Working holiday,2020-21,2021,10,40,-30
+Australian Capital Territory,ACT,Temporary,Working holiday,2021-22,2022,110,20,90
+Australian Capital Territory,ACT,Temporary,Working holiday,2022-23,2023,260,10,250
+Australian Capital Territory,ACT,Temporary,Working holiday,2023-24,2024,290,50,240
+Australian Capital Territory,ACT,Temporary,Working holiday,2024-25,2025,250,90,160
+Australian Capital Territory,ACT,Unknown,Unknown visa,2004-05,2005,260,270,-10
+Australian Capital Territory,ACT,Unknown,Unknown visa,2005-06,2006,310,290,20
+Australian Capital Territory,ACT,Unknown,Unknown visa,2006-07,2007,430,310,120
+Australian Capital Territory,ACT,Unknown,Unknown visa,2007-08,2008,320,300,20
+Australian Capital Territory,ACT,Unknown,Unknown visa,2008-09,2009,350,310,40
+Australian Capital Territory,ACT,Unknown,Unknown visa,2009-10,2010,390,380,10
+Australian Capital Territory,ACT,Unknown,Unknown visa,2010-11,2011,300,320,-20
+Australian Capital Territory,ACT,Unknown,Unknown visa,2011-12,2012,420,260,160
+Australian Capital Territory,ACT,Unknown,Unknown visa,2012-13,2013,300,210,90
+Australian Capital Territory,ACT,Unknown,Unknown visa,2013-14,2014,160,230,-70
+Australian Capital Territory,ACT,Unknown,Unknown visa,2014-15,2015,150,200,-50
+Australian Capital Territory,ACT,Unknown,Unknown visa,2015-16,2016,220,180,40
+Australian Capital Territory,ACT,Unknown,Unknown visa,2016-17,2017,170,200,-30
+Australian Capital Territory,ACT,Unknown,Unknown visa,2017-18,2018,180,350,-170
+Australian Capital Territory,ACT,Unknown,Unknown visa,2018-19,2019,220,230,-10
+Australian Capital Territory,ACT,Unknown,Unknown visa,2019-20,2020,170,260,-90
+Australian Capital Territory,ACT,Unknown,Unknown visa,2020-21,2021,20,90,-70
+Australian Capital Territory,ACT,Unknown,Unknown visa,2021-22,2022,0,0,0
+Australian Capital Territory,ACT,Unknown,Unknown visa,2022-23,2023,10,0,10
+Australian Capital Territory,ACT,Unknown,Unknown visa,2023-24,2024,-10,-10,0
+Australian Capital Territory,ACT,Unknown,Unknown visa,2024-25,2025,-10,0,-10
+New South Wales,NSW,Australian citizen,Australian citizen,2004-05,2005,23860,33540,-9680
+New South Wales,NSW,Australian citizen,Australian citizen,2005-06,2006,25190,33740,-8550
+New South Wales,NSW,Australian citizen,Australian citizen,2006-07,2007,26070,34850,-8780
+New South Wales,NSW,Australian citizen,Australian citizen,2007-08,2008,26170,36230,-10060
+New South Wales,NSW,Australian citizen,Australian citizen,2008-09,2009,27840,31000,-3160
+New South Wales,NSW,Australian citizen,Australian citizen,2009-10,2010,28130,31430,-3300
+New South Wales,NSW,Australian citizen,Australian citizen,2010-11,2011,28420,32940,-4520
+New South Wales,NSW,Australian citizen,Australian citizen,2011-12,2012,27090,31320,-4230
+New South Wales,NSW,Australian citizen,Australian citizen,2012-13,2013,27520,31610,-4090
+New South Wales,NSW,Australian citizen,Australian citizen,2013-14,2014,25750,33150,-7400
+New South Wales,NSW,Australian citizen,Australian citizen,2014-15,2015,25690,34220,-8530
+New South Wales,NSW,Australian citizen,Australian citizen,2015-16,2016,26460,34070,-7610
+New South Wales,NSW,Australian citizen,Australian citizen,2016-17,2017,27580,32320,-4740
+New South Wales,NSW,Australian citizen,Australian citizen,2017-18,2018,26370,32480,-6110
+New South Wales,NSW,Australian citizen,Australian citizen,2018-19,2019,27080,30350,-3270
+New South Wales,NSW,Australian citizen,Australian citizen,2019-20,2020,33840,21380,12460
+New South Wales,NSW,Australian citizen,Australian citizen,2020-21,2021,31060,15590,15470
+New South Wales,NSW,Australian citizen,Australian citizen,2021-22,2022,23760,29740,-5980
+New South Wales,NSW,Australian citizen,Australian citizen,2022-23,2023,20020,32790,-12770
+New South Wales,NSW,Australian citizen,Australian citizen,2023-24,2024,21210,30250,-9040
+New South Wales,NSW,Australian citizen,Australian citizen,2024-25,2025,22080,28130,-6050
+New South Wales,NSW,NZ citizen,NZ citizen (444),2004-05,2005,11140,5890,5250
+New South Wales,NSW,NZ citizen,NZ citizen (444),2005-06,2006,10870,5870,5000
+New South Wales,NSW,NZ citizen,NZ citizen (444),2006-07,2007,11200,5330,5870
+New South Wales,NSW,NZ citizen,NZ citizen (444),2007-08,2008,11370,4990,6380
+New South Wales,NSW,NZ citizen,NZ citizen (444),2008-09,2009,10090,4960,5130
+New South Wales,NSW,NZ citizen,NZ citizen (444),2009-10,2010,9490,4810,4680
+New South Wales,NSW,NZ citizen,NZ citizen (444),2010-11,2011,12400,4780,7620
+New South Wales,NSW,NZ citizen,NZ citizen (444),2011-12,2012,11680,4420,7260
+New South Wales,NSW,NZ citizen,NZ citizen (444),2012-13,2013,11310,4920,6390
+New South Wales,NSW,NZ citizen,NZ citizen (444),2013-14,2014,8930,5610,3320
+New South Wales,NSW,NZ citizen,NZ citizen (444),2014-15,2015,7740,5740,2000
+New South Wales,NSW,NZ citizen,NZ citizen (444),2015-16,2016,9230,5980,3250
+New South Wales,NSW,NZ citizen,NZ citizen (444),2016-17,2017,8730,5620,3110
+New South Wales,NSW,NZ citizen,NZ citizen (444),2017-18,2018,7300,5500,1800
+New South Wales,NSW,NZ citizen,NZ citizen (444),2018-19,2019,7130,5450,1680
+New South Wales,NSW,NZ citizen,NZ citizen (444),2019-20,2020,5110,5070,40
+New South Wales,NSW,NZ citizen,NZ citizen (444),2020-21,2021,7460,4580,2880
+New South Wales,NSW,NZ citizen,NZ citizen (444),2021-22,2022,5370,4670,700
+New South Wales,NSW,NZ citizen,NZ citizen (444),2022-23,2023,8390,4520,3870
+New South Wales,NSW,NZ citizen,NZ citizen (444),2023-24,2024,9420,3740,5680
+New South Wales,NSW,NZ citizen,NZ citizen (444),2024-25,2025,10050,3560,6490
+New South Wales,NSW,Permanent,Family,2004-05,2005,12370,1800,10570
+New South Wales,NSW,Permanent,Family,2005-06,2006,13250,1900,11350
+New South Wales,NSW,Permanent,Family,2006-07,2007,13530,1940,11590
+New South Wales,NSW,Permanent,Family,2007-08,2008,13810,2020,11790
+New South Wales,NSW,Permanent,Family,2008-09,2009,14230,2000,12230
+New South Wales,NSW,Permanent,Family,2009-10,2010,13950,2210,11740
+New South Wales,NSW,Permanent,Family,2010-11,2011,13090,2290,10800
+New South Wales,NSW,Permanent,Family,2011-12,2012,13120,2220,10900
+New South Wales,NSW,Permanent,Family,2012-13,2013,13280,2160,11120
+New South Wales,NSW,Permanent,Family,2013-14,2014,13160,2060,11100
+New South Wales,NSW,Permanent,Family,2014-15,2015,11770,2240,9530
+New South Wales,NSW,Permanent,Family,2015-16,2016,11580,2150,9430
+New South Wales,NSW,Permanent,Family,2016-17,2017,11070,2100,8970
+New South Wales,NSW,Permanent,Family,2017-18,2018,9720,2210,7510
+New South Wales,NSW,Permanent,Family,2018-19,2019,8830,2190,6640
+New South Wales,NSW,Permanent,Family,2019-20,2020,7330,2520,4810
+New South Wales,NSW,Permanent,Family,2020-21,2021,7580,1590,5990
+New South Wales,NSW,Permanent,Family,2021-22,2022,9630,2650,6980
+New South Wales,NSW,Permanent,Family,2022-23,2023,7400,2130,5270
+New South Wales,NSW,Permanent,Family,2023-24,2024,7660,1870,5790
+New South Wales,NSW,Permanent,Family,2024-25,2025,8460,1730,6730
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2004-05,2005,4420,100,4320
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2005-06,2006,4410,80,4330
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2006-07,2007,4200,60,4140
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2007-08,2008,2950,50,2900
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2008-09,2009,4080,20,4060
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2009-10,2010,3200,50,3150
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2010-11,2011,2840,50,2790
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2011-12,2012,2030,60,1970
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2012-13,2013,2790,70,2720
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2013-14,2014,4480,70,4410
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2014-15,2015,4770,60,4710
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2015-16,2016,3340,60,3280
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2016-17,2017,10720,60,10660
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2017-18,2018,4390,60,4330
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2018-19,2019,6250,70,6180
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2019-20,2020,5290,50,5240
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2020-21,2021,170,40,130
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2021-22,2022,3150,50,3100
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2022-23,2023,4320,40,4280
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2023-24,2024,5680,60,5620
+New South Wales,NSW,Permanent,Humanitarian & special eligibility,2024-25,2025,4440,70,4370
+New South Wales,NSW,Permanent,Other permanent,2004-05,2005,1350,1990,-640
+New South Wales,NSW,Permanent,Other permanent,2005-06,2006,1360,1830,-470
+New South Wales,NSW,Permanent,Other permanent,2006-07,2007,1370,1850,-480
+New South Wales,NSW,Permanent,Other permanent,2007-08,2008,1470,1910,-440
+New South Wales,NSW,Permanent,Other permanent,2008-09,2009,1460,1670,-210
+New South Wales,NSW,Permanent,Other permanent,2009-10,2010,1470,2070,-600
+New South Wales,NSW,Permanent,Other permanent,2010-11,2011,1550,1990,-440
+New South Wales,NSW,Permanent,Other permanent,2011-12,2012,1600,2030,-430
+New South Wales,NSW,Permanent,Other permanent,2012-13,2013,1800,1980,-180
+New South Wales,NSW,Permanent,Other permanent,2013-14,2014,2070,2080,-10
+New South Wales,NSW,Permanent,Other permanent,2014-15,2015,2020,2400,-380
+New South Wales,NSW,Permanent,Other permanent,2015-16,2016,2190,2310,-120
+New South Wales,NSW,Permanent,Other permanent,2016-17,2017,2270,2460,-190
+New South Wales,NSW,Permanent,Other permanent,2017-18,2018,2190,2680,-490
+New South Wales,NSW,Permanent,Other permanent,2018-19,2019,2670,2950,-280
+New South Wales,NSW,Permanent,Other permanent,2019-20,2020,3760,3520,240
+New South Wales,NSW,Permanent,Other permanent,2020-21,2021,3040,2570,470
+New South Wales,NSW,Permanent,Other permanent,2021-22,2022,3540,4070,-530
+New South Wales,NSW,Permanent,Other permanent,2022-23,2023,4250,3630,620
+New South Wales,NSW,Permanent,Other permanent,2023-24,2024,3580,3030,550
+New South Wales,NSW,Permanent,Other permanent,2024-25,2025,3170,2980,190
+New South Wales,NSW,Permanent,Skilled (permanent),2004-05,2005,11690,2690,9000
+New South Wales,NSW,Permanent,Skilled (permanent),2005-06,2006,12410,2880,9530
+New South Wales,NSW,Permanent,Skilled (permanent),2006-07,2007,12890,2940,9950
+New South Wales,NSW,Permanent,Skilled (permanent),2007-08,2008,13530,2940,10590
+New South Wales,NSW,Permanent,Skilled (permanent),2008-09,2009,12730,2810,9920
+New South Wales,NSW,Permanent,Skilled (permanent),2009-10,2010,10040,3250,6790
+New South Wales,NSW,Permanent,Skilled (permanent),2010-11,2011,9040,2640,6400
+New South Wales,NSW,Permanent,Skilled (permanent),2011-12,2012,9440,2570,6870
+New South Wales,NSW,Permanent,Skilled (permanent),2012-13,2013,8990,2330,6660
+New South Wales,NSW,Permanent,Skilled (permanent),2013-14,2014,11040,2430,8610
+New South Wales,NSW,Permanent,Skilled (permanent),2014-15,2015,12290,2700,9590
+New South Wales,NSW,Permanent,Skilled (permanent),2015-16,2016,13230,2590,10640
+New South Wales,NSW,Permanent,Skilled (permanent),2016-17,2017,16190,2490,13700
+New South Wales,NSW,Permanent,Skilled (permanent),2017-18,2018,15380,2680,12700
+New South Wales,NSW,Permanent,Skilled (permanent),2018-19,2019,13000,2680,10320
+New South Wales,NSW,Permanent,Skilled (permanent),2019-20,2020,9290,2820,6470
+New South Wales,NSW,Permanent,Skilled (permanent),2020-21,2021,7250,2030,5220
+New South Wales,NSW,Permanent,Skilled (permanent),2021-22,2022,8790,2660,6130
+New South Wales,NSW,Permanent,Skilled (permanent),2022-23,2023,9620,1730,7890
+New South Wales,NSW,Permanent,Skilled (permanent),2023-24,2024,11920,1560,10360
+New South Wales,NSW,Permanent,Skilled (permanent),2024-25,2025,12560,1510,11050
+New South Wales,NSW,Temporary,Other temporary,2004-05,2005,3070,6840,-3770
+New South Wales,NSW,Temporary,Other temporary,2005-06,2006,2540,5680,-3140
+New South Wales,NSW,Temporary,Other temporary,2006-07,2007,2390,5040,-2650
+New South Wales,NSW,Temporary,Other temporary,2007-08,2008,2550,4960,-2410
+New South Wales,NSW,Temporary,Other temporary,2008-09,2009,1720,5660,-3940
+New South Wales,NSW,Temporary,Other temporary,2009-10,2010,1780,6380,-4600
+New South Wales,NSW,Temporary,Other temporary,2010-11,2011,1950,7450,-5500
+New South Wales,NSW,Temporary,Other temporary,2011-12,2012,2030,6730,-4700
+New South Wales,NSW,Temporary,Other temporary,2012-13,2013,2160,6820,-4660
+New South Wales,NSW,Temporary,Other temporary,2013-14,2014,2470,7260,-4790
+New South Wales,NSW,Temporary,Other temporary,2014-15,2015,2540,6910,-4370
+New South Wales,NSW,Temporary,Other temporary,2015-16,2016,2830,7420,-4590
+New South Wales,NSW,Temporary,Other temporary,2016-17,2017,3540,8480,-4940
+New South Wales,NSW,Temporary,Other temporary,2017-18,2018,4090,10140,-6050
+New South Wales,NSW,Temporary,Other temporary,2018-19,2019,4420,11730,-7310
+New South Wales,NSW,Temporary,Other temporary,2019-20,2020,4880,14910,-10030
+New South Wales,NSW,Temporary,Other temporary,2020-21,2021,4180,16500,-12320
+New South Wales,NSW,Temporary,Other temporary,2021-22,2022,8910,15920,-7010
+New South Wales,NSW,Temporary,Other temporary,2022-23,2023,13340,11000,2340
+New South Wales,NSW,Temporary,Other temporary,2023-24,2024,11920,15290,-3370
+New South Wales,NSW,Temporary,Other temporary,2024-25,2025,7540,15530,-7990
+New South Wales,NSW,Temporary,Skilled (temporary),2004-05,2005,6330,3730,2600
+New South Wales,NSW,Temporary,Skilled (temporary),2005-06,2006,7820,4360,3460
+New South Wales,NSW,Temporary,Skilled (temporary),2006-07,2007,9590,4400,5190
+New South Wales,NSW,Temporary,Skilled (temporary),2007-08,2008,11790,4350,7440
+New South Wales,NSW,Temporary,Skilled (temporary),2008-09,2009,10410,5410,5000
+New South Wales,NSW,Temporary,Skilled (temporary),2009-10,2010,7500,5440,2060
+New South Wales,NSW,Temporary,Skilled (temporary),2010-11,2011,10990,4920,6070
+New South Wales,NSW,Temporary,Skilled (temporary),2011-12,2012,12860,5250,7610
+New South Wales,NSW,Temporary,Skilled (temporary),2012-13,2013,13030,6290,6740
+New South Wales,NSW,Temporary,Skilled (temporary),2013-14,2014,11900,7020,4880
+New South Wales,NSW,Temporary,Skilled (temporary),2014-15,2015,12100,6900,5200
+New South Wales,NSW,Temporary,Skilled (temporary),2015-16,2016,12900,6430,6470
+New South Wales,NSW,Temporary,Skilled (temporary),2016-17,2017,14100,6370,7730
+New South Wales,NSW,Temporary,Skilled (temporary),2017-18,2018,11380,6640,4740
+New South Wales,NSW,Temporary,Skilled (temporary),2018-19,2019,13780,7200,6580
+New South Wales,NSW,Temporary,Skilled (temporary),2019-20,2020,9430,6640,2790
+New South Wales,NSW,Temporary,Skilled (temporary),2020-21,2021,4560,4990,-430
+New South Wales,NSW,Temporary,Skilled (temporary),2021-22,2022,9880,4220,5660
+New South Wales,NSW,Temporary,Skilled (temporary),2022-23,2023,18290,2650,15640
+New South Wales,NSW,Temporary,Skilled (temporary),2023-24,2024,16310,3310,13000
+New South Wales,NSW,Temporary,Skilled (temporary),2024-25,2025,14560,4420,10140
+New South Wales,NSW,Temporary,Student,2004-05,2005,24850,7620,17230
+New South Wales,NSW,Temporary,Student,2005-06,2006,27110,8900,18210
+New South Wales,NSW,Temporary,Student,2006-07,2007,39490,8560,30930
+New South Wales,NSW,Temporary,Student,2007-08,2008,50620,9040,41580
+New South Wales,NSW,Temporary,Student,2008-09,2009,51280,10970,40310
+New South Wales,NSW,Temporary,Student,2009-10,2010,35970,14970,21000
+New South Wales,NSW,Temporary,Student,2010-11,2011,26520,17930,8590
+New South Wales,NSW,Temporary,Student,2011-12,2012,25840,16860,8980
+New South Wales,NSW,Temporary,Student,2012-13,2013,30910,15660,15250
+New South Wales,NSW,Temporary,Student,2013-14,2014,39740,15030,24710
+New South Wales,NSW,Temporary,Student,2014-15,2015,44960,15310,29650
+New South Wales,NSW,Temporary,Student,2015-16,2016,48170,15020,33150
+New South Wales,NSW,Temporary,Student,2016-17,2017,55670,15930,39740
+New South Wales,NSW,Temporary,Student,2017-18,2018,59550,20300,39250
+New South Wales,NSW,Temporary,Student,2018-19,2019,58670,25740,32930
+New South Wales,NSW,Temporary,Student,2019-20,2020,36210,39980,-3770
+New South Wales,NSW,Temporary,Student,2020-21,2021,640,21430,-20790
+New South Wales,NSW,Temporary,Student,2021-22,2022,55380,10020,45360
+New South Wales,NSW,Temporary,Student,2022-23,2023,97800,5900,91900
+New South Wales,NSW,Temporary,Student,2023-24,2024,69160,13330,55830
+New South Wales,NSW,Temporary,Student,2024-25,2025,55030,19080,35950
+New South Wales,NSW,Temporary,Visitor,2004-05,2005,15530,6040,9490
+New South Wales,NSW,Temporary,Visitor,2005-06,2006,14910,6730,8180
+New South Wales,NSW,Temporary,Visitor,2006-07,2007,15530,4710,10820
+New South Wales,NSW,Temporary,Visitor,2007-08,2008,20600,9040,11560
+New South Wales,NSW,Temporary,Visitor,2008-09,2009,17330,10460,6870
+New South Wales,NSW,Temporary,Visitor,2009-10,2010,15430,7220,8210
+New South Wales,NSW,Temporary,Visitor,2010-11,2011,15470,6750,8720
+New South Wales,NSW,Temporary,Visitor,2011-12,2012,15160,5910,9250
+New South Wales,NSW,Temporary,Visitor,2012-13,2013,18980,6830,12150
+New South Wales,NSW,Temporary,Visitor,2013-14,2014,16700,4300,12400
+New South Wales,NSW,Temporary,Visitor,2014-15,2015,18280,4460,13820
+New South Wales,NSW,Temporary,Visitor,2015-16,2016,21450,5520,15930
+New South Wales,NSW,Temporary,Visitor,2016-17,2017,27310,7410,19900
+New South Wales,NSW,Temporary,Visitor,2017-18,2018,30860,7920,22940
+New South Wales,NSW,Temporary,Visitor,2018-19,2019,33820,10320,23500
+New South Wales,NSW,Temporary,Visitor,2019-20,2020,40660,6280,34380
+New South Wales,NSW,Temporary,Visitor,2020-21,2021,3700,5320,-1620
+New South Wales,NSW,Temporary,Visitor,2021-22,2022,16220,5940,10280
+New South Wales,NSW,Temporary,Visitor,2022-23,2023,40240,6510,33730
+New South Wales,NSW,Temporary,Visitor,2023-24,2024,31840,6130,25710
+New South Wales,NSW,Temporary,Visitor,2024-25,2025,19600,6320,13280
+New South Wales,NSW,Temporary,Working holiday,2004-05,2005,7060,1800,5260
+New South Wales,NSW,Temporary,Working holiday,2005-06,2006,9020,1380,7640
+New South Wales,NSW,Temporary,Working holiday,2006-07,2007,10700,1800,8900
+New South Wales,NSW,Temporary,Working holiday,2007-08,2008,13020,2770,10250
+New South Wales,NSW,Temporary,Working holiday,2008-09,2009,13980,3310,10670
+New South Wales,NSW,Temporary,Working holiday,2009-10,2010,12840,4250,8590
+New South Wales,NSW,Temporary,Working holiday,2010-11,2011,15560,4140,11420
+New South Wales,NSW,Temporary,Working holiday,2011-12,2012,15990,4060,11930
+New South Wales,NSW,Temporary,Working holiday,2012-13,2013,17750,5100,12650
+New South Wales,NSW,Temporary,Working holiday,2013-14,2014,17560,6890,10670
+New South Wales,NSW,Temporary,Working holiday,2014-15,2015,17310,7760,9550
+New South Wales,NSW,Temporary,Working holiday,2015-16,2016,18070,7640,10430
+New South Wales,NSW,Temporary,Working holiday,2016-17,2017,19440,7860,11580
+New South Wales,NSW,Temporary,Working holiday,2017-18,2018,19270,7260,12010
+New South Wales,NSW,Temporary,Working holiday,2018-19,2019,17700,8450,9250
+New South Wales,NSW,Temporary,Working holiday,2019-20,2020,15890,8630,7260
+New South Wales,NSW,Temporary,Working holiday,2020-21,2021,560,2250,-1690
+New South Wales,NSW,Temporary,Working holiday,2021-22,2022,7610,1590,6020
+New South Wales,NSW,Temporary,Working holiday,2022-23,2023,26220,950,25270
+New South Wales,NSW,Temporary,Working holiday,2023-24,2024,26590,3610,22980
+New South Wales,NSW,Temporary,Working holiday,2024-25,2025,25240,7840,17400
+New South Wales,NSW,Unknown,Unknown visa,2004-05,2005,3510,5700,-2190
+New South Wales,NSW,Unknown,Unknown visa,2005-06,2006,3860,5790,-1930
+New South Wales,NSW,Unknown,Unknown visa,2006-07,2007,3640,5550,-1910
+New South Wales,NSW,Unknown,Unknown visa,2007-08,2008,3080,5270,-2190
+New South Wales,NSW,Unknown,Unknown visa,2008-09,2009,3870,4010,-140
+New South Wales,NSW,Unknown,Unknown visa,2009-10,2010,4410,4970,-560
+New South Wales,NSW,Unknown,Unknown visa,2010-11,2011,4150,4420,-270
+New South Wales,NSW,Unknown,Unknown visa,2011-12,2012,4020,2210,1810
+New South Wales,NSW,Unknown,Unknown visa,2012-13,2013,4110,2100,2010
+New South Wales,NSW,Unknown,Unknown visa,2013-14,2014,1730,2640,-910
+New South Wales,NSW,Unknown,Unknown visa,2014-15,2015,1440,1910,-470
+New South Wales,NSW,Unknown,Unknown visa,2015-16,2016,1440,1700,-260
+New South Wales,NSW,Unknown,Unknown visa,2016-17,2017,1680,1690,-10
+New South Wales,NSW,Unknown,Unknown visa,2017-18,2018,950,2930,-1980
+New South Wales,NSW,Unknown,Unknown visa,2018-19,2019,920,2590,-1670
+New South Wales,NSW,Unknown,Unknown visa,2019-20,2020,740,2740,-2000
+New South Wales,NSW,Unknown,Unknown visa,2020-21,2021,330,960,-630
+New South Wales,NSW,Unknown,Unknown visa,2021-22,2022,-10,-20,10
+New South Wales,NSW,Unknown,Unknown visa,2022-23,2023,-20,-20,0
+New South Wales,NSW,Unknown,Unknown visa,2023-24,2024,0,-10,10
+New South Wales,NSW,Unknown,Unknown visa,2024-25,2025,0,-10,10
+Northern Territory,NT,Australian citizen,Australian citizen,2004-05,2005,710,860,-150
+Northern Territory,NT,Australian citizen,Australian citizen,2005-06,2006,520,810,-290
+Northern Territory,NT,Australian citizen,Australian citizen,2006-07,2007,780,790,-10
+Northern Territory,NT,Australian citizen,Australian citizen,2007-08,2008,750,930,-180
+Northern Territory,NT,Australian citizen,Australian citizen,2008-09,2009,970,970,0
+Northern Territory,NT,Australian citizen,Australian citizen,2009-10,2010,690,750,-60
+Northern Territory,NT,Australian citizen,Australian citizen,2010-11,2011,640,900,-260
+Northern Territory,NT,Australian citizen,Australian citizen,2011-12,2012,750,770,-20
+Northern Territory,NT,Australian citizen,Australian citizen,2012-13,2013,770,760,10
+Northern Territory,NT,Australian citizen,Australian citizen,2013-14,2014,780,900,-120
+Northern Territory,NT,Australian citizen,Australian citizen,2014-15,2015,680,830,-150
+Northern Territory,NT,Australian citizen,Australian citizen,2015-16,2016,700,920,-220
+Northern Territory,NT,Australian citizen,Australian citizen,2016-17,2017,660,880,-220
+Northern Territory,NT,Australian citizen,Australian citizen,2017-18,2018,620,1000,-380
+Northern Territory,NT,Australian citizen,Australian citizen,2018-19,2019,600,970,-370
+Northern Territory,NT,Australian citizen,Australian citizen,2019-20,2020,620,720,-100
+Northern Territory,NT,Australian citizen,Australian citizen,2020-21,2021,330,400,-70
+Northern Territory,NT,Australian citizen,Australian citizen,2021-22,2022,550,720,-170
+Northern Territory,NT,Australian citizen,Australian citizen,2022-23,2023,370,740,-370
+Northern Territory,NT,Australian citizen,Australian citizen,2023-24,2024,380,740,-360
+Northern Territory,NT,Australian citizen,Australian citizen,2024-25,2025,390,640,-250
+Northern Territory,NT,NZ citizen,NZ citizen (444),2004-05,2005,350,420,-70
+Northern Territory,NT,NZ citizen,NZ citizen (444),2005-06,2006,240,180,60
+Northern Territory,NT,NZ citizen,NZ citizen (444),2006-07,2007,240,240,0
+Northern Territory,NT,NZ citizen,NZ citizen (444),2007-08,2008,290,190,100
+Northern Territory,NT,NZ citizen,NZ citizen (444),2008-09,2009,340,200,140
+Northern Territory,NT,NZ citizen,NZ citizen (444),2009-10,2010,300,240,60
+Northern Territory,NT,NZ citizen,NZ citizen (444),2010-11,2011,420,190,230
+Northern Territory,NT,NZ citizen,NZ citizen (444),2011-12,2012,640,200,440
+Northern Territory,NT,NZ citizen,NZ citizen (444),2012-13,2013,680,250,430
+Northern Territory,NT,NZ citizen,NZ citizen (444),2013-14,2014,420,320,100
+Northern Territory,NT,NZ citizen,NZ citizen (444),2014-15,2015,400,400,0
+Northern Territory,NT,NZ citizen,NZ citizen (444),2015-16,2016,370,410,-40
+Northern Territory,NT,NZ citizen,NZ citizen (444),2016-17,2017,500,450,50
+Northern Territory,NT,NZ citizen,NZ citizen (444),2017-18,2018,320,330,-10
+Northern Territory,NT,NZ citizen,NZ citizen (444),2018-19,2019,270,270,0
+Northern Territory,NT,NZ citizen,NZ citizen (444),2019-20,2020,180,250,-70
+Northern Territory,NT,NZ citizen,NZ citizen (444),2020-21,2021,130,180,-50
+Northern Territory,NT,NZ citizen,NZ citizen (444),2021-22,2022,150,170,-20
+Northern Territory,NT,NZ citizen,NZ citizen (444),2022-23,2023,240,170,70
+Northern Territory,NT,NZ citizen,NZ citizen (444),2023-24,2024,410,120,290
+Northern Territory,NT,NZ citizen,NZ citizen (444),2024-25,2025,410,130,280
+Northern Territory,NT,Permanent,Family,2004-05,2005,190,20,170
+Northern Territory,NT,Permanent,Family,2005-06,2006,190,30,160
+Northern Territory,NT,Permanent,Family,2006-07,2007,250,50,200
+Northern Territory,NT,Permanent,Family,2007-08,2008,260,40,220
+Northern Territory,NT,Permanent,Family,2008-09,2009,300,50,250
+Northern Territory,NT,Permanent,Family,2009-10,2010,350,40,310
+Northern Territory,NT,Permanent,Family,2010-11,2011,290,60,230
+Northern Territory,NT,Permanent,Family,2011-12,2012,360,50,310
+Northern Territory,NT,Permanent,Family,2012-13,2013,410,40,370
+Northern Territory,NT,Permanent,Family,2013-14,2014,420,70,350
+Northern Territory,NT,Permanent,Family,2014-15,2015,300,80,220
+Northern Territory,NT,Permanent,Family,2015-16,2016,270,70,200
+Northern Territory,NT,Permanent,Family,2016-17,2017,280,80,200
+Northern Territory,NT,Permanent,Family,2017-18,2018,210,60,150
+Northern Territory,NT,Permanent,Family,2018-19,2019,180,60,120
+Northern Territory,NT,Permanent,Family,2019-20,2020,130,40,90
+Northern Territory,NT,Permanent,Family,2020-21,2021,80,20,60
+Northern Territory,NT,Permanent,Family,2021-22,2022,230,50,180
+Northern Territory,NT,Permanent,Family,2022-23,2023,110,40,70
+Northern Territory,NT,Permanent,Family,2023-24,2024,110,40,70
+Northern Territory,NT,Permanent,Family,2024-25,2025,100,40,60
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2004-05,2005,120,0,120
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2005-06,2006,150,0,150
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2006-07,2007,140,0,140
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2007-08,2008,90,0,90
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2008-09,2009,100,0,100
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2009-10,2010,100,0,100
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2010-11,2011,80,0,80
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2011-12,2012,70,0,70
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2012-13,2013,30,0,30
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2013-14,2014,90,0,90
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2014-15,2015,20,0,20
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2015-16,2016,70,0,70
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2016-17,2017,100,10,90
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2017-18,2018,40,0,40
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2018-19,2019,90,0,90
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2019-20,2020,60,0,60
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2020-21,2021,10,0,10
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2021-22,2022,70,0,70
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2022-23,2023,180,0,180
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2023-24,2024,180,0,180
+Northern Territory,NT,Permanent,Humanitarian & special eligibility,2024-25,2025,120,0,120
+Northern Territory,NT,Permanent,Other permanent,2004-05,2005,20,30,-10
+Northern Territory,NT,Permanent,Other permanent,2005-06,2006,10,40,-30
+Northern Territory,NT,Permanent,Other permanent,2006-07,2007,20,30,-10
+Northern Territory,NT,Permanent,Other permanent,2007-08,2008,20,30,-10
+Northern Territory,NT,Permanent,Other permanent,2008-09,2009,30,30,0
+Northern Territory,NT,Permanent,Other permanent,2009-10,2010,20,30,-10
+Northern Territory,NT,Permanent,Other permanent,2010-11,2011,30,40,-10
+Northern Territory,NT,Permanent,Other permanent,2011-12,2012,20,30,-10
+Northern Territory,NT,Permanent,Other permanent,2012-13,2013,30,30,0
+Northern Territory,NT,Permanent,Other permanent,2013-14,2014,30,40,-10
+Northern Territory,NT,Permanent,Other permanent,2014-15,2015,30,40,-10
+Northern Territory,NT,Permanent,Other permanent,2015-16,2016,40,50,-10
+Northern Territory,NT,Permanent,Other permanent,2016-17,2017,50,50,0
+Northern Territory,NT,Permanent,Other permanent,2017-18,2018,30,60,-30
+Northern Territory,NT,Permanent,Other permanent,2018-19,2019,30,70,-40
+Northern Territory,NT,Permanent,Other permanent,2019-20,2020,30,90,-60
+Northern Territory,NT,Permanent,Other permanent,2020-21,2021,30,30,0
+Northern Territory,NT,Permanent,Other permanent,2021-22,2022,80,70,10
+Northern Territory,NT,Permanent,Other permanent,2022-23,2023,40,50,-10
+Northern Territory,NT,Permanent,Other permanent,2023-24,2024,30,40,-10
+Northern Territory,NT,Permanent,Other permanent,2024-25,2025,30,50,-20
+Northern Territory,NT,Permanent,Skilled (permanent),2004-05,2005,110,20,90
+Northern Territory,NT,Permanent,Skilled (permanent),2005-06,2006,130,30,100
+Northern Territory,NT,Permanent,Skilled (permanent),2006-07,2007,190,30,160
+Northern Territory,NT,Permanent,Skilled (permanent),2007-08,2008,190,40,150
+Northern Territory,NT,Permanent,Skilled (permanent),2008-09,2009,240,30,210
+Northern Territory,NT,Permanent,Skilled (permanent),2009-10,2010,280,50,230
+Northern Territory,NT,Permanent,Skilled (permanent),2010-11,2011,210,70,140
+Northern Territory,NT,Permanent,Skilled (permanent),2011-12,2012,350,50,300
+Northern Territory,NT,Permanent,Skilled (permanent),2012-13,2013,270,40,230
+Northern Territory,NT,Permanent,Skilled (permanent),2013-14,2014,420,90,330
+Northern Territory,NT,Permanent,Skilled (permanent),2014-15,2015,560,100,460
+Northern Territory,NT,Permanent,Skilled (permanent),2015-16,2016,620,120,500
+Northern Territory,NT,Permanent,Skilled (permanent),2016-17,2017,600,110,490
+Northern Territory,NT,Permanent,Skilled (permanent),2017-18,2018,560,90,470
+Northern Territory,NT,Permanent,Skilled (permanent),2018-19,2019,590,80,510
+Northern Territory,NT,Permanent,Skilled (permanent),2019-20,2020,340,120,220
+Northern Territory,NT,Permanent,Skilled (permanent),2020-21,2021,90,50,40
+Northern Territory,NT,Permanent,Skilled (permanent),2021-22,2022,480,80,400
+Northern Territory,NT,Permanent,Skilled (permanent),2022-23,2023,610,60,550
+Northern Territory,NT,Permanent,Skilled (permanent),2023-24,2024,620,70,550
+Northern Territory,NT,Permanent,Skilled (permanent),2024-25,2025,880,60,820
+Northern Territory,NT,Temporary,Other temporary,2004-05,2005,140,200,-60
+Northern Territory,NT,Temporary,Other temporary,2005-06,2006,120,370,-250
+Northern Territory,NT,Temporary,Other temporary,2006-07,2007,100,230,-130
+Northern Territory,NT,Temporary,Other temporary,2007-08,2008,100,180,-80
+Northern Territory,NT,Temporary,Other temporary,2008-09,2009,120,220,-100
+Northern Territory,NT,Temporary,Other temporary,2009-10,2010,80,210,-130
+Northern Territory,NT,Temporary,Other temporary,2010-11,2011,110,250,-140
+Northern Territory,NT,Temporary,Other temporary,2011-12,2012,180,240,-60
+Northern Territory,NT,Temporary,Other temporary,2012-13,2013,190,250,-60
+Northern Territory,NT,Temporary,Other temporary,2013-14,2014,130,470,-340
+Northern Territory,NT,Temporary,Other temporary,2014-15,2015,180,470,-290
+Northern Territory,NT,Temporary,Other temporary,2015-16,2016,230,440,-210
+Northern Territory,NT,Temporary,Other temporary,2016-17,2017,210,590,-380
+Northern Territory,NT,Temporary,Other temporary,2017-18,2018,200,400,-200
+Northern Territory,NT,Temporary,Other temporary,2018-19,2019,250,390,-140
+Northern Territory,NT,Temporary,Other temporary,2019-20,2020,330,350,-20
+Northern Territory,NT,Temporary,Other temporary,2020-21,2021,390,410,-20
+Northern Territory,NT,Temporary,Other temporary,2021-22,2022,1560,520,1040
+Northern Territory,NT,Temporary,Other temporary,2022-23,2023,870,540,330
+Northern Territory,NT,Temporary,Other temporary,2023-24,2024,610,480,130
+Northern Territory,NT,Temporary,Other temporary,2024-25,2025,510,400,110
+Northern Territory,NT,Temporary,Skilled (temporary),2004-05,2005,240,60,180
+Northern Territory,NT,Temporary,Skilled (temporary),2005-06,2006,450,100,350
+Northern Territory,NT,Temporary,Skilled (temporary),2006-07,2007,710,130,580
+Northern Territory,NT,Temporary,Skilled (temporary),2007-08,2008,830,120,710
+Northern Territory,NT,Temporary,Skilled (temporary),2008-09,2009,940,150,790
+Northern Territory,NT,Temporary,Skilled (temporary),2009-10,2010,630,160,470
+Northern Territory,NT,Temporary,Skilled (temporary),2010-11,2011,540,120,420
+Northern Territory,NT,Temporary,Skilled (temporary),2011-12,2012,910,110,800
+Northern Territory,NT,Temporary,Skilled (temporary),2012-13,2013,880,130,750
+Northern Territory,NT,Temporary,Skilled (temporary),2013-14,2014,690,260,430
+Northern Territory,NT,Temporary,Skilled (temporary),2014-15,2015,620,370,250
+Northern Territory,NT,Temporary,Skilled (temporary),2015-16,2016,550,290,260
+Northern Territory,NT,Temporary,Skilled (temporary),2016-17,2017,560,310,250
+Northern Territory,NT,Temporary,Skilled (temporary),2017-18,2018,370,480,-110
+Northern Territory,NT,Temporary,Skilled (temporary),2018-19,2019,310,350,-40
+Northern Territory,NT,Temporary,Skilled (temporary),2019-20,2020,180,150,30
+Northern Territory,NT,Temporary,Skilled (temporary),2020-21,2021,60,90,-30
+Northern Territory,NT,Temporary,Skilled (temporary),2021-22,2022,240,50,190
+Northern Territory,NT,Temporary,Skilled (temporary),2022-23,2023,430,40,390
+Northern Territory,NT,Temporary,Skilled (temporary),2023-24,2024,580,50,530
+Northern Territory,NT,Temporary,Skilled (temporary),2024-25,2025,750,60,690
+Northern Territory,NT,Temporary,Student,2004-05,2005,120,60,60
+Northern Territory,NT,Temporary,Student,2005-06,2006,140,40,100
+Northern Territory,NT,Temporary,Student,2006-07,2007,210,70,140
+Northern Territory,NT,Temporary,Student,2007-08,2008,260,70,190
+Northern Territory,NT,Temporary,Student,2008-09,2009,330,50,280
+Northern Territory,NT,Temporary,Student,2009-10,2010,320,80,240
+Northern Territory,NT,Temporary,Student,2010-11,2011,230,100,130
+Northern Territory,NT,Temporary,Student,2011-12,2012,330,90,240
+Northern Territory,NT,Temporary,Student,2012-13,2013,390,100,290
+Northern Territory,NT,Temporary,Student,2013-14,2014,480,120,360
+Northern Territory,NT,Temporary,Student,2014-15,2015,580,130,450
+Northern Territory,NT,Temporary,Student,2015-16,2016,650,130,520
+Northern Territory,NT,Temporary,Student,2016-17,2017,620,170,450
+Northern Territory,NT,Temporary,Student,2017-18,2018,440,120,320
+Northern Territory,NT,Temporary,Student,2018-19,2019,550,120,430
+Northern Territory,NT,Temporary,Student,2019-20,2020,380,130,250
+Northern Territory,NT,Temporary,Student,2020-21,2021,30,70,-40
+Northern Territory,NT,Temporary,Student,2021-22,2022,640,80,560
+Northern Territory,NT,Temporary,Student,2022-23,2023,1580,50,1530
+Northern Territory,NT,Temporary,Student,2023-24,2024,1150,50,1100
+Northern Territory,NT,Temporary,Student,2024-25,2025,970,80,890
+Northern Territory,NT,Temporary,Visitor,2004-05,2005,470,220,250
+Northern Territory,NT,Temporary,Visitor,2005-06,2006,520,290,230
+Northern Territory,NT,Temporary,Visitor,2006-07,2007,400,220,180
+Northern Territory,NT,Temporary,Visitor,2007-08,2008,500,350,150
+Northern Territory,NT,Temporary,Visitor,2008-09,2009,480,240,240
+Northern Territory,NT,Temporary,Visitor,2009-10,2010,390,200,190
+Northern Territory,NT,Temporary,Visitor,2010-11,2011,510,420,90
+Northern Territory,NT,Temporary,Visitor,2011-12,2012,510,230,280
+Northern Territory,NT,Temporary,Visitor,2012-13,2013,580,150,430
+Northern Territory,NT,Temporary,Visitor,2013-14,2014,600,130,470
+Northern Territory,NT,Temporary,Visitor,2014-15,2015,600,210,390
+Northern Territory,NT,Temporary,Visitor,2015-16,2016,650,240,410
+Northern Territory,NT,Temporary,Visitor,2016-17,2017,710,400,310
+Northern Territory,NT,Temporary,Visitor,2017-18,2018,640,190,450
+Northern Territory,NT,Temporary,Visitor,2018-19,2019,930,220,710
+Northern Territory,NT,Temporary,Visitor,2019-20,2020,1060,150,910
+Northern Territory,NT,Temporary,Visitor,2020-21,2021,70,110,-40
+Northern Territory,NT,Temporary,Visitor,2021-22,2022,430,170,260
+Northern Territory,NT,Temporary,Visitor,2022-23,2023,870,170,700
+Northern Territory,NT,Temporary,Visitor,2023-24,2024,620,160,460
+Northern Territory,NT,Temporary,Visitor,2024-25,2025,600,210,390
+Northern Territory,NT,Temporary,Working holiday,2004-05,2005,110,30,80
+Northern Territory,NT,Temporary,Working holiday,2005-06,2006,110,20,90
+Northern Territory,NT,Temporary,Working holiday,2006-07,2007,230,90,140
+Northern Territory,NT,Temporary,Working holiday,2007-08,2008,410,180,230
+Northern Territory,NT,Temporary,Working holiday,2008-09,2009,490,230,260
+Northern Territory,NT,Temporary,Working holiday,2009-10,2010,480,500,-20
+Northern Territory,NT,Temporary,Working holiday,2010-11,2011,620,600,20
+Northern Territory,NT,Temporary,Working holiday,2011-12,2012,1380,610,770
+Northern Territory,NT,Temporary,Working holiday,2012-13,2013,1500,770,730
+Northern Territory,NT,Temporary,Working holiday,2013-14,2014,1460,960,500
+Northern Territory,NT,Temporary,Working holiday,2014-15,2015,1180,1020,160
+Northern Territory,NT,Temporary,Working holiday,2015-16,2016,1040,840,200
+Northern Territory,NT,Temporary,Working holiday,2016-17,2017,980,700,280
+Northern Territory,NT,Temporary,Working holiday,2017-18,2018,890,530,360
+Northern Territory,NT,Temporary,Working holiday,2018-19,2019,880,500,380
+Northern Territory,NT,Temporary,Working holiday,2019-20,2020,480,470,10
+Northern Territory,NT,Temporary,Working holiday,2020-21,2021,10,140,-130
+Northern Territory,NT,Temporary,Working holiday,2021-22,2022,380,60,320
+Northern Territory,NT,Temporary,Working holiday,2022-23,2023,1050,50,1000
+Northern Territory,NT,Temporary,Working holiday,2023-24,2024,1030,170,860
+Northern Territory,NT,Temporary,Working holiday,2024-25,2025,820,300,520
+Northern Territory,NT,Unknown,Unknown visa,2004-05,2005,1850,1500,350
+Northern Territory,NT,Unknown,Unknown visa,2005-06,2006,1330,1360,-30
+Northern Territory,NT,Unknown,Unknown visa,2006-07,2007,1290,1520,-230
+Northern Territory,NT,Unknown,Unknown visa,2007-08,2008,1010,960,50
+Northern Territory,NT,Unknown,Unknown visa,2008-09,2009,1200,1270,-70
+Northern Territory,NT,Unknown,Unknown visa,2009-10,2010,1030,1180,-150
+Northern Territory,NT,Unknown,Unknown visa,2010-11,2011,1130,960,170
+Northern Territory,NT,Unknown,Unknown visa,2011-12,2012,1250,1040,210
+Northern Territory,NT,Unknown,Unknown visa,2012-13,2013,2110,970,1140
+Northern Territory,NT,Unknown,Unknown visa,2013-14,2014,740,1150,-410
+Northern Territory,NT,Unknown,Unknown visa,2014-15,2015,1750,900,850
+Northern Territory,NT,Unknown,Unknown visa,2015-16,2016,1180,1810,-630
+Northern Territory,NT,Unknown,Unknown visa,2016-17,2017,1630,1310,320
+Northern Territory,NT,Unknown,Unknown visa,2017-18,2018,700,1010,-310
+Northern Territory,NT,Unknown,Unknown visa,2018-19,2019,870,1590,-720
+Northern Territory,NT,Unknown,Unknown visa,2019-20,2020,330,1370,-1040
+Northern Territory,NT,Unknown,Unknown visa,2020-21,2021,220,370,-150
+Northern Territory,NT,Unknown,Unknown visa,2021-22,2022,0,-20,20
+Northern Territory,NT,Unknown,Unknown visa,2022-23,2023,10,-20,30
+Northern Territory,NT,Unknown,Unknown visa,2023-24,2024,-30,10,-40
+Northern Territory,NT,Unknown,Unknown visa,2024-25,2025,0,10,-10
+Queensland,Qld,Australian citizen,Australian citizen,2004-05,2005,14010,17180,-3170
+Queensland,Qld,Australian citizen,Australian citizen,2005-06,2006,14380,17470,-3090
+Queensland,Qld,Australian citizen,Australian citizen,2006-07,2007,16160,17260,-1100
+Queensland,Qld,Australian citizen,Australian citizen,2007-08,2008,15570,17630,-2060
+Queensland,Qld,Australian citizen,Australian citizen,2008-09,2009,16030,15780,250
+Queensland,Qld,Australian citizen,Australian citizen,2009-10,2010,15830,15430,400
+Queensland,Qld,Australian citizen,Australian citizen,2010-11,2011,15240,16060,-820
+Queensland,Qld,Australian citizen,Australian citizen,2011-12,2012,14160,14830,-670
+Queensland,Qld,Australian citizen,Australian citizen,2012-13,2013,14670,15680,-1010
+Queensland,Qld,Australian citizen,Australian citizen,2013-14,2014,13500,17290,-3790
+Queensland,Qld,Australian citizen,Australian citizen,2014-15,2015,13570,18760,-5190
+Queensland,Qld,Australian citizen,Australian citizen,2015-16,2016,14900,18730,-3830
+Queensland,Qld,Australian citizen,Australian citizen,2016-17,2017,15300,17510,-2210
+Queensland,Qld,Australian citizen,Australian citizen,2017-18,2018,14900,16640,-1740
+Queensland,Qld,Australian citizen,Australian citizen,2018-19,2019,15530,16620,-1090
+Queensland,Qld,Australian citizen,Australian citizen,2019-20,2020,19250,11210,8040
+Queensland,Qld,Australian citizen,Australian citizen,2020-21,2021,9470,7210,2260
+Queensland,Qld,Australian citizen,Australian citizen,2021-22,2022,10790,12290,-1500
+Queensland,Qld,Australian citizen,Australian citizen,2022-23,2023,11360,16680,-5320
+Queensland,Qld,Australian citizen,Australian citizen,2023-24,2024,11790,16620,-4830
+Queensland,Qld,Australian citizen,Australian citizen,2024-25,2025,12520,15250,-2730
+Queensland,Qld,NZ citizen,NZ citizen (444),2004-05,2005,14160,5510,8650
+Queensland,Qld,NZ citizen,NZ citizen (444),2005-06,2006,15130,5070,10060
+Queensland,Qld,NZ citizen,NZ citizen (444),2006-07,2007,18380,4960,13420
+Queensland,Qld,NZ citizen,NZ citizen (444),2007-08,2008,21860,5120,16740
+Queensland,Qld,NZ citizen,NZ citizen (444),2008-09,2009,19070,6250,12820
+Queensland,Qld,NZ citizen,NZ citizen (444),2009-10,2010,14120,6840,7280
+Queensland,Qld,NZ citizen,NZ citizen (444),2010-11,2011,19130,6060,13070
+Queensland,Qld,NZ citizen,NZ citizen (444),2011-12,2012,20850,5940,14910
+Queensland,Qld,NZ citizen,NZ citizen (444),2012-13,2013,17490,6960,10530
+Queensland,Qld,NZ citizen,NZ citizen (444),2013-14,2014,12150,9060,3090
+Queensland,Qld,NZ citizen,NZ citizen (444),2014-15,2015,9960,9600,360
+Queensland,Qld,NZ citizen,NZ citizen (444),2015-16,2016,10340,9520,820
+Queensland,Qld,NZ citizen,NZ citizen (444),2016-17,2017,10120,8390,1730
+Queensland,Qld,NZ citizen,NZ citizen (444),2017-18,2018,10040,7760,2280
+Queensland,Qld,NZ citizen,NZ citizen (444),2018-19,2019,10210,7660,2550
+Queensland,Qld,NZ citizen,NZ citizen (444),2019-20,2020,7400,7140,260
+Queensland,Qld,NZ citizen,NZ citizen (444),2020-21,2021,4140,5990,-1850
+Queensland,Qld,NZ citizen,NZ citizen (444),2021-22,2022,7760,4330,3430
+Queensland,Qld,NZ citizen,NZ citizen (444),2022-23,2023,13330,5370,7960
+Queensland,Qld,NZ citizen,NZ citizen (444),2023-24,2024,17900,4870,13030
+Queensland,Qld,NZ citizen,NZ citizen (444),2024-25,2025,19070,4870,14200
+Queensland,Qld,Permanent,Family,2004-05,2005,3560,690,2870
+Queensland,Qld,Permanent,Family,2005-06,2006,3900,730,3170
+Queensland,Qld,Permanent,Family,2006-07,2007,4340,730,3610
+Queensland,Qld,Permanent,Family,2007-08,2008,4310,820,3490
+Queensland,Qld,Permanent,Family,2008-09,2009,4740,790,3950
+Queensland,Qld,Permanent,Family,2009-10,2010,4840,890,3950
+Queensland,Qld,Permanent,Family,2010-11,2011,4250,1010,3240
+Queensland,Qld,Permanent,Family,2011-12,2012,4720,940,3780
+Queensland,Qld,Permanent,Family,2012-13,2013,4610,950,3660
+Queensland,Qld,Permanent,Family,2013-14,2014,4670,1010,3660
+Queensland,Qld,Permanent,Family,2014-15,2015,4180,1070,3110
+Queensland,Qld,Permanent,Family,2015-16,2016,4070,1000,3070
+Queensland,Qld,Permanent,Family,2016-17,2017,3730,930,2800
+Queensland,Qld,Permanent,Family,2017-18,2018,3200,900,2300
+Queensland,Qld,Permanent,Family,2018-19,2019,3040,890,2150
+Queensland,Qld,Permanent,Family,2019-20,2020,2470,930,1540
+Queensland,Qld,Permanent,Family,2020-21,2021,1740,530,1210
+Queensland,Qld,Permanent,Family,2021-22,2022,3480,870,2610
+Queensland,Qld,Permanent,Family,2022-23,2023,2780,890,1890
+Queensland,Qld,Permanent,Family,2023-24,2024,2870,930,1940
+Queensland,Qld,Permanent,Family,2024-25,2025,3100,840,2260
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2004-05,2005,1580,10,1570
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2005-06,2006,1450,10,1440
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2006-07,2007,1460,10,1450
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2007-08,2008,1030,20,1010
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2008-09,2009,1160,10,1150
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2009-10,2010,1300,20,1280
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2010-11,2011,1360,10,1350
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2011-12,2012,1270,10,1260
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2012-13,2013,1090,10,1080
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2013-14,2014,2060,10,2050
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2014-15,2015,1380,20,1360
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2015-16,2016,1950,20,1930
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2016-17,2017,2730,10,2720
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2017-18,2018,1880,30,1850
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2018-19,2019,2500,20,2480
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2019-20,2020,1920,20,1900
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2020-21,2021,130,10,120
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2021-22,2022,720,20,700
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2022-23,2023,1390,20,1370
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2023-24,2024,2770,20,2750
+Queensland,Qld,Permanent,Humanitarian & special eligibility,2024-25,2025,2230,30,2200
+Queensland,Qld,Permanent,Other permanent,2004-05,2005,610,770,-160
+Queensland,Qld,Permanent,Other permanent,2005-06,2006,630,700,-70
+Queensland,Qld,Permanent,Other permanent,2006-07,2007,590,660,-70
+Queensland,Qld,Permanent,Other permanent,2007-08,2008,630,710,-80
+Queensland,Qld,Permanent,Other permanent,2008-09,2009,660,610,50
+Queensland,Qld,Permanent,Other permanent,2009-10,2010,680,700,-20
+Queensland,Qld,Permanent,Other permanent,2010-11,2011,670,700,-30
+Queensland,Qld,Permanent,Other permanent,2011-12,2012,590,790,-200
+Queensland,Qld,Permanent,Other permanent,2012-13,2013,760,880,-120
+Queensland,Qld,Permanent,Other permanent,2013-14,2014,730,910,-180
+Queensland,Qld,Permanent,Other permanent,2014-15,2015,840,970,-130
+Queensland,Qld,Permanent,Other permanent,2015-16,2016,920,1050,-130
+Queensland,Qld,Permanent,Other permanent,2016-17,2017,940,1010,-70
+Queensland,Qld,Permanent,Other permanent,2017-18,2018,900,1020,-120
+Queensland,Qld,Permanent,Other permanent,2018-19,2019,1080,1210,-130
+Queensland,Qld,Permanent,Other permanent,2019-20,2020,1250,1290,-40
+Queensland,Qld,Permanent,Other permanent,2020-21,2021,680,850,-170
+Queensland,Qld,Permanent,Other permanent,2021-22,2022,1170,1210,-40
+Queensland,Qld,Permanent,Other permanent,2022-23,2023,1360,1340,20
+Queensland,Qld,Permanent,Other permanent,2023-24,2024,1210,1290,-80
+Queensland,Qld,Permanent,Other permanent,2024-25,2025,1260,1310,-50
+Queensland,Qld,Permanent,Skilled (permanent),2004-05,2005,5150,760,4390
+Queensland,Qld,Permanent,Skilled (permanent),2005-06,2006,6100,800,5300
+Queensland,Qld,Permanent,Skilled (permanent),2006-07,2007,7030,810,6220
+Queensland,Qld,Permanent,Skilled (permanent),2007-08,2008,7970,910,7060
+Queensland,Qld,Permanent,Skilled (permanent),2008-09,2009,7250,1130,6120
+Queensland,Qld,Permanent,Skilled (permanent),2009-10,2010,5180,1290,3890
+Queensland,Qld,Permanent,Skilled (permanent),2010-11,2011,4420,1230,3190
+Queensland,Qld,Permanent,Skilled (permanent),2011-12,2012,5060,1140,3920
+Queensland,Qld,Permanent,Skilled (permanent),2012-13,2013,4080,1150,2930
+Queensland,Qld,Permanent,Skilled (permanent),2013-14,2014,4030,1290,2740
+Queensland,Qld,Permanent,Skilled (permanent),2014-15,2015,4490,1350,3140
+Queensland,Qld,Permanent,Skilled (permanent),2015-16,2016,4380,1210,3170
+Queensland,Qld,Permanent,Skilled (permanent),2016-17,2017,4860,1090,3770
+Queensland,Qld,Permanent,Skilled (permanent),2017-18,2018,4480,1050,3430
+Queensland,Qld,Permanent,Skilled (permanent),2018-19,2019,4170,910,3260
+Queensland,Qld,Permanent,Skilled (permanent),2019-20,2020,3240,910,2330
+Queensland,Qld,Permanent,Skilled (permanent),2020-21,2021,1550,710,840
+Queensland,Qld,Permanent,Skilled (permanent),2021-22,2022,3340,800,2540
+Queensland,Qld,Permanent,Skilled (permanent),2022-23,2023,4880,680,4200
+Queensland,Qld,Permanent,Skilled (permanent),2023-24,2024,5220,740,4480
+Queensland,Qld,Permanent,Skilled (permanent),2024-25,2025,4820,830,3990
+Queensland,Qld,Temporary,Other temporary,2004-05,2005,2020,1600,420
+Queensland,Qld,Temporary,Other temporary,2005-06,2006,1410,1430,-20
+Queensland,Qld,Temporary,Other temporary,2006-07,2007,1190,1510,-320
+Queensland,Qld,Temporary,Other temporary,2007-08,2008,1140,1910,-770
+Queensland,Qld,Temporary,Other temporary,2008-09,2009,1140,2270,-1130
+Queensland,Qld,Temporary,Other temporary,2009-10,2010,1020,2910,-1890
+Queensland,Qld,Temporary,Other temporary,2010-11,2011,1310,3280,-1970
+Queensland,Qld,Temporary,Other temporary,2011-12,2012,1440,3440,-2000
+Queensland,Qld,Temporary,Other temporary,2012-13,2013,1090,2960,-1870
+Queensland,Qld,Temporary,Other temporary,2013-14,2014,1290,3320,-2030
+Queensland,Qld,Temporary,Other temporary,2014-15,2015,1140,3880,-2740
+Queensland,Qld,Temporary,Other temporary,2015-16,2016,1190,4220,-3030
+Queensland,Qld,Temporary,Other temporary,2016-17,2017,1420,3540,-2120
+Queensland,Qld,Temporary,Other temporary,2017-18,2018,1880,4330,-2450
+Queensland,Qld,Temporary,Other temporary,2018-19,2019,1870,4920,-3050
+Queensland,Qld,Temporary,Other temporary,2019-20,2020,3170,5370,-2200
+Queensland,Qld,Temporary,Other temporary,2020-21,2021,2430,6420,-3990
+Queensland,Qld,Temporary,Other temporary,2021-22,2022,6160,5730,430
+Queensland,Qld,Temporary,Other temporary,2022-23,2023,8760,5660,3100
+Queensland,Qld,Temporary,Other temporary,2023-24,2024,7100,8390,-1290
+Queensland,Qld,Temporary,Other temporary,2024-25,2025,5280,8350,-3070
+Queensland,Qld,Temporary,Skilled (temporary),2004-05,2005,2380,710,1670
+Queensland,Qld,Temporary,Skilled (temporary),2005-06,2006,5400,890,4510
+Queensland,Qld,Temporary,Skilled (temporary),2006-07,2007,7730,1230,6500
+Queensland,Qld,Temporary,Skilled (temporary),2007-08,2008,8920,1580,7340
+Queensland,Qld,Temporary,Skilled (temporary),2008-09,2009,9560,2030,7530
+Queensland,Qld,Temporary,Skilled (temporary),2009-10,2010,4720,2370,2350
+Queensland,Qld,Temporary,Skilled (temporary),2010-11,2011,5910,2000,3910
+Queensland,Qld,Temporary,Skilled (temporary),2011-12,2012,9090,1900,7190
+Queensland,Qld,Temporary,Skilled (temporary),2012-13,2013,7840,3010,4830
+Queensland,Qld,Temporary,Skilled (temporary),2013-14,2014,5120,4270,850
+Queensland,Qld,Temporary,Skilled (temporary),2014-15,2015,4540,3880,660
+Queensland,Qld,Temporary,Skilled (temporary),2015-16,2016,3980,3000,980
+Queensland,Qld,Temporary,Skilled (temporary),2016-17,2017,4210,2120,2090
+Queensland,Qld,Temporary,Skilled (temporary),2017-18,2018,3330,1870,1460
+Queensland,Qld,Temporary,Skilled (temporary),2018-19,2019,4230,1920,2310
+Queensland,Qld,Temporary,Skilled (temporary),2019-20,2020,3390,1400,1990
+Queensland,Qld,Temporary,Skilled (temporary),2020-21,2021,1320,1220,100
+Queensland,Qld,Temporary,Skilled (temporary),2021-22,2022,3320,1010,2310
+Queensland,Qld,Temporary,Skilled (temporary),2022-23,2023,7250,760,6490
+Queensland,Qld,Temporary,Skilled (temporary),2023-24,2024,8880,990,7890
+Queensland,Qld,Temporary,Skilled (temporary),2024-25,2025,9560,1360,8200
+Queensland,Qld,Temporary,Student,2004-05,2005,9640,3880,5760
+Queensland,Qld,Temporary,Student,2005-06,2006,10110,4850,5260
+Queensland,Qld,Temporary,Student,2006-07,2007,12710,4950,7760
+Queensland,Qld,Temporary,Student,2007-08,2008,18920,4750,14170
+Queensland,Qld,Temporary,Student,2008-09,2009,23770,5490,18280
+Queensland,Qld,Temporary,Student,2009-10,2010,17550,7270,10280
+Queensland,Qld,Temporary,Student,2010-11,2011,12650,9110,3540
+Queensland,Qld,Temporary,Student,2011-12,2012,11720,8750,2970
+Queensland,Qld,Temporary,Student,2012-13,2013,13650,8510,5140
+Queensland,Qld,Temporary,Student,2013-14,2014,19430,8130,11300
+Queensland,Qld,Temporary,Student,2014-15,2015,17570,8440,9130
+Queensland,Qld,Temporary,Student,2015-16,2016,18770,7810,10960
+Queensland,Qld,Temporary,Student,2016-17,2017,21310,8190,13120
+Queensland,Qld,Temporary,Student,2017-18,2018,21950,9520,12430
+Queensland,Qld,Temporary,Student,2018-19,2019,24180,11060,13120
+Queensland,Qld,Temporary,Student,2019-20,2020,17220,15360,1860
+Queensland,Qld,Temporary,Student,2020-21,2021,280,8710,-8430
+Queensland,Qld,Temporary,Student,2021-22,2022,17060,4650,12410
+Queensland,Qld,Temporary,Student,2022-23,2023,43620,2620,41000
+Queensland,Qld,Temporary,Student,2023-24,2024,30130,5350,24780
+Queensland,Qld,Temporary,Student,2024-25,2025,21950,8320,13630
+Queensland,Qld,Temporary,Visitor,2004-05,2005,6200,2880,3320
+Queensland,Qld,Temporary,Visitor,2005-06,2006,6760,3550,3210
+Queensland,Qld,Temporary,Visitor,2006-07,2007,6550,2550,4000
+Queensland,Qld,Temporary,Visitor,2007-08,2008,8970,4210,4760
+Queensland,Qld,Temporary,Visitor,2008-09,2009,7690,3350,4340
+Queensland,Qld,Temporary,Visitor,2009-10,2010,7390,2900,4490
+Queensland,Qld,Temporary,Visitor,2010-11,2011,7410,2970,4440
+Queensland,Qld,Temporary,Visitor,2011-12,2012,7130,2530,4600
+Queensland,Qld,Temporary,Visitor,2012-13,2013,7600,2430,5170
+Queensland,Qld,Temporary,Visitor,2013-14,2014,6730,2150,4580
+Queensland,Qld,Temporary,Visitor,2014-15,2015,7640,2130,5510
+Queensland,Qld,Temporary,Visitor,2015-16,2016,9120,3200,5920
+Queensland,Qld,Temporary,Visitor,2016-17,2017,10490,3110,7380
+Queensland,Qld,Temporary,Visitor,2017-18,2018,10500,3910,6590
+Queensland,Qld,Temporary,Visitor,2018-19,2019,12840,5070,7770
+Queensland,Qld,Temporary,Visitor,2019-20,2020,16420,3020,13400
+Queensland,Qld,Temporary,Visitor,2020-21,2021,1160,2060,-900
+Queensland,Qld,Temporary,Visitor,2021-22,2022,6760,2180,4580
+Queensland,Qld,Temporary,Visitor,2022-23,2023,14840,2970,11870
+Queensland,Qld,Temporary,Visitor,2023-24,2024,12030,2890,9140
+Queensland,Qld,Temporary,Visitor,2024-25,2025,9120,3380,5740
+Queensland,Qld,Temporary,Working holiday,2004-05,2005,2230,730,1500
+Queensland,Qld,Temporary,Working holiday,2005-06,2006,3350,640,2710
+Queensland,Qld,Temporary,Working holiday,2006-07,2007,4560,1220,3340
+Queensland,Qld,Temporary,Working holiday,2007-08,2008,6620,2020,4600
+Queensland,Qld,Temporary,Working holiday,2008-09,2009,8410,3100,5310
+Queensland,Qld,Temporary,Working holiday,2009-10,2010,7760,4600,3160
+Queensland,Qld,Temporary,Working holiday,2010-11,2011,9130,4570,4560
+Queensland,Qld,Temporary,Working holiday,2011-12,2012,11800,4230,7570
+Queensland,Qld,Temporary,Working holiday,2012-13,2013,13170,5400,7770
+Queensland,Qld,Temporary,Working holiday,2013-14,2014,11630,6380,5250
+Queensland,Qld,Temporary,Working holiday,2014-15,2015,11200,6670,4530
+Queensland,Qld,Temporary,Working holiday,2015-16,2016,10710,6330,4380
+Queensland,Qld,Temporary,Working holiday,2016-17,2017,10320,6030,4290
+Queensland,Qld,Temporary,Working holiday,2017-18,2018,10550,5270,5280
+Queensland,Qld,Temporary,Working holiday,2018-19,2019,10210,5880,4330
+Queensland,Qld,Temporary,Working holiday,2019-20,2020,8370,5860,2510
+Queensland,Qld,Temporary,Working holiday,2020-21,2021,180,1960,-1780
+Queensland,Qld,Temporary,Working holiday,2021-22,2022,4110,1020,3090
+Queensland,Qld,Temporary,Working holiday,2022-23,2023,14730,660,14070
+Queensland,Qld,Temporary,Working holiday,2023-24,2024,16580,2680,13900
+Queensland,Qld,Temporary,Working holiday,2024-25,2025,17030,5660,11370
+Queensland,Qld,Unknown,Unknown visa,2004-05,2005,3850,3960,-110
+Queensland,Qld,Unknown,Unknown visa,2005-06,2006,4450,4200,250
+Queensland,Qld,Unknown,Unknown visa,2006-07,2007,5790,4460,1330
+Queensland,Qld,Unknown,Unknown visa,2007-08,2008,3730,6080,-2350
+Queensland,Qld,Unknown,Unknown visa,2008-09,2009,3630,2990,640
+Queensland,Qld,Unknown,Unknown visa,2009-10,2010,4500,3850,650
+Queensland,Qld,Unknown,Unknown visa,2010-11,2011,2770,2620,150
+Queensland,Qld,Unknown,Unknown visa,2011-12,2012,5380,2170,3210
+Queensland,Qld,Unknown,Unknown visa,2012-13,2013,6750,3030,3720
+Queensland,Qld,Unknown,Unknown visa,2013-14,2014,2460,2760,-300
+Queensland,Qld,Unknown,Unknown visa,2014-15,2015,2470,1770,700
+Queensland,Qld,Unknown,Unknown visa,2015-16,2016,2840,2130,710
+Queensland,Qld,Unknown,Unknown visa,2016-17,2017,2390,1820,570
+Queensland,Qld,Unknown,Unknown visa,2017-18,2018,1830,5400,-3570
+Queensland,Qld,Unknown,Unknown visa,2018-19,2019,1800,3760,-1960
+Queensland,Qld,Unknown,Unknown visa,2019-20,2020,1490,5110,-3620
+Queensland,Qld,Unknown,Unknown visa,2020-21,2021,360,630,-270
+Queensland,Qld,Unknown,Unknown visa,2021-22,2022,-10,-10,0
+Queensland,Qld,Unknown,Unknown visa,2022-23,2023,-20,10,-30
+Queensland,Qld,Unknown,Unknown visa,2023-24,2024,20,0,20
+Queensland,Qld,Unknown,Unknown visa,2024-25,2025,0,-10,10
+South Australia,SA,Australian citizen,Australian citizen,2004-05,2005,3530,4470,-940
+South Australia,SA,Australian citizen,Australian citizen,2005-06,2006,3770,4310,-540
+South Australia,SA,Australian citizen,Australian citizen,2006-07,2007,3930,4350,-420
+South Australia,SA,Australian citizen,Australian citizen,2007-08,2008,3970,4570,-600
+South Australia,SA,Australian citizen,Australian citizen,2008-09,2009,4370,3760,610
+South Australia,SA,Australian citizen,Australian citizen,2009-10,2010,3860,3760,100
+South Australia,SA,Australian citizen,Australian citizen,2010-11,2011,3580,3850,-270
+South Australia,SA,Australian citizen,Australian citizen,2011-12,2012,3400,3730,-330
+South Australia,SA,Australian citizen,Australian citizen,2012-13,2013,3380,3670,-290
+South Australia,SA,Australian citizen,Australian citizen,2013-14,2014,3420,3950,-530
+South Australia,SA,Australian citizen,Australian citizen,2014-15,2015,3270,4450,-1180
+South Australia,SA,Australian citizen,Australian citizen,2015-16,2016,3370,4360,-990
+South Australia,SA,Australian citizen,Australian citizen,2016-17,2017,3610,4160,-550
+South Australia,SA,Australian citizen,Australian citizen,2017-18,2018,3620,4030,-410
+South Australia,SA,Australian citizen,Australian citizen,2018-19,2019,3760,3780,-20
+South Australia,SA,Australian citizen,Australian citizen,2019-20,2020,4690,2640,2050
+South Australia,SA,Australian citizen,Australian citizen,2020-21,2021,2420,1750,670
+South Australia,SA,Australian citizen,Australian citizen,2021-22,2022,2640,3000,-360
+South Australia,SA,Australian citizen,Australian citizen,2022-23,2023,2470,4050,-1580
+South Australia,SA,Australian citizen,Australian citizen,2023-24,2024,2470,3810,-1340
+South Australia,SA,Australian citizen,Australian citizen,2024-25,2025,2870,3650,-780
+South Australia,SA,NZ citizen,NZ citizen (444),2004-05,2005,740,340,400
+South Australia,SA,NZ citizen,NZ citizen (444),2005-06,2006,730,340,390
+South Australia,SA,NZ citizen,NZ citizen (444),2006-07,2007,780,330,450
+South Australia,SA,NZ citizen,NZ citizen (444),2007-08,2008,960,380,580
+South Australia,SA,NZ citizen,NZ citizen (444),2008-09,2009,960,340,620
+South Australia,SA,NZ citizen,NZ citizen (444),2009-10,2010,760,360,400
+South Australia,SA,NZ citizen,NZ citizen (444),2010-11,2011,980,340,640
+South Australia,SA,NZ citizen,NZ citizen (444),2011-12,2012,1180,350,830
+South Australia,SA,NZ citizen,NZ citizen (444),2012-13,2013,880,410,470
+South Australia,SA,NZ citizen,NZ citizen (444),2013-14,2014,610,510,100
+South Australia,SA,NZ citizen,NZ citizen (444),2014-15,2015,520,490,30
+South Australia,SA,NZ citizen,NZ citizen (444),2015-16,2016,540,500,40
+South Australia,SA,NZ citizen,NZ citizen (444),2016-17,2017,540,460,80
+South Australia,SA,NZ citizen,NZ citizen (444),2017-18,2018,550,360,190
+South Australia,SA,NZ citizen,NZ citizen (444),2018-19,2019,550,420,130
+South Australia,SA,NZ citizen,NZ citizen (444),2019-20,2020,410,380,30
+South Australia,SA,NZ citizen,NZ citizen (444),2020-21,2021,270,300,-30
+South Australia,SA,NZ citizen,NZ citizen (444),2021-22,2022,430,280,150
+South Australia,SA,NZ citizen,NZ citizen (444),2022-23,2023,800,300,500
+South Australia,SA,NZ citizen,NZ citizen (444),2023-24,2024,1020,270,750
+South Australia,SA,NZ citizen,NZ citizen (444),2024-25,2025,1090,250,840
+South Australia,SA,Permanent,Family,2004-05,2005,1230,180,1050
+South Australia,SA,Permanent,Family,2005-06,2006,1360,170,1190
+South Australia,SA,Permanent,Family,2006-07,2007,1590,160,1430
+South Australia,SA,Permanent,Family,2007-08,2008,1560,160,1400
+South Australia,SA,Permanent,Family,2008-09,2009,1660,190,1470
+South Australia,SA,Permanent,Family,2009-10,2010,1840,220,1620
+South Australia,SA,Permanent,Family,2010-11,2011,1690,230,1460
+South Australia,SA,Permanent,Family,2011-12,2012,1840,220,1620
+South Australia,SA,Permanent,Family,2012-13,2013,1980,200,1780
+South Australia,SA,Permanent,Family,2013-14,2014,2090,210,1880
+South Australia,SA,Permanent,Family,2014-15,2015,1960,220,1740
+South Australia,SA,Permanent,Family,2015-16,2016,1800,230,1570
+South Australia,SA,Permanent,Family,2016-17,2017,1650,220,1430
+South Australia,SA,Permanent,Family,2017-18,2018,1550,220,1330
+South Australia,SA,Permanent,Family,2018-19,2019,1390,220,1170
+South Australia,SA,Permanent,Family,2019-20,2020,1230,240,990
+South Australia,SA,Permanent,Family,2020-21,2021,770,140,630
+South Australia,SA,Permanent,Family,2021-22,2022,1380,230,1150
+South Australia,SA,Permanent,Family,2022-23,2023,1220,250,970
+South Australia,SA,Permanent,Family,2023-24,2024,1530,230,1300
+South Australia,SA,Permanent,Family,2024-25,2025,1630,190,1440
+South Australia,SA,Permanent,Humanitarian & special eligibility,2004-05,2005,1220,20,1200
+South Australia,SA,Permanent,Humanitarian & special eligibility,2005-06,2006,1100,20,1080
+South Australia,SA,Permanent,Humanitarian & special eligibility,2006-07,2007,1220,10,1210
+South Australia,SA,Permanent,Humanitarian & special eligibility,2007-08,2008,840,10,830
+South Australia,SA,Permanent,Humanitarian & special eligibility,2008-09,2009,1050,10,1040
+South Australia,SA,Permanent,Humanitarian & special eligibility,2009-10,2010,990,10,980
+South Australia,SA,Permanent,Humanitarian & special eligibility,2010-11,2011,1150,10,1140
+South Australia,SA,Permanent,Humanitarian & special eligibility,2011-12,2012,960,10,950
+South Australia,SA,Permanent,Humanitarian & special eligibility,2012-13,2013,720,10,710
+South Australia,SA,Permanent,Humanitarian & special eligibility,2013-14,2014,1230,10,1220
+South Australia,SA,Permanent,Humanitarian & special eligibility,2014-15,2015,790,10,780
+South Australia,SA,Permanent,Humanitarian & special eligibility,2015-16,2016,1080,10,1070
+South Australia,SA,Permanent,Humanitarian & special eligibility,2016-17,2017,1440,0,1440
+South Australia,SA,Permanent,Humanitarian & special eligibility,2017-18,2018,860,10,850
+South Australia,SA,Permanent,Humanitarian & special eligibility,2018-19,2019,1000,10,990
+South Australia,SA,Permanent,Humanitarian & special eligibility,2019-20,2020,960,10,950
+South Australia,SA,Permanent,Humanitarian & special eligibility,2020-21,2021,90,10,80
+South Australia,SA,Permanent,Humanitarian & special eligibility,2021-22,2022,580,10,570
+South Australia,SA,Permanent,Humanitarian & special eligibility,2022-23,2023,1280,0,1280
+South Australia,SA,Permanent,Humanitarian & special eligibility,2023-24,2024,1530,10,1520
+South Australia,SA,Permanent,Humanitarian & special eligibility,2024-25,2025,1280,10,1270
+South Australia,SA,Permanent,Other permanent,2004-05,2005,140,220,-80
+South Australia,SA,Permanent,Other permanent,2005-06,2006,130,200,-70
+South Australia,SA,Permanent,Other permanent,2006-07,2007,170,190,-20
+South Australia,SA,Permanent,Other permanent,2007-08,2008,150,220,-70
+South Australia,SA,Permanent,Other permanent,2008-09,2009,170,170,0
+South Australia,SA,Permanent,Other permanent,2009-10,2010,140,200,-60
+South Australia,SA,Permanent,Other permanent,2010-11,2011,160,230,-70
+South Australia,SA,Permanent,Other permanent,2011-12,2012,170,210,-40
+South Australia,SA,Permanent,Other permanent,2012-13,2013,210,220,-10
+South Australia,SA,Permanent,Other permanent,2013-14,2014,190,240,-50
+South Australia,SA,Permanent,Other permanent,2014-15,2015,200,260,-60
+South Australia,SA,Permanent,Other permanent,2015-16,2016,220,250,-30
+South Australia,SA,Permanent,Other permanent,2016-17,2017,230,290,-60
+South Australia,SA,Permanent,Other permanent,2017-18,2018,200,300,-100
+South Australia,SA,Permanent,Other permanent,2018-19,2019,280,370,-90
+South Australia,SA,Permanent,Other permanent,2019-20,2020,400,370,30
+South Australia,SA,Permanent,Other permanent,2020-21,2021,210,280,-70
+South Australia,SA,Permanent,Other permanent,2021-22,2022,340,390,-50
+South Australia,SA,Permanent,Other permanent,2022-23,2023,360,400,-40
+South Australia,SA,Permanent,Other permanent,2023-24,2024,370,380,-10
+South Australia,SA,Permanent,Other permanent,2024-25,2025,320,340,-20
+South Australia,SA,Permanent,Skilled (permanent),2004-05,2005,2550,190,2360
+South Australia,SA,Permanent,Skilled (permanent),2005-06,2006,4530,280,4250
+South Australia,SA,Permanent,Skilled (permanent),2006-07,2007,5220,350,4870
+South Australia,SA,Permanent,Skilled (permanent),2007-08,2008,5320,450,4870
+South Australia,SA,Permanent,Skilled (permanent),2008-09,2009,4710,470,4240
+South Australia,SA,Permanent,Skilled (permanent),2009-10,2010,6040,660,5380
+South Australia,SA,Permanent,Skilled (permanent),2010-11,2011,3230,640,2590
+South Australia,SA,Permanent,Skilled (permanent),2011-12,2012,4930,620,4310
+South Australia,SA,Permanent,Skilled (permanent),2012-13,2013,4120,490,3630
+South Australia,SA,Permanent,Skilled (permanent),2013-14,2014,3760,540,3220
+South Australia,SA,Permanent,Skilled (permanent),2014-15,2015,4240,520,3720
+South Australia,SA,Permanent,Skilled (permanent),2015-16,2016,3820,480,3340
+South Australia,SA,Permanent,Skilled (permanent),2016-17,2017,3800,390,3410
+South Australia,SA,Permanent,Skilled (permanent),2017-18,2018,4110,400,3710
+South Australia,SA,Permanent,Skilled (permanent),2018-19,2019,4090,370,3720
+South Australia,SA,Permanent,Skilled (permanent),2019-20,2020,3340,510,2830
+South Australia,SA,Permanent,Skilled (permanent),2020-21,2021,780,290,490
+South Australia,SA,Permanent,Skilled (permanent),2021-22,2022,2870,330,2540
+South Australia,SA,Permanent,Skilled (permanent),2022-23,2023,4090,310,3780
+South Australia,SA,Permanent,Skilled (permanent),2023-24,2024,4370,400,3970
+South Australia,SA,Permanent,Skilled (permanent),2024-25,2025,4430,350,4080
+South Australia,SA,Temporary,Other temporary,2004-05,2005,590,490,100
+South Australia,SA,Temporary,Other temporary,2005-06,2006,570,540,30
+South Australia,SA,Temporary,Other temporary,2006-07,2007,530,550,-20
+South Australia,SA,Temporary,Other temporary,2007-08,2008,510,580,-70
+South Australia,SA,Temporary,Other temporary,2008-09,2009,340,750,-410
+South Australia,SA,Temporary,Other temporary,2009-10,2010,320,740,-420
+South Australia,SA,Temporary,Other temporary,2010-11,2011,300,860,-560
+South Australia,SA,Temporary,Other temporary,2011-12,2012,300,800,-500
+South Australia,SA,Temporary,Other temporary,2012-13,2013,390,920,-530
+South Australia,SA,Temporary,Other temporary,2013-14,2014,290,970,-680
+South Australia,SA,Temporary,Other temporary,2014-15,2015,330,840,-510
+South Australia,SA,Temporary,Other temporary,2015-16,2016,370,980,-610
+South Australia,SA,Temporary,Other temporary,2016-17,2017,430,980,-550
+South Australia,SA,Temporary,Other temporary,2017-18,2018,560,1220,-660
+South Australia,SA,Temporary,Other temporary,2018-19,2019,680,1190,-510
+South Australia,SA,Temporary,Other temporary,2019-20,2020,1080,1550,-470
+South Australia,SA,Temporary,Other temporary,2020-21,2021,720,2030,-1310
+South Australia,SA,Temporary,Other temporary,2021-22,2022,1730,1640,90
+South Australia,SA,Temporary,Other temporary,2022-23,2023,2830,1550,1280
+South Australia,SA,Temporary,Other temporary,2023-24,2024,2000,1830,170
+South Australia,SA,Temporary,Other temporary,2024-25,2025,1890,2050,-160
+South Australia,SA,Temporary,Skilled (temporary),2004-05,2005,740,190,550
+South Australia,SA,Temporary,Skilled (temporary),2005-06,2006,1520,260,1260
+South Australia,SA,Temporary,Skilled (temporary),2006-07,2007,1700,230,1470
+South Australia,SA,Temporary,Skilled (temporary),2007-08,2008,1910,340,1570
+South Australia,SA,Temporary,Skilled (temporary),2008-09,2009,2070,420,1650
+South Australia,SA,Temporary,Skilled (temporary),2009-10,2010,1280,490,790
+South Australia,SA,Temporary,Skilled (temporary),2010-11,2011,1370,450,920
+South Australia,SA,Temporary,Skilled (temporary),2011-12,2012,1630,430,1200
+South Australia,SA,Temporary,Skilled (temporary),2012-13,2013,1640,550,1090
+South Australia,SA,Temporary,Skilled (temporary),2013-14,2014,1430,540,890
+South Australia,SA,Temporary,Skilled (temporary),2014-15,2015,1200,590,610
+South Australia,SA,Temporary,Skilled (temporary),2015-16,2016,1040,530,510
+South Australia,SA,Temporary,Skilled (temporary),2016-17,2017,930,460,470
+South Australia,SA,Temporary,Skilled (temporary),2017-18,2018,1010,440,570
+South Australia,SA,Temporary,Skilled (temporary),2018-19,2019,1060,430,630
+South Australia,SA,Temporary,Skilled (temporary),2019-20,2020,720,410,310
+South Australia,SA,Temporary,Skilled (temporary),2020-21,2021,340,310,30
+South Australia,SA,Temporary,Skilled (temporary),2021-22,2022,890,220,670
+South Australia,SA,Temporary,Skilled (temporary),2022-23,2023,1670,160,1510
+South Australia,SA,Temporary,Skilled (temporary),2023-24,2024,1620,180,1440
+South Australia,SA,Temporary,Skilled (temporary),2024-25,2025,1810,230,1580
+South Australia,SA,Temporary,Student,2004-05,2005,4160,1070,3090
+South Australia,SA,Temporary,Student,2005-06,2006,4670,1430,3240
+South Australia,SA,Temporary,Student,2006-07,2007,6080,1580,4500
+South Australia,SA,Temporary,Student,2007-08,2008,7170,1710,5460
+South Australia,SA,Temporary,Student,2008-09,2009,9390,1880,7510
+South Australia,SA,Temporary,Student,2009-10,2010,7100,2510,4590
+South Australia,SA,Temporary,Student,2010-11,2011,4930,2980,1950
+South Australia,SA,Temporary,Student,2011-12,2012,4850,2980,1870
+South Australia,SA,Temporary,Student,2012-13,2013,5210,2920,2290
+South Australia,SA,Temporary,Student,2013-14,2014,6640,3020,3620
+South Australia,SA,Temporary,Student,2014-15,2015,7100,2990,4110
+South Australia,SA,Temporary,Student,2015-16,2016,7420,2980,4440
+South Australia,SA,Temporary,Student,2016-17,2017,7500,3050,4450
+South Australia,SA,Temporary,Student,2017-18,2018,7790,2820,4970
+South Australia,SA,Temporary,Student,2018-19,2019,8680,2930,5750
+South Australia,SA,Temporary,Student,2019-20,2020,7700,5260,2440
+South Australia,SA,Temporary,Student,2020-21,2021,80,2600,-2520
+South Australia,SA,Temporary,Student,2021-22,2022,9050,1370,7680
+South Australia,SA,Temporary,Student,2022-23,2023,16440,840,15600
+South Australia,SA,Temporary,Student,2023-24,2024,12280,1420,10860
+South Australia,SA,Temporary,Student,2024-25,2025,8930,1970,6960
+South Australia,SA,Temporary,Visitor,2004-05,2005,1200,410,790
+South Australia,SA,Temporary,Visitor,2005-06,2006,1300,430,870
+South Australia,SA,Temporary,Visitor,2006-07,2007,1280,390,890
+South Australia,SA,Temporary,Visitor,2007-08,2008,1710,640,1070
+South Australia,SA,Temporary,Visitor,2008-09,2009,1480,560,920
+South Australia,SA,Temporary,Visitor,2009-10,2010,1370,490,880
+South Australia,SA,Temporary,Visitor,2010-11,2011,1600,570,1030
+South Australia,SA,Temporary,Visitor,2011-12,2012,1670,550,1120
+South Australia,SA,Temporary,Visitor,2012-13,2013,1680,530,1150
+South Australia,SA,Temporary,Visitor,2013-14,2014,1790,490,1300
+South Australia,SA,Temporary,Visitor,2014-15,2015,1940,460,1480
+South Australia,SA,Temporary,Visitor,2015-16,2016,2150,530,1620
+South Australia,SA,Temporary,Visitor,2016-17,2017,2310,560,1750
+South Australia,SA,Temporary,Visitor,2017-18,2018,2630,640,1990
+South Australia,SA,Temporary,Visitor,2018-19,2019,3910,880,3030
+South Australia,SA,Temporary,Visitor,2019-20,2020,6050,610,5440
+South Australia,SA,Temporary,Visitor,2020-21,2021,290,750,-460
+South Australia,SA,Temporary,Visitor,2021-22,2022,2580,970,1610
+South Australia,SA,Temporary,Visitor,2022-23,2023,5000,850,4150
+South Australia,SA,Temporary,Visitor,2023-24,2024,3650,850,2800
+South Australia,SA,Temporary,Visitor,2024-25,2025,2700,800,1900
+South Australia,SA,Temporary,Working holiday,2004-05,2005,250,60,190
+South Australia,SA,Temporary,Working holiday,2005-06,2006,320,40,280
+South Australia,SA,Temporary,Working holiday,2006-07,2007,470,90,380
+South Australia,SA,Temporary,Working holiday,2007-08,2008,570,160,410
+South Australia,SA,Temporary,Working holiday,2008-09,2009,690,200,490
+South Australia,SA,Temporary,Working holiday,2009-10,2010,710,370,340
+South Australia,SA,Temporary,Working holiday,2010-11,2011,880,420,460
+South Australia,SA,Temporary,Working holiday,2011-12,2012,1550,550,1000
+South Australia,SA,Temporary,Working holiday,2012-13,2013,1890,770,1120
+South Australia,SA,Temporary,Working holiday,2013-14,2014,1820,1080,740
+South Australia,SA,Temporary,Working holiday,2014-15,2015,1610,1110,500
+South Australia,SA,Temporary,Working holiday,2015-16,2016,1390,1070,320
+South Australia,SA,Temporary,Working holiday,2016-17,2017,1210,890,320
+South Australia,SA,Temporary,Working holiday,2017-18,2018,1070,630,440
+South Australia,SA,Temporary,Working holiday,2018-19,2019,1120,620,500
+South Australia,SA,Temporary,Working holiday,2019-20,2020,1050,510,540
+South Australia,SA,Temporary,Working holiday,2020-21,2021,30,230,-200
+South Australia,SA,Temporary,Working holiday,2021-22,2022,590,120,470
+South Australia,SA,Temporary,Working holiday,2022-23,2023,1960,80,1880
+South Australia,SA,Temporary,Working holiday,2023-24,2024,2190,290,1900
+South Australia,SA,Temporary,Working holiday,2024-25,2025,2160,550,1610
+South Australia,SA,Unknown,Unknown visa,2004-05,2005,270,430,-160
+South Australia,SA,Unknown,Unknown visa,2005-06,2006,550,670,-120
+South Australia,SA,Unknown,Unknown visa,2006-07,2007,520,630,-110
+South Australia,SA,Unknown,Unknown visa,2007-08,2008,490,610,-120
+South Australia,SA,Unknown,Unknown visa,2008-09,2009,370,500,-130
+South Australia,SA,Unknown,Unknown visa,2009-10,2010,410,470,-60
+South Australia,SA,Unknown,Unknown visa,2010-11,2011,290,410,-120
+South Australia,SA,Unknown,Unknown visa,2011-12,2012,500,180,320
+South Australia,SA,Unknown,Unknown visa,2012-13,2013,480,210,270
+South Australia,SA,Unknown,Unknown visa,2013-14,2014,350,420,-70
+South Australia,SA,Unknown,Unknown visa,2014-15,2015,120,190,-70
+South Australia,SA,Unknown,Unknown visa,2015-16,2016,210,200,10
+South Australia,SA,Unknown,Unknown visa,2016-17,2017,170,180,-10
+South Australia,SA,Unknown,Unknown visa,2017-18,2018,150,310,-160
+South Australia,SA,Unknown,Unknown visa,2018-19,2019,130,290,-160
+South Australia,SA,Unknown,Unknown visa,2019-20,2020,110,320,-210
+South Australia,SA,Unknown,Unknown visa,2020-21,2021,20,150,-130
+South Australia,SA,Unknown,Unknown visa,2021-22,2022,-10,10,-20
+South Australia,SA,Unknown,Unknown visa,2022-23,2023,10,-10,20
+South Australia,SA,Unknown,Unknown visa,2023-24,2024,0,10,-10
+South Australia,SA,Unknown,Unknown visa,2024-25,2025,0,-10,10
+Tasmania,Tas,Australian citizen,Australian citizen,2004-05,2005,970,1100,-130
+Tasmania,Tas,Australian citizen,Australian citizen,2005-06,2006,1010,1110,-100
+Tasmania,Tas,Australian citizen,Australian citizen,2006-07,2007,940,1100,-160
+Tasmania,Tas,Australian citizen,Australian citizen,2007-08,2008,1010,1060,-50
+Tasmania,Tas,Australian citizen,Australian citizen,2008-09,2009,1100,1000,100
+Tasmania,Tas,Australian citizen,Australian citizen,2009-10,2010,1030,990,40
+Tasmania,Tas,Australian citizen,Australian citizen,2010-11,2011,950,1000,-50
+Tasmania,Tas,Australian citizen,Australian citizen,2011-12,2012,850,910,-60
+Tasmania,Tas,Australian citizen,Australian citizen,2012-13,2013,850,930,-80
+Tasmania,Tas,Australian citizen,Australian citizen,2013-14,2014,930,890,40
+Tasmania,Tas,Australian citizen,Australian citizen,2014-15,2015,850,1080,-230
+Tasmania,Tas,Australian citizen,Australian citizen,2015-16,2016,810,920,-110
+Tasmania,Tas,Australian citizen,Australian citizen,2016-17,2017,870,950,-80
+Tasmania,Tas,Australian citizen,Australian citizen,2017-18,2018,880,900,-20
+Tasmania,Tas,Australian citizen,Australian citizen,2018-19,2019,930,840,90
+Tasmania,Tas,Australian citizen,Australian citizen,2019-20,2020,1210,500,710
+Tasmania,Tas,Australian citizen,Australian citizen,2020-21,2021,480,410,70
+Tasmania,Tas,Australian citizen,Australian citizen,2021-22,2022,610,680,-70
+Tasmania,Tas,Australian citizen,Australian citizen,2022-23,2023,650,920,-270
+Tasmania,Tas,Australian citizen,Australian citizen,2023-24,2024,610,860,-250
+Tasmania,Tas,Australian citizen,Australian citizen,2024-25,2025,700,900,-200
+Tasmania,Tas,NZ citizen,NZ citizen (444),2004-05,2005,170,140,30
+Tasmania,Tas,NZ citizen,NZ citizen (444),2005-06,2006,190,130,60
+Tasmania,Tas,NZ citizen,NZ citizen (444),2006-07,2007,190,110,80
+Tasmania,Tas,NZ citizen,NZ citizen (444),2007-08,2008,240,110,130
+Tasmania,Tas,NZ citizen,NZ citizen (444),2008-09,2009,260,100,160
+Tasmania,Tas,NZ citizen,NZ citizen (444),2009-10,2010,250,160,90
+Tasmania,Tas,NZ citizen,NZ citizen (444),2010-11,2011,250,170,80
+Tasmania,Tas,NZ citizen,NZ citizen (444),2011-12,2012,250,110,140
+Tasmania,Tas,NZ citizen,NZ citizen (444),2012-13,2013,230,130,100
+Tasmania,Tas,NZ citizen,NZ citizen (444),2013-14,2014,160,150,10
+Tasmania,Tas,NZ citizen,NZ citizen (444),2014-15,2015,170,180,-10
+Tasmania,Tas,NZ citizen,NZ citizen (444),2015-16,2016,170,160,10
+Tasmania,Tas,NZ citizen,NZ citizen (444),2016-17,2017,170,140,30
+Tasmania,Tas,NZ citizen,NZ citizen (444),2017-18,2018,150,140,10
+Tasmania,Tas,NZ citizen,NZ citizen (444),2018-19,2019,140,120,20
+Tasmania,Tas,NZ citizen,NZ citizen (444),2019-20,2020,140,110,30
+Tasmania,Tas,NZ citizen,NZ citizen (444),2020-21,2021,70,90,-20
+Tasmania,Tas,NZ citizen,NZ citizen (444),2021-22,2022,140,100,40
+Tasmania,Tas,NZ citizen,NZ citizen (444),2022-23,2023,210,160,50
+Tasmania,Tas,NZ citizen,NZ citizen (444),2023-24,2024,230,80,150
+Tasmania,Tas,NZ citizen,NZ citizen (444),2024-25,2025,340,110,230
+Tasmania,Tas,Permanent,Family,2004-05,2005,180,40,140
+Tasmania,Tas,Permanent,Family,2005-06,2006,220,50,170
+Tasmania,Tas,Permanent,Family,2006-07,2007,200,40,160
+Tasmania,Tas,Permanent,Family,2007-08,2008,240,40,200
+Tasmania,Tas,Permanent,Family,2008-09,2009,290,40,250
+Tasmania,Tas,Permanent,Family,2009-10,2010,280,50,230
+Tasmania,Tas,Permanent,Family,2010-11,2011,190,70,120
+Tasmania,Tas,Permanent,Family,2011-12,2012,240,50,190
+Tasmania,Tas,Permanent,Family,2012-13,2013,240,40,200
+Tasmania,Tas,Permanent,Family,2013-14,2014,220,50,170
+Tasmania,Tas,Permanent,Family,2014-15,2015,220,50,170
+Tasmania,Tas,Permanent,Family,2015-16,2016,200,40,160
+Tasmania,Tas,Permanent,Family,2016-17,2017,200,40,160
+Tasmania,Tas,Permanent,Family,2017-18,2018,140,40,100
+Tasmania,Tas,Permanent,Family,2018-19,2019,160,40,120
+Tasmania,Tas,Permanent,Family,2019-20,2020,130,30,100
+Tasmania,Tas,Permanent,Family,2020-21,2021,80,30,50
+Tasmania,Tas,Permanent,Family,2021-22,2022,180,60,120
+Tasmania,Tas,Permanent,Family,2022-23,2023,130,40,90
+Tasmania,Tas,Permanent,Family,2023-24,2024,130,30,100
+Tasmania,Tas,Permanent,Family,2024-25,2025,140,50,90
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2004-05,2005,300,0,300
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2005-06,2006,200,0,200
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2006-07,2007,240,0,240
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2007-08,2008,230,10,220
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2008-09,2009,300,0,300
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2009-10,2010,390,0,390
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2010-11,2011,370,0,370
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2011-12,2012,370,0,370
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2012-13,2013,380,0,380
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2013-14,2014,800,0,800
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2014-15,2015,290,0,290
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2015-16,2016,370,0,370
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2016-17,2017,640,0,640
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2017-18,2018,520,0,520
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2018-19,2019,530,0,530
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2019-20,2020,420,0,420
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2020-21,2021,0,0,0
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2021-22,2022,70,0,70
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2022-23,2023,340,0,340
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2023-24,2024,280,0,280
+Tasmania,Tas,Permanent,Humanitarian & special eligibility,2024-25,2025,250,0,250
+Tasmania,Tas,Permanent,Other permanent,2004-05,2005,20,50,-30
+Tasmania,Tas,Permanent,Other permanent,2005-06,2006,20,50,-30
+Tasmania,Tas,Permanent,Other permanent,2006-07,2007,40,40,0
+Tasmania,Tas,Permanent,Other permanent,2007-08,2008,30,40,-10
+Tasmania,Tas,Permanent,Other permanent,2008-09,2009,40,30,10
+Tasmania,Tas,Permanent,Other permanent,2009-10,2010,40,50,-10
+Tasmania,Tas,Permanent,Other permanent,2010-11,2011,40,50,-10
+Tasmania,Tas,Permanent,Other permanent,2011-12,2012,30,60,-30
+Tasmania,Tas,Permanent,Other permanent,2012-13,2013,30,30,0
+Tasmania,Tas,Permanent,Other permanent,2013-14,2014,30,50,-20
+Tasmania,Tas,Permanent,Other permanent,2014-15,2015,40,40,0
+Tasmania,Tas,Permanent,Other permanent,2015-16,2016,30,50,-20
+Tasmania,Tas,Permanent,Other permanent,2016-17,2017,30,40,-10
+Tasmania,Tas,Permanent,Other permanent,2017-18,2018,50,50,0
+Tasmania,Tas,Permanent,Other permanent,2018-19,2019,40,50,-10
+Tasmania,Tas,Permanent,Other permanent,2019-20,2020,60,50,10
+Tasmania,Tas,Permanent,Other permanent,2020-21,2021,20,30,-10
+Tasmania,Tas,Permanent,Other permanent,2021-22,2022,40,70,-30
+Tasmania,Tas,Permanent,Other permanent,2022-23,2023,60,70,-10
+Tasmania,Tas,Permanent,Other permanent,2023-24,2024,40,40,0
+Tasmania,Tas,Permanent,Other permanent,2024-25,2025,40,60,-20
+Tasmania,Tas,Permanent,Skilled (permanent),2004-05,2005,190,30,160
+Tasmania,Tas,Permanent,Skilled (permanent),2005-06,2006,230,30,200
+Tasmania,Tas,Permanent,Skilled (permanent),2006-07,2007,260,40,220
+Tasmania,Tas,Permanent,Skilled (permanent),2007-08,2008,270,40,230
+Tasmania,Tas,Permanent,Skilled (permanent),2008-09,2009,310,50,260
+Tasmania,Tas,Permanent,Skilled (permanent),2009-10,2010,270,60,210
+Tasmania,Tas,Permanent,Skilled (permanent),2010-11,2011,150,70,80
+Tasmania,Tas,Permanent,Skilled (permanent),2011-12,2012,190,80,110
+Tasmania,Tas,Permanent,Skilled (permanent),2012-13,2013,160,60,100
+Tasmania,Tas,Permanent,Skilled (permanent),2013-14,2014,110,60,50
+Tasmania,Tas,Permanent,Skilled (permanent),2014-15,2015,120,60,60
+Tasmania,Tas,Permanent,Skilled (permanent),2015-16,2016,130,50,80
+Tasmania,Tas,Permanent,Skilled (permanent),2016-17,2017,210,50,160
+Tasmania,Tas,Permanent,Skilled (permanent),2017-18,2018,340,60,280
+Tasmania,Tas,Permanent,Skilled (permanent),2018-19,2019,580,110,470
+Tasmania,Tas,Permanent,Skilled (permanent),2019-20,2020,450,230,220
+Tasmania,Tas,Permanent,Skilled (permanent),2020-21,2021,160,130,30
+Tasmania,Tas,Permanent,Skilled (permanent),2021-22,2022,710,150,560
+Tasmania,Tas,Permanent,Skilled (permanent),2022-23,2023,710,120,590
+Tasmania,Tas,Permanent,Skilled (permanent),2023-24,2024,870,110,760
+Tasmania,Tas,Permanent,Skilled (permanent),2024-25,2025,960,170,790
+Tasmania,Tas,Temporary,Other temporary,2004-05,2005,120,70,50
+Tasmania,Tas,Temporary,Other temporary,2005-06,2006,70,60,10
+Tasmania,Tas,Temporary,Other temporary,2006-07,2007,30,80,-50
+Tasmania,Tas,Temporary,Other temporary,2007-08,2008,40,80,-40
+Tasmania,Tas,Temporary,Other temporary,2008-09,2009,40,110,-70
+Tasmania,Tas,Temporary,Other temporary,2009-10,2010,50,100,-50
+Tasmania,Tas,Temporary,Other temporary,2010-11,2011,50,100,-50
+Tasmania,Tas,Temporary,Other temporary,2011-12,2012,30,100,-70
+Tasmania,Tas,Temporary,Other temporary,2012-13,2013,60,110,-50
+Tasmania,Tas,Temporary,Other temporary,2013-14,2014,50,140,-90
+Tasmania,Tas,Temporary,Other temporary,2014-15,2015,50,120,-70
+Tasmania,Tas,Temporary,Other temporary,2015-16,2016,60,140,-80
+Tasmania,Tas,Temporary,Other temporary,2016-17,2017,60,140,-80
+Tasmania,Tas,Temporary,Other temporary,2017-18,2018,150,150,0
+Tasmania,Tas,Temporary,Other temporary,2018-19,2019,220,270,-50
+Tasmania,Tas,Temporary,Other temporary,2019-20,2020,1350,420,930
+Tasmania,Tas,Temporary,Other temporary,2020-21,2021,620,520,100
+Tasmania,Tas,Temporary,Other temporary,2021-22,2022,1470,430,1040
+Tasmania,Tas,Temporary,Other temporary,2022-23,2023,1260,790,470
+Tasmania,Tas,Temporary,Other temporary,2023-24,2024,880,610,270
+Tasmania,Tas,Temporary,Other temporary,2024-25,2025,620,660,-40
+Tasmania,Tas,Temporary,Skilled (temporary),2004-05,2005,100,20,80
+Tasmania,Tas,Temporary,Skilled (temporary),2005-06,2006,270,40,230
+Tasmania,Tas,Temporary,Skilled (temporary),2006-07,2007,270,60,210
+Tasmania,Tas,Temporary,Skilled (temporary),2007-08,2008,290,70,220
+Tasmania,Tas,Temporary,Skilled (temporary),2008-09,2009,360,60,300
+Tasmania,Tas,Temporary,Skilled (temporary),2009-10,2010,220,100,120
+Tasmania,Tas,Temporary,Skilled (temporary),2010-11,2011,270,90,180
+Tasmania,Tas,Temporary,Skilled (temporary),2011-12,2012,230,80,150
+Tasmania,Tas,Temporary,Skilled (temporary),2012-13,2013,260,50,210
+Tasmania,Tas,Temporary,Skilled (temporary),2013-14,2014,150,100,50
+Tasmania,Tas,Temporary,Skilled (temporary),2014-15,2015,180,80,100
+Tasmania,Tas,Temporary,Skilled (temporary),2015-16,2016,210,70,140
+Tasmania,Tas,Temporary,Skilled (temporary),2016-17,2017,190,40,150
+Tasmania,Tas,Temporary,Skilled (temporary),2017-18,2018,200,50,150
+Tasmania,Tas,Temporary,Skilled (temporary),2018-19,2019,320,60,260
+Tasmania,Tas,Temporary,Skilled (temporary),2019-20,2020,130,30,100
+Tasmania,Tas,Temporary,Skilled (temporary),2020-21,2021,60,50,10
+Tasmania,Tas,Temporary,Skilled (temporary),2021-22,2022,200,30,170
+Tasmania,Tas,Temporary,Skilled (temporary),2022-23,2023,390,20,370
+Tasmania,Tas,Temporary,Skilled (temporary),2023-24,2024,410,40,370
+Tasmania,Tas,Temporary,Skilled (temporary),2024-25,2025,530,50,480
+Tasmania,Tas,Temporary,Student,2004-05,2005,690,210,480
+Tasmania,Tas,Temporary,Student,2005-06,2006,720,280,440
+Tasmania,Tas,Temporary,Student,2006-07,2007,850,290,560
+Tasmania,Tas,Temporary,Student,2007-08,2008,1010,310,700
+Tasmania,Tas,Temporary,Student,2008-09,2009,1050,330,720
+Tasmania,Tas,Temporary,Student,2009-10,2010,930,440,490
+Tasmania,Tas,Temporary,Student,2010-11,2011,710,490,220
+Tasmania,Tas,Temporary,Student,2011-12,2012,850,490,360
+Tasmania,Tas,Temporary,Student,2012-13,2013,820,500,320
+Tasmania,Tas,Temporary,Student,2013-14,2014,960,480,480
+Tasmania,Tas,Temporary,Student,2014-15,2015,1410,540,870
+Tasmania,Tas,Temporary,Student,2015-16,2016,1280,380,900
+Tasmania,Tas,Temporary,Student,2016-17,2017,1310,380,930
+Tasmania,Tas,Temporary,Student,2017-18,2018,1600,410,1190
+Tasmania,Tas,Temporary,Student,2018-19,2019,1700,550,1150
+Tasmania,Tas,Temporary,Student,2019-20,2020,1140,990,150
+Tasmania,Tas,Temporary,Student,2020-21,2021,30,370,-340
+Tasmania,Tas,Temporary,Student,2021-22,2022,1320,210,1110
+Tasmania,Tas,Temporary,Student,2022-23,2023,1990,130,1860
+Tasmania,Tas,Temporary,Student,2023-24,2024,1500,170,1330
+Tasmania,Tas,Temporary,Student,2024-25,2025,710,190,520
+Tasmania,Tas,Temporary,Visitor,2004-05,2005,320,140,180
+Tasmania,Tas,Temporary,Visitor,2005-06,2006,300,150,150
+Tasmania,Tas,Temporary,Visitor,2006-07,2007,250,100,150
+Tasmania,Tas,Temporary,Visitor,2007-08,2008,390,160,230
+Tasmania,Tas,Temporary,Visitor,2008-09,2009,340,280,60
+Tasmania,Tas,Temporary,Visitor,2009-10,2010,300,140,160
+Tasmania,Tas,Temporary,Visitor,2010-11,2011,280,140,140
+Tasmania,Tas,Temporary,Visitor,2011-12,2012,280,90,190
+Tasmania,Tas,Temporary,Visitor,2012-13,2013,310,140,170
+Tasmania,Tas,Temporary,Visitor,2013-14,2014,290,90,200
+Tasmania,Tas,Temporary,Visitor,2014-15,2015,350,100,250
+Tasmania,Tas,Temporary,Visitor,2015-16,2016,420,160,260
+Tasmania,Tas,Temporary,Visitor,2016-17,2017,520,180,340
+Tasmania,Tas,Temporary,Visitor,2017-18,2018,590,160,430
+Tasmania,Tas,Temporary,Visitor,2018-19,2019,740,260,480
+Tasmania,Tas,Temporary,Visitor,2019-20,2020,1080,130,950
+Tasmania,Tas,Temporary,Visitor,2020-21,2021,70,150,-80
+Tasmania,Tas,Temporary,Visitor,2021-22,2022,460,140,320
+Tasmania,Tas,Temporary,Visitor,2022-23,2023,890,150,740
+Tasmania,Tas,Temporary,Visitor,2023-24,2024,710,180,530
+Tasmania,Tas,Temporary,Visitor,2024-25,2025,530,180,350
+Tasmania,Tas,Temporary,Working holiday,2004-05,2005,50,20,30
+Tasmania,Tas,Temporary,Working holiday,2005-06,2006,60,10,50
+Tasmania,Tas,Temporary,Working holiday,2006-07,2007,70,30,40
+Tasmania,Tas,Temporary,Working holiday,2007-08,2008,90,50,40
+Tasmania,Tas,Temporary,Working holiday,2008-09,2009,110,70,40
+Tasmania,Tas,Temporary,Working holiday,2009-10,2010,140,120,20
+Tasmania,Tas,Temporary,Working holiday,2010-11,2011,150,210,-60
+Tasmania,Tas,Temporary,Working holiday,2011-12,2012,380,230,150
+Tasmania,Tas,Temporary,Working holiday,2012-13,2013,450,270,180
+Tasmania,Tas,Temporary,Working holiday,2013-14,2014,460,330,130
+Tasmania,Tas,Temporary,Working holiday,2014-15,2015,510,380,130
+Tasmania,Tas,Temporary,Working holiday,2015-16,2016,480,410,70
+Tasmania,Tas,Temporary,Working holiday,2016-17,2017,490,370,120
+Tasmania,Tas,Temporary,Working holiday,2017-18,2018,470,260,210
+Tasmania,Tas,Temporary,Working holiday,2018-19,2019,490,310,180
+Tasmania,Tas,Temporary,Working holiday,2019-20,2020,380,290,90
+Tasmania,Tas,Temporary,Working holiday,2020-21,2021,10,110,-100
+Tasmania,Tas,Temporary,Working holiday,2021-22,2022,140,40,100
+Tasmania,Tas,Temporary,Working holiday,2022-23,2023,600,30,570
+Tasmania,Tas,Temporary,Working holiday,2023-24,2024,720,100,620
+Tasmania,Tas,Temporary,Working holiday,2024-25,2025,490,220,270
+Tasmania,Tas,Unknown,Unknown visa,2004-05,2005,60,110,-50
+Tasmania,Tas,Unknown,Unknown visa,2005-06,2006,110,150,-40
+Tasmania,Tas,Unknown,Unknown visa,2006-07,2007,100,120,-20
+Tasmania,Tas,Unknown,Unknown visa,2007-08,2008,60,90,-30
+Tasmania,Tas,Unknown,Unknown visa,2008-09,2009,90,100,-10
+Tasmania,Tas,Unknown,Unknown visa,2009-10,2010,110,120,-10
+Tasmania,Tas,Unknown,Unknown visa,2010-11,2011,60,90,-30
+Tasmania,Tas,Unknown,Unknown visa,2011-12,2012,80,60,20
+Tasmania,Tas,Unknown,Unknown visa,2012-13,2013,130,40,90
+Tasmania,Tas,Unknown,Unknown visa,2013-14,2014,30,50,-20
+Tasmania,Tas,Unknown,Unknown visa,2014-15,2015,20,50,-30
+Tasmania,Tas,Unknown,Unknown visa,2015-16,2016,50,60,-10
+Tasmania,Tas,Unknown,Unknown visa,2016-17,2017,10,30,-20
+Tasmania,Tas,Unknown,Unknown visa,2017-18,2018,20,80,-60
+Tasmania,Tas,Unknown,Unknown visa,2018-19,2019,30,80,-50
+Tasmania,Tas,Unknown,Unknown visa,2019-20,2020,20,90,-70
+Tasmania,Tas,Unknown,Unknown visa,2020-21,2021,10,40,-30
+Tasmania,Tas,Unknown,Unknown visa,2021-22,2022,10,0,10
+Tasmania,Tas,Unknown,Unknown visa,2022-23,2023,-10,-10,0
+Tasmania,Tas,Unknown,Unknown visa,2023-24,2024,-10,10,-20
+Tasmania,Tas,Unknown,Unknown visa,2024-25,2025,10,0,10
+Victoria,Vic,Australian citizen,Australian citizen,2004-05,2005,16410,20880,-4470
+Victoria,Vic,Australian citizen,Australian citizen,2005-06,2006,17210,21220,-4010
+Victoria,Vic,Australian citizen,Australian citizen,2006-07,2007,17230,22010,-4780
+Victoria,Vic,Australian citizen,Australian citizen,2007-08,2008,17590,22900,-5310
+Victoria,Vic,Australian citizen,Australian citizen,2008-09,2009,18860,19280,-420
+Victoria,Vic,Australian citizen,Australian citizen,2009-10,2010,18660,19530,-870
+Victoria,Vic,Australian citizen,Australian citizen,2010-11,2011,18760,20750,-1990
+Victoria,Vic,Australian citizen,Australian citizen,2011-12,2012,19170,19780,-610
+Victoria,Vic,Australian citizen,Australian citizen,2012-13,2013,19130,20740,-1610
+Victoria,Vic,Australian citizen,Australian citizen,2013-14,2014,18070,22350,-4280
+Victoria,Vic,Australian citizen,Australian citizen,2014-15,2015,18060,24110,-6050
+Victoria,Vic,Australian citizen,Australian citizen,2015-16,2016,18990,23440,-4450
+Victoria,Vic,Australian citizen,Australian citizen,2016-17,2017,20110,22190,-2080
+Victoria,Vic,Australian citizen,Australian citizen,2017-18,2018,19990,21810,-1820
+Victoria,Vic,Australian citizen,Australian citizen,2018-19,2019,19840,21470,-1630
+Victoria,Vic,Australian citizen,Australian citizen,2019-20,2020,23150,15950,7200
+Victoria,Vic,Australian citizen,Australian citizen,2020-21,2021,10360,12320,-1960
+Victoria,Vic,Australian citizen,Australian citizen,2021-22,2022,16180,20600,-4420
+Victoria,Vic,Australian citizen,Australian citizen,2022-23,2023,15300,21680,-6380
+Victoria,Vic,Australian citizen,Australian citizen,2023-24,2024,15680,21680,-6000
+Victoria,Vic,Australian citizen,Australian citizen,2024-25,2025,16350,21100,-4750
+Victoria,Vic,NZ citizen,NZ citizen (444),2004-05,2005,7020,3070,3950
+Victoria,Vic,NZ citizen,NZ citizen (444),2005-06,2006,7250,2880,4370
+Victoria,Vic,NZ citizen,NZ citizen (444),2006-07,2007,8300,2860,5440
+Victoria,Vic,NZ citizen,NZ citizen (444),2007-08,2008,9090,2900,6190
+Victoria,Vic,NZ citizen,NZ citizen (444),2008-09,2009,8620,3010,5610
+Victoria,Vic,NZ citizen,NZ citizen (444),2009-10,2010,7950,3110,4840
+Victoria,Vic,NZ citizen,NZ citizen (444),2010-11,2011,11490,3090,8400
+Victoria,Vic,NZ citizen,NZ citizen (444),2011-12,2012,12870,2930,9940
+Victoria,Vic,NZ citizen,NZ citizen (444),2012-13,2013,12410,3760,8650
+Victoria,Vic,NZ citizen,NZ citizen (444),2013-14,2014,9360,4660,4700
+Victoria,Vic,NZ citizen,NZ citizen (444),2014-15,2015,8340,5050,3290
+Victoria,Vic,NZ citizen,NZ citizen (444),2015-16,2016,9360,5110,4250
+Victoria,Vic,NZ citizen,NZ citizen (444),2016-17,2017,9010,5120,3890
+Victoria,Vic,NZ citizen,NZ citizen (444),2017-18,2018,8710,4810,3900
+Victoria,Vic,NZ citizen,NZ citizen (444),2018-19,2019,8780,4930,3850
+Victoria,Vic,NZ citizen,NZ citizen (444),2019-20,2020,6270,4900,1370
+Victoria,Vic,NZ citizen,NZ citizen (444),2020-21,2021,3310,5380,-2070
+Victoria,Vic,NZ citizen,NZ citizen (444),2021-22,2022,7050,3650,3400
+Victoria,Vic,NZ citizen,NZ citizen (444),2022-23,2023,12990,3710,9280
+Victoria,Vic,NZ citizen,NZ citizen (444),2023-24,2024,14850,3160,11690
+Victoria,Vic,NZ citizen,NZ citizen (444),2024-25,2025,14240,3420,10820
+Victoria,Vic,Permanent,Family,2004-05,2005,7850,920,6930
+Victoria,Vic,Permanent,Family,2005-06,2006,8190,900,7290
+Victoria,Vic,Permanent,Family,2006-07,2007,8990,1090,7900
+Victoria,Vic,Permanent,Family,2007-08,2008,9180,1160,8020
+Victoria,Vic,Permanent,Family,2008-09,2009,9770,1150,8620
+Victoria,Vic,Permanent,Family,2009-10,2010,10050,1360,8690
+Victoria,Vic,Permanent,Family,2010-11,2011,9790,1510,8280
+Victoria,Vic,Permanent,Family,2011-12,2012,10040,1450,8590
+Victoria,Vic,Permanent,Family,2012-13,2013,9930,1440,8490
+Victoria,Vic,Permanent,Family,2013-14,2014,10470,1470,9000
+Victoria,Vic,Permanent,Family,2014-15,2015,9600,1600,8000
+Victoria,Vic,Permanent,Family,2015-16,2016,9680,1490,8190
+Victoria,Vic,Permanent,Family,2016-17,2017,9290,1460,7830
+Victoria,Vic,Permanent,Family,2017-18,2018,8420,1420,7000
+Victoria,Vic,Permanent,Family,2018-19,2019,7960,1650,6310
+Victoria,Vic,Permanent,Family,2019-20,2020,6620,1900,4720
+Victoria,Vic,Permanent,Family,2020-21,2021,3920,1490,2430
+Victoria,Vic,Permanent,Family,2021-22,2022,8040,1860,6180
+Victoria,Vic,Permanent,Family,2022-23,2023,6920,1590,5330
+Victoria,Vic,Permanent,Family,2023-24,2024,8220,1410,6810
+Victoria,Vic,Permanent,Family,2024-25,2025,8270,1380,6890
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2004-05,2005,3940,50,3890
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2005-06,2006,3440,80,3360
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2006-07,2007,3380,10,3370
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2007-08,2008,2740,30,2710
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2008-09,2009,3040,30,3010
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2009-10,2010,2650,30,2620
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2010-11,2011,2440,40,2400
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2011-12,2012,2180,50,2130
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2012-13,2013,2960,30,2930
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2013-14,2014,3540,40,3500
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2014-15,2015,3600,40,3560
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2015-16,2016,3210,40,3170
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2016-17,2017,7220,30,7190
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2017-18,2018,3650,40,3610
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2018-19,2019,4110,50,4060
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2019-20,2020,3650,40,3610
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2020-21,2021,150,20,130
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2021-22,2022,2740,30,2710
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2022-23,2023,4440,40,4400
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2023-24,2024,6030,60,5970
+Victoria,Vic,Permanent,Humanitarian & special eligibility,2024-25,2025,5690,60,5630
+Victoria,Vic,Permanent,Other permanent,2004-05,2005,880,1230,-350
+Victoria,Vic,Permanent,Other permanent,2005-06,2006,830,1080,-250
+Victoria,Vic,Permanent,Other permanent,2006-07,2007,930,1160,-230
+Victoria,Vic,Permanent,Other permanent,2007-08,2008,960,1210,-250
+Victoria,Vic,Permanent,Other permanent,2008-09,2009,990,1150,-160
+Victoria,Vic,Permanent,Other permanent,2009-10,2010,1020,1360,-340
+Victoria,Vic,Permanent,Other permanent,2010-11,2011,1140,1490,-350
+Victoria,Vic,Permanent,Other permanent,2011-12,2012,1120,1430,-310
+Victoria,Vic,Permanent,Other permanent,2012-13,2013,1360,1510,-150
+Victoria,Vic,Permanent,Other permanent,2013-14,2014,1500,1580,-80
+Victoria,Vic,Permanent,Other permanent,2014-15,2015,1570,1650,-80
+Victoria,Vic,Permanent,Other permanent,2015-16,2016,1850,1690,160
+Victoria,Vic,Permanent,Other permanent,2016-17,2017,1900,1810,90
+Victoria,Vic,Permanent,Other permanent,2017-18,2018,1790,1970,-180
+Victoria,Vic,Permanent,Other permanent,2018-19,2019,2300,2290,10
+Victoria,Vic,Permanent,Other permanent,2019-20,2020,3100,2940,160
+Victoria,Vic,Permanent,Other permanent,2020-21,2021,1300,2640,-1340
+Victoria,Vic,Permanent,Other permanent,2021-22,2022,3060,3240,-180
+Victoria,Vic,Permanent,Other permanent,2022-23,2023,3610,2830,780
+Victoria,Vic,Permanent,Other permanent,2023-24,2024,3000,2530,470
+Victoria,Vic,Permanent,Other permanent,2024-25,2025,2780,2520,260
+Victoria,Vic,Permanent,Skilled (permanent),2004-05,2005,9330,2020,7310
+Victoria,Vic,Permanent,Skilled (permanent),2005-06,2006,11080,1960,9120
+Victoria,Vic,Permanent,Skilled (permanent),2006-07,2007,12620,2070,10550
+Victoria,Vic,Permanent,Skilled (permanent),2007-08,2008,14290,2070,12220
+Victoria,Vic,Permanent,Skilled (permanent),2008-09,2009,13660,1860,11800
+Victoria,Vic,Permanent,Skilled (permanent),2009-10,2010,11580,2420,9160
+Victoria,Vic,Permanent,Skilled (permanent),2010-11,2011,9710,2190,7520
+Victoria,Vic,Permanent,Skilled (permanent),2011-12,2012,10810,2010,8800
+Victoria,Vic,Permanent,Skilled (permanent),2012-13,2013,10650,2100,8550
+Victoria,Vic,Permanent,Skilled (permanent),2013-14,2014,11430,2040,9390
+Victoria,Vic,Permanent,Skilled (permanent),2014-15,2015,12890,2240,10650
+Victoria,Vic,Permanent,Skilled (permanent),2015-16,2016,13420,2230,11190
+Victoria,Vic,Permanent,Skilled (permanent),2016-17,2017,15230,2280,12950
+Victoria,Vic,Permanent,Skilled (permanent),2017-18,2018,14410,2280,12130
+Victoria,Vic,Permanent,Skilled (permanent),2018-19,2019,12660,2370,10290
+Victoria,Vic,Permanent,Skilled (permanent),2019-20,2020,8420,3090,5330
+Victoria,Vic,Permanent,Skilled (permanent),2020-21,2021,3630,2880,750
+Victoria,Vic,Permanent,Skilled (permanent),2021-22,2022,9260,2250,7010
+Victoria,Vic,Permanent,Skilled (permanent),2022-23,2023,10620,1400,9220
+Victoria,Vic,Permanent,Skilled (permanent),2023-24,2024,11710,1380,10330
+Victoria,Vic,Permanent,Skilled (permanent),2024-25,2025,9980,1480,8500
+Victoria,Vic,Temporary,Other temporary,2004-05,2005,1550,2870,-1320
+Victoria,Vic,Temporary,Other temporary,2005-06,2006,1350,2660,-1310
+Victoria,Vic,Temporary,Other temporary,2006-07,2007,1210,2520,-1310
+Victoria,Vic,Temporary,Other temporary,2007-08,2008,1430,2520,-1090
+Victoria,Vic,Temporary,Other temporary,2008-09,2009,1350,3380,-2030
+Victoria,Vic,Temporary,Other temporary,2009-10,2010,1300,4640,-3340
+Victoria,Vic,Temporary,Other temporary,2010-11,2011,1810,5090,-3280
+Victoria,Vic,Temporary,Other temporary,2011-12,2012,2000,5570,-3570
+Victoria,Vic,Temporary,Other temporary,2012-13,2013,2150,6110,-3960
+Victoria,Vic,Temporary,Other temporary,2013-14,2014,1890,6830,-4940
+Victoria,Vic,Temporary,Other temporary,2014-15,2015,2100,5910,-3810
+Victoria,Vic,Temporary,Other temporary,2015-16,2016,2530,6050,-3520
+Victoria,Vic,Temporary,Other temporary,2016-17,2017,3230,7060,-3830
+Victoria,Vic,Temporary,Other temporary,2017-18,2018,4020,9210,-5190
+Victoria,Vic,Temporary,Other temporary,2018-19,2019,4440,10560,-6120
+Victoria,Vic,Temporary,Other temporary,2019-20,2020,6040,13270,-7230
+Victoria,Vic,Temporary,Other temporary,2020-21,2021,1040,19560,-18520
+Victoria,Vic,Temporary,Other temporary,2021-22,2022,8860,13510,-4650
+Victoria,Vic,Temporary,Other temporary,2022-23,2023,13450,9060,4390
+Victoria,Vic,Temporary,Other temporary,2023-24,2024,11300,12370,-1070
+Victoria,Vic,Temporary,Other temporary,2024-25,2025,6860,13630,-6770
+Victoria,Vic,Temporary,Skilled (temporary),2004-05,2005,4130,1700,2430
+Victoria,Vic,Temporary,Skilled (temporary),2005-06,2006,5600,1920,3680
+Victoria,Vic,Temporary,Skilled (temporary),2006-07,2007,7220,2180,5040
+Victoria,Vic,Temporary,Skilled (temporary),2007-08,2008,8450,2550,5900
+Victoria,Vic,Temporary,Skilled (temporary),2008-09,2009,8270,2980,5290
+Victoria,Vic,Temporary,Skilled (temporary),2009-10,2010,5940,3290,2650
+Victoria,Vic,Temporary,Skilled (temporary),2010-11,2011,8380,2940,5440
+Victoria,Vic,Temporary,Skilled (temporary),2011-12,2012,9070,3250,5820
+Victoria,Vic,Temporary,Skilled (temporary),2012-13,2013,8060,4220,3840
+Victoria,Vic,Temporary,Skilled (temporary),2013-14,2014,7180,4710,2470
+Victoria,Vic,Temporary,Skilled (temporary),2014-15,2015,7570,4250,3320
+Victoria,Vic,Temporary,Skilled (temporary),2015-16,2016,7670,3950,3720
+Victoria,Vic,Temporary,Skilled (temporary),2016-17,2017,9040,3450,5590
+Victoria,Vic,Temporary,Skilled (temporary),2017-18,2018,7620,3700,3920
+Victoria,Vic,Temporary,Skilled (temporary),2018-19,2019,9240,3650,5590
+Victoria,Vic,Temporary,Skilled (temporary),2019-20,2020,5850,3460,2390
+Victoria,Vic,Temporary,Skilled (temporary),2020-21,2021,1400,3330,-1930
+Victoria,Vic,Temporary,Skilled (temporary),2021-22,2022,6310,2210,4100
+Victoria,Vic,Temporary,Skilled (temporary),2022-23,2023,13790,1250,12540
+Victoria,Vic,Temporary,Skilled (temporary),2023-24,2024,12060,1830,10230
+Victoria,Vic,Temporary,Skilled (temporary),2024-25,2025,9890,2510,7380
+Victoria,Vic,Temporary,Student,2004-05,2005,19880,5720,14160
+Victoria,Vic,Temporary,Student,2005-06,2006,23390,7180,16210
+Victoria,Vic,Temporary,Student,2006-07,2007,35490,6810,28680
+Victoria,Vic,Temporary,Student,2007-08,2008,43520,7180,36340
+Victoria,Vic,Temporary,Student,2008-09,2009,51970,8480,43490
+Victoria,Vic,Temporary,Student,2009-10,2010,32950,11830,21120
+Victoria,Vic,Temporary,Student,2010-11,2011,21540,14450,7090
+Victoria,Vic,Temporary,Student,2011-12,2012,20940,13180,7760
+Victoria,Vic,Temporary,Student,2012-13,2013,25450,12220,13230
+Victoria,Vic,Temporary,Student,2013-14,2014,35040,11920,23120
+Victoria,Vic,Temporary,Student,2014-15,2015,37910,12420,25490
+Victoria,Vic,Temporary,Student,2015-16,2016,42100,12550,29550
+Victoria,Vic,Temporary,Student,2016-17,2017,49000,13630,35370
+Victoria,Vic,Temporary,Student,2017-18,2018,53030,16520,36510
+Victoria,Vic,Temporary,Student,2018-19,2019,56530,20720,35810
+Victoria,Vic,Temporary,Student,2019-20,2020,37150,31780,5370
+Victoria,Vic,Temporary,Student,2020-21,2021,300,24670,-24370
+Victoria,Vic,Temporary,Student,2021-22,2022,46740,8250,38490
+Victoria,Vic,Temporary,Student,2022-23,2023,80000,4540,75460
+Victoria,Vic,Temporary,Student,2023-24,2024,60680,9580,51100
+Victoria,Vic,Temporary,Student,2024-25,2025,50110,14370,35740
+Victoria,Vic,Temporary,Visitor,2004-05,2005,7270,2710,4560
+Victoria,Vic,Temporary,Visitor,2005-06,2006,7170,2570,4600
+Victoria,Vic,Temporary,Visitor,2006-07,2007,7940,2270,5670
+Victoria,Vic,Temporary,Visitor,2007-08,2008,10230,3700,6530
+Victoria,Vic,Temporary,Visitor,2008-09,2009,8910,3770,5140
+Victoria,Vic,Temporary,Visitor,2009-10,2010,9430,3210,6220
+Victoria,Vic,Temporary,Visitor,2010-11,2011,9780,3590,6190
+Victoria,Vic,Temporary,Visitor,2011-12,2012,10740,2890,7850
+Victoria,Vic,Temporary,Visitor,2012-13,2013,11530,3290,8240
+Victoria,Vic,Temporary,Visitor,2013-14,2014,11970,3100,8870
+Victoria,Vic,Temporary,Visitor,2014-15,2015,14730,3220,11510
+Victoria,Vic,Temporary,Visitor,2015-16,2016,19190,4610,14580
+Victoria,Vic,Temporary,Visitor,2016-17,2017,22590,4680,17910
+Victoria,Vic,Temporary,Visitor,2017-18,2018,25930,5660,20270
+Victoria,Vic,Temporary,Visitor,2018-19,2019,29110,7560,21550
+Victoria,Vic,Temporary,Visitor,2019-20,2020,38240,4850,33390
+Victoria,Vic,Temporary,Visitor,2020-21,2021,1480,4910,-3430
+Victoria,Vic,Temporary,Visitor,2021-22,2022,15600,5360,10240
+Victoria,Vic,Temporary,Visitor,2022-23,2023,33640,5350,28290
+Victoria,Vic,Temporary,Visitor,2023-24,2024,26830,4860,21970
+Victoria,Vic,Temporary,Visitor,2024-25,2025,16490,5110,11380
+Victoria,Vic,Temporary,Working holiday,2004-05,2005,1800,480,1320
+Victoria,Vic,Temporary,Working holiday,2005-06,2006,2310,420,1890
+Victoria,Vic,Temporary,Working holiday,2006-07,2007,2970,710,2260
+Victoria,Vic,Temporary,Working holiday,2007-08,2008,4030,1140,2890
+Victoria,Vic,Temporary,Working holiday,2008-09,2009,4920,1490,3430
+Victoria,Vic,Temporary,Working holiday,2009-10,2010,5490,2190,3300
+Victoria,Vic,Temporary,Working holiday,2010-11,2011,7960,2630,5330
+Victoria,Vic,Temporary,Working holiday,2011-12,2012,10330,2720,7610
+Victoria,Vic,Temporary,Working holiday,2012-13,2013,11610,3820,7790
+Victoria,Vic,Temporary,Working holiday,2013-14,2014,11260,5350,5910
+Victoria,Vic,Temporary,Working holiday,2014-15,2015,11200,5950,5250
+Victoria,Vic,Temporary,Working holiday,2015-16,2016,11460,5990,5470
+Victoria,Vic,Temporary,Working holiday,2016-17,2017,12260,5780,6480
+Victoria,Vic,Temporary,Working holiday,2017-18,2018,13160,5380,7780
+Victoria,Vic,Temporary,Working holiday,2018-19,2019,12870,6310,6560
+Victoria,Vic,Temporary,Working holiday,2019-20,2020,11720,6820,4900
+Victoria,Vic,Temporary,Working holiday,2020-21,2021,160,2120,-1960
+Victoria,Vic,Temporary,Working holiday,2021-22,2022,4910,1070,3840
+Victoria,Vic,Temporary,Working holiday,2022-23,2023,17280,710,16570
+Victoria,Vic,Temporary,Working holiday,2023-24,2024,19050,2650,16400
+Victoria,Vic,Temporary,Working holiday,2024-25,2025,18410,5710,12700
+Victoria,Vic,Unknown,Unknown visa,2004-05,2005,1170,1960,-790
+Victoria,Vic,Unknown,Unknown visa,2005-06,2006,2040,2000,40
+Victoria,Vic,Unknown,Unknown visa,2006-07,2007,2320,2370,-50
+Victoria,Vic,Unknown,Unknown visa,2007-08,2008,1940,2520,-580
+Victoria,Vic,Unknown,Unknown visa,2008-09,2009,2280,2450,-170
+Victoria,Vic,Unknown,Unknown visa,2009-10,2010,2110,2480,-370
+Victoria,Vic,Unknown,Unknown visa,2010-11,2011,2100,2500,-400
+Victoria,Vic,Unknown,Unknown visa,2011-12,2012,3010,840,2170
+Victoria,Vic,Unknown,Unknown visa,2012-13,2013,4010,970,3040
+Victoria,Vic,Unknown,Unknown visa,2013-14,2014,540,1300,-760
+Victoria,Vic,Unknown,Unknown visa,2014-15,2015,600,1040,-440
+Victoria,Vic,Unknown,Unknown visa,2015-16,2016,760,850,-90
+Victoria,Vic,Unknown,Unknown visa,2016-17,2017,750,890,-140
+Victoria,Vic,Unknown,Unknown visa,2017-18,2018,440,1400,-960
+Victoria,Vic,Unknown,Unknown visa,2018-19,2019,470,1280,-810
+Victoria,Vic,Unknown,Unknown visa,2019-20,2020,430,1070,-640
+Victoria,Vic,Unknown,Unknown visa,2020-21,2021,90,810,-720
+Victoria,Vic,Unknown,Unknown visa,2021-22,2022,-20,10,-30
+Victoria,Vic,Unknown,Unknown visa,2022-23,2023,0,-10,10
+Victoria,Vic,Unknown,Unknown visa,2023-24,2024,-20,0,-20
+Victoria,Vic,Unknown,Unknown visa,2024-25,2025,0,10,-10
+Western Australia,WA,Australian citizen,Australian citizen,2004-05,2005,7980,9570,-1590
+Western Australia,WA,Australian citizen,Australian citizen,2005-06,2006,8630,9650,-1020
+Western Australia,WA,Australian citizen,Australian citizen,2006-07,2007,8260,9550,-1290
+Western Australia,WA,Australian citizen,Australian citizen,2007-08,2008,8660,9870,-1210
+Western Australia,WA,Australian citizen,Australian citizen,2008-09,2009,9040,8620,420
+Western Australia,WA,Australian citizen,Australian citizen,2009-10,2010,8400,8670,-270
+Western Australia,WA,Australian citizen,Australian citizen,2010-11,2011,9360,9580,-220
+Western Australia,WA,Australian citizen,Australian citizen,2011-12,2012,8250,9090,-840
+Western Australia,WA,Australian citizen,Australian citizen,2012-13,2013,8580,9670,-1090
+Western Australia,WA,Australian citizen,Australian citizen,2013-14,2014,7680,10800,-3120
+Western Australia,WA,Australian citizen,Australian citizen,2014-15,2015,7410,11330,-3920
+Western Australia,WA,Australian citizen,Australian citizen,2015-16,2016,8120,11930,-3810
+Western Australia,WA,Australian citizen,Australian citizen,2016-17,2017,8770,11730,-2960
+Western Australia,WA,Australian citizen,Australian citizen,2017-18,2018,8340,10280,-1940
+Western Australia,WA,Australian citizen,Australian citizen,2018-19,2019,8740,9320,-580
+Western Australia,WA,Australian citizen,Australian citizen,2019-20,2020,10860,6350,4510
+Western Australia,WA,Australian citizen,Australian citizen,2020-21,2021,5570,4410,1160
+Western Australia,WA,Australian citizen,Australian citizen,2021-22,2022,6110,7940,-1830
+Western Australia,WA,Australian citizen,Australian citizen,2022-23,2023,6840,9610,-2770
+Western Australia,WA,Australian citizen,Australian citizen,2023-24,2024,6560,9020,-2460
+Western Australia,WA,Australian citizen,Australian citizen,2024-25,2025,7100,9310,-2210
+Western Australia,WA,NZ citizen,NZ citizen (444),2004-05,2005,3480,1370,2110
+Western Australia,WA,NZ citizen,NZ citizen (444),2005-06,2006,4090,1450,2640
+Western Australia,WA,NZ citizen,NZ citizen (444),2006-07,2007,5040,1490,3550
+Western Australia,WA,NZ citizen,NZ citizen (444),2007-08,2008,7530,1580,5950
+Western Australia,WA,NZ citizen,NZ citizen (444),2008-09,2009,7230,1940,5290
+Western Australia,WA,NZ citizen,NZ citizen (444),2009-10,2010,5410,2270,3140
+Western Australia,WA,NZ citizen,NZ citizen (444),2010-11,2011,8500,2020,6480
+Western Australia,WA,NZ citizen,NZ citizen (444),2011-12,2012,13060,2310,10750
+Western Australia,WA,NZ citizen,NZ citizen (444),2012-13,2013,10600,3440,7160
+Western Australia,WA,NZ citizen,NZ citizen (444),2013-14,2014,5830,4810,1020
+Western Australia,WA,NZ citizen,NZ citizen (444),2014-15,2015,4330,5420,-1090
+Western Australia,WA,NZ citizen,NZ citizen (444),2015-16,2016,3390,5800,-2410
+Western Australia,WA,NZ citizen,NZ citizen (444),2016-17,2017,2920,5200,-2280
+Western Australia,WA,NZ citizen,NZ citizen (444),2017-18,2018,2990,3830,-840
+Western Australia,WA,NZ citizen,NZ citizen (444),2018-19,2019,3230,3380,-150
+Western Australia,WA,NZ citizen,NZ citizen (444),2019-20,2020,2530,2810,-280
+Western Australia,WA,NZ citizen,NZ citizen (444),2020-21,2021,1420,2330,-910
+Western Australia,WA,NZ citizen,NZ citizen (444),2021-22,2022,3060,1870,1190
+Western Australia,WA,NZ citizen,NZ citizen (444),2022-23,2023,6380,2030,4350
+Western Australia,WA,NZ citizen,NZ citizen (444),2023-24,2024,7490,1930,5560
+Western Australia,WA,NZ citizen,NZ citizen (444),2024-25,2025,7420,2280,5140
+Western Australia,WA,Permanent,Family,2004-05,2005,2710,370,2340
+Western Australia,WA,Permanent,Family,2005-06,2006,2890,390,2500
+Western Australia,WA,Permanent,Family,2006-07,2007,3150,430,2720
+Western Australia,WA,Permanent,Family,2007-08,2008,3330,510,2820
+Western Australia,WA,Permanent,Family,2008-09,2009,3560,490,3070
+Western Australia,WA,Permanent,Family,2009-10,2010,3800,610,3190
+Western Australia,WA,Permanent,Family,2010-11,2011,3940,600,3340
+Western Australia,WA,Permanent,Family,2011-12,2012,3870,580,3290
+Western Australia,WA,Permanent,Family,2012-13,2013,4270,620,3650
+Western Australia,WA,Permanent,Family,2013-14,2014,3950,710,3240
+Western Australia,WA,Permanent,Family,2014-15,2015,3510,780,2730
+Western Australia,WA,Permanent,Family,2015-16,2016,3560,700,2860
+Western Australia,WA,Permanent,Family,2016-17,2017,3020,710,2310
+Western Australia,WA,Permanent,Family,2017-18,2018,2580,620,1960
+Western Australia,WA,Permanent,Family,2018-19,2019,2360,620,1740
+Western Australia,WA,Permanent,Family,2019-20,2020,2060,600,1460
+Western Australia,WA,Permanent,Family,2020-21,2021,1230,310,920
+Western Australia,WA,Permanent,Family,2021-22,2022,2510,550,1960
+Western Australia,WA,Permanent,Family,2022-23,2023,2220,560,1660
+Western Australia,WA,Permanent,Family,2023-24,2024,2250,510,1740
+Western Australia,WA,Permanent,Family,2024-25,2025,2310,530,1780
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2004-05,2005,1780,20,1760
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2005-06,2006,1380,20,1360
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2006-07,2007,1680,10,1670
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2007-08,2008,1440,10,1430
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2008-09,2009,1710,10,1700
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2009-10,2010,1170,10,1160
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2010-11,2011,810,10,800
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2011-12,2012,750,20,730
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2012-13,2013,520,10,510
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2013-14,2014,820,10,810
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2014-15,2015,730,10,720
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2015-16,2016,880,20,860
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2016-17,2017,990,10,980
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2017-18,2018,660,10,650
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2018-19,2019,650,20,630
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2019-20,2020,540,10,530
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2020-21,2021,40,0,40
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2021-22,2022,350,10,340
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2022-23,2023,850,10,840
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2023-24,2024,900,10,890
+Western Australia,WA,Permanent,Humanitarian & special eligibility,2024-25,2025,690,20,670
+Western Australia,WA,Permanent,Other permanent,2004-05,2005,590,800,-210
+Western Australia,WA,Permanent,Other permanent,2005-06,2006,600,700,-100
+Western Australia,WA,Permanent,Other permanent,2006-07,2007,600,680,-80
+Western Australia,WA,Permanent,Other permanent,2007-08,2008,640,640,0
+Western Australia,WA,Permanent,Other permanent,2008-09,2009,610,670,-60
+Western Australia,WA,Permanent,Other permanent,2009-10,2010,580,760,-180
+Western Australia,WA,Permanent,Other permanent,2010-11,2011,680,750,-70
+Western Australia,WA,Permanent,Other permanent,2011-12,2012,670,780,-110
+Western Australia,WA,Permanent,Other permanent,2012-13,2013,710,770,-60
+Western Australia,WA,Permanent,Other permanent,2013-14,2014,710,920,-210
+Western Australia,WA,Permanent,Other permanent,2014-15,2015,750,920,-170
+Western Australia,WA,Permanent,Other permanent,2015-16,2016,740,990,-250
+Western Australia,WA,Permanent,Other permanent,2016-17,2017,760,960,-200
+Western Australia,WA,Permanent,Other permanent,2017-18,2018,890,930,-40
+Western Australia,WA,Permanent,Other permanent,2018-19,2019,1030,1060,-30
+Western Australia,WA,Permanent,Other permanent,2019-20,2020,1600,1020,580
+Western Australia,WA,Permanent,Other permanent,2020-21,2021,690,660,30
+Western Australia,WA,Permanent,Other permanent,2021-22,2022,970,1050,-80
+Western Australia,WA,Permanent,Other permanent,2022-23,2023,1120,1110,10
+Western Australia,WA,Permanent,Other permanent,2023-24,2024,980,930,50
+Western Australia,WA,Permanent,Other permanent,2024-25,2025,830,1000,-170
+Western Australia,WA,Permanent,Skilled (permanent),2004-05,2005,6190,790,5400
+Western Australia,WA,Permanent,Skilled (permanent),2005-06,2006,7860,770,7090
+Western Australia,WA,Permanent,Skilled (permanent),2006-07,2007,8960,830,8130
+Western Australia,WA,Permanent,Skilled (permanent),2007-08,2008,9450,890,8560
+Western Australia,WA,Permanent,Skilled (permanent),2008-09,2009,8750,900,7850
+Western Australia,WA,Permanent,Skilled (permanent),2009-10,2010,7080,1230,5850
+Western Australia,WA,Permanent,Skilled (permanent),2010-11,2011,5880,1110,4770
+Western Australia,WA,Permanent,Skilled (permanent),2011-12,2012,9210,1170,8040
+Western Australia,WA,Permanent,Skilled (permanent),2012-13,2013,9080,1190,7890
+Western Australia,WA,Permanent,Skilled (permanent),2013-14,2014,8600,1380,7220
+Western Australia,WA,Permanent,Skilled (permanent),2014-15,2015,6540,1530,5010
+Western Australia,WA,Permanent,Skilled (permanent),2015-16,2016,5540,1740,3800
+Western Australia,WA,Permanent,Skilled (permanent),2016-17,2017,4540,1510,3030
+Western Australia,WA,Permanent,Skilled (permanent),2017-18,2018,3390,1090,2300
+Western Australia,WA,Permanent,Skilled (permanent),2018-19,2019,2560,860,1700
+Western Australia,WA,Permanent,Skilled (permanent),2019-20,2020,1800,700,1100
+Western Australia,WA,Permanent,Skilled (permanent),2020-21,2021,950,350,600
+Western Australia,WA,Permanent,Skilled (permanent),2021-22,2022,2130,500,1630
+Western Australia,WA,Permanent,Skilled (permanent),2022-23,2023,3970,440,3530
+Western Australia,WA,Permanent,Skilled (permanent),2023-24,2024,5190,520,4670
+Western Australia,WA,Permanent,Skilled (permanent),2024-25,2025,4980,660,4320
+Western Australia,WA,Temporary,Other temporary,2004-05,2005,1680,930,750
+Western Australia,WA,Temporary,Other temporary,2005-06,2006,1410,970,440
+Western Australia,WA,Temporary,Other temporary,2006-07,2007,1230,1100,130
+Western Australia,WA,Temporary,Other temporary,2007-08,2008,1020,1410,-390
+Western Australia,WA,Temporary,Other temporary,2008-09,2009,900,1790,-890
+Western Australia,WA,Temporary,Other temporary,2009-10,2010,660,2130,-1470
+Western Australia,WA,Temporary,Other temporary,2010-11,2011,780,2030,-1250
+Western Australia,WA,Temporary,Other temporary,2011-12,2012,960,1860,-900
+Western Australia,WA,Temporary,Other temporary,2012-13,2013,960,2430,-1470
+Western Australia,WA,Temporary,Other temporary,2013-14,2014,980,2730,-1750
+Western Australia,WA,Temporary,Other temporary,2014-15,2015,850,2320,-1470
+Western Australia,WA,Temporary,Other temporary,2015-16,2016,1020,2640,-1620
+Western Australia,WA,Temporary,Other temporary,2016-17,2017,910,2810,-1900
+Western Australia,WA,Temporary,Other temporary,2017-18,2018,950,3250,-2300
+Western Australia,WA,Temporary,Other temporary,2018-19,2019,1130,3220,-2090
+Western Australia,WA,Temporary,Other temporary,2019-20,2020,1490,3100,-1610
+Western Australia,WA,Temporary,Other temporary,2020-21,2021,890,3670,-2780
+Western Australia,WA,Temporary,Other temporary,2021-22,2022,3080,3460,-380
+Western Australia,WA,Temporary,Other temporary,2022-23,2023,6060,2600,3460
+Western Australia,WA,Temporary,Other temporary,2023-24,2024,4910,4800,110
+Western Australia,WA,Temporary,Other temporary,2024-25,2025,2890,4490,-1600
+Western Australia,WA,Temporary,Skilled (temporary),2004-05,2005,2820,720,2100
+Western Australia,WA,Temporary,Skilled (temporary),2005-06,2006,6250,760,5490
+Western Australia,WA,Temporary,Skilled (temporary),2006-07,2007,8140,1050,7090
+Western Australia,WA,Temporary,Skilled (temporary),2007-08,2008,11260,1460,9800
+Western Australia,WA,Temporary,Skilled (temporary),2008-09,2009,11850,2360,9490
+Western Australia,WA,Temporary,Skilled (temporary),2009-10,2010,5450,2560,2890
+Western Australia,WA,Temporary,Skilled (temporary),2010-11,2011,7660,2020,5640
+Western Australia,WA,Temporary,Skilled (temporary),2011-12,2012,13140,2180,10960
+Western Australia,WA,Temporary,Skilled (temporary),2012-13,2013,11100,3810,7290
+Western Australia,WA,Temporary,Skilled (temporary),2013-14,2014,5920,5140,780
+Western Australia,WA,Temporary,Skilled (temporary),2014-15,2015,4690,5080,-390
+Western Australia,WA,Temporary,Skilled (temporary),2015-16,2016,3690,4420,-730
+Western Australia,WA,Temporary,Skilled (temporary),2016-17,2017,3120,2940,180
+Western Australia,WA,Temporary,Skilled (temporary),2017-18,2018,2650,2120,530
+Western Australia,WA,Temporary,Skilled (temporary),2018-19,2019,3200,1880,1320
+Western Australia,WA,Temporary,Skilled (temporary),2019-20,2020,2790,1400,1390
+Western Australia,WA,Temporary,Skilled (temporary),2020-21,2021,1150,1210,-60
+Western Australia,WA,Temporary,Skilled (temporary),2021-22,2022,3360,880,2480
+Western Australia,WA,Temporary,Skilled (temporary),2022-23,2023,6960,680,6280
+Western Australia,WA,Temporary,Skilled (temporary),2023-24,2024,8490,880,7610
+Western Australia,WA,Temporary,Skilled (temporary),2024-25,2025,8170,1370,6800
+Western Australia,WA,Temporary,Student,2004-05,2005,5710,2160,3550
+Western Australia,WA,Temporary,Student,2005-06,2006,5670,2670,3000
+Western Australia,WA,Temporary,Student,2006-07,2007,7290,2500,4790
+Western Australia,WA,Temporary,Student,2007-08,2008,10290,2210,8080
+Western Australia,WA,Temporary,Student,2008-09,2009,12610,2660,9950
+Western Australia,WA,Temporary,Student,2009-10,2010,9370,3590,5780
+Western Australia,WA,Temporary,Student,2010-11,2011,6780,3970,2810
+Western Australia,WA,Temporary,Student,2011-12,2012,6470,3590,2880
+Western Australia,WA,Temporary,Student,2012-13,2013,7360,3370,3990
+Western Australia,WA,Temporary,Student,2013-14,2014,8970,3730,5240
+Western Australia,WA,Temporary,Student,2014-15,2015,9280,3680,5600
+Western Australia,WA,Temporary,Student,2015-16,2016,10330,3720,6610
+Western Australia,WA,Temporary,Student,2016-17,2017,10040,3830,6210
+Western Australia,WA,Temporary,Student,2017-18,2018,8920,3960,4960
+Western Australia,WA,Temporary,Student,2018-19,2019,10700,3930,6770
+Western Australia,WA,Temporary,Student,2019-20,2020,8490,4150,4340
+Western Australia,WA,Temporary,Student,2020-21,2021,80,2430,-2350
+Western Australia,WA,Temporary,Student,2021-22,2022,7530,1540,5990
+Western Australia,WA,Temporary,Student,2022-23,2023,30330,830,29500
+Western Australia,WA,Temporary,Student,2023-24,2024,24880,1690,23190
+Western Australia,WA,Temporary,Student,2024-25,2025,15230,2930,12300
+Western Australia,WA,Temporary,Visitor,2004-05,2005,4390,1730,2660
+Western Australia,WA,Temporary,Visitor,2005-06,2006,4740,1600,3140
+Western Australia,WA,Temporary,Visitor,2006-07,2007,5180,1290,3890
+Western Australia,WA,Temporary,Visitor,2007-08,2008,7030,2700,4330
+Western Australia,WA,Temporary,Visitor,2008-09,2009,5530,1980,3550
+Western Australia,WA,Temporary,Visitor,2009-10,2010,5360,1930,3430
+Western Australia,WA,Temporary,Visitor,2010-11,2011,6070,1780,4290
+Western Australia,WA,Temporary,Visitor,2011-12,2012,6620,1510,5110
+Western Australia,WA,Temporary,Visitor,2012-13,2013,6600,1530,5070
+Western Australia,WA,Temporary,Visitor,2013-14,2014,5760,1830,3930
+Western Australia,WA,Temporary,Visitor,2014-15,2015,6040,1490,4550
+Western Australia,WA,Temporary,Visitor,2015-16,2016,6860,2030,4830
+Western Australia,WA,Temporary,Visitor,2016-17,2017,7550,1950,5600
+Western Australia,WA,Temporary,Visitor,2017-18,2018,7160,2090,5070
+Western Australia,WA,Temporary,Visitor,2018-19,2019,8530,2610,5920
+Western Australia,WA,Temporary,Visitor,2019-20,2020,12050,1540,10510
+Western Australia,WA,Temporary,Visitor,2020-21,2021,810,1380,-570
+Western Australia,WA,Temporary,Visitor,2021-22,2022,4410,1980,2430
+Western Australia,WA,Temporary,Visitor,2022-23,2023,10880,2090,8790
+Western Australia,WA,Temporary,Visitor,2023-24,2024,8190,1750,6440
+Western Australia,WA,Temporary,Visitor,2024-25,2025,5990,1980,4010
+Western Australia,WA,Temporary,Working holiday,2004-05,2005,1350,390,960
+Western Australia,WA,Temporary,Working holiday,2005-06,2006,1820,320,1500
+Western Australia,WA,Temporary,Working holiday,2006-07,2007,2510,690,1820
+Western Australia,WA,Temporary,Working holiday,2007-08,2008,4210,1440,2770
+Western Australia,WA,Temporary,Working holiday,2008-09,2009,5520,2040,3480
+Western Australia,WA,Temporary,Working holiday,2009-10,2010,5390,2920,2470
+Western Australia,WA,Temporary,Working holiday,2010-11,2011,8920,2890,6030
+Western Australia,WA,Temporary,Working holiday,2011-12,2012,12790,3240,9550
+Western Australia,WA,Temporary,Working holiday,2012-13,2013,12510,4600,7910
+Western Australia,WA,Temporary,Working holiday,2013-14,2014,9690,5850,3840
+Western Australia,WA,Temporary,Working holiday,2014-15,2015,8330,5480,2850
+Western Australia,WA,Temporary,Working holiday,2015-16,2016,6700,5050,1650
+Western Australia,WA,Temporary,Working holiday,2016-17,2017,5360,4240,1120
+Western Australia,WA,Temporary,Working holiday,2017-18,2018,5220,3080,2140
+Western Australia,WA,Temporary,Working holiday,2018-19,2019,5560,2880,2680
+Western Australia,WA,Temporary,Working holiday,2019-20,2020,5870,2840,3030
+Western Australia,WA,Temporary,Working holiday,2020-21,2021,80,980,-900
+Western Australia,WA,Temporary,Working holiday,2021-22,2022,2630,660,1970
+Western Australia,WA,Temporary,Working holiday,2022-23,2023,11570,480,11090
+Western Australia,WA,Temporary,Working holiday,2023-24,2024,13620,2120,11500
+Western Australia,WA,Temporary,Working holiday,2024-25,2025,13930,4570,9360
+Western Australia,WA,Unknown,Unknown visa,2004-05,2005,1300,1930,-630
+Western Australia,WA,Unknown,Unknown visa,2005-06,2006,1830,2360,-530
+Western Australia,WA,Unknown,Unknown visa,2006-07,2007,1790,2830,-1040
+Western Australia,WA,Unknown,Unknown visa,2007-08,2008,1290,2250,-960
+Western Australia,WA,Unknown,Unknown visa,2008-09,2009,2400,1920,480
+Western Australia,WA,Unknown,Unknown visa,2009-10,2010,5250,2380,2870
+Western Australia,WA,Unknown,Unknown visa,2010-11,2011,5550,1740,3810
+Western Australia,WA,Unknown,Unknown visa,2011-12,2012,2190,870,1320
+Western Australia,WA,Unknown,Unknown visa,2012-13,2013,2090,800,1290
+Western Australia,WA,Unknown,Unknown visa,2013-14,2014,1120,3370,-2250
+Western Australia,WA,Unknown,Unknown visa,2014-15,2015,830,1180,-350
+Western Australia,WA,Unknown,Unknown visa,2015-16,2016,710,880,-170
+Western Australia,WA,Unknown,Unknown visa,2016-17,2017,660,740,-80
+Western Australia,WA,Unknown,Unknown visa,2017-18,2018,440,950,-510
+Western Australia,WA,Unknown,Unknown visa,2018-19,2019,390,810,-420
+Western Australia,WA,Unknown,Unknown visa,2019-20,2020,320,720,-400
+Western Australia,WA,Unknown,Unknown visa,2020-21,2021,60,300,-240
+Western Australia,WA,Unknown,Unknown visa,2021-22,2022,-10,-30,20
+Western Australia,WA,Unknown,Unknown visa,2022-23,2023,0,0,0
+Western Australia,WA,Unknown,Unknown visa,2023-24,2024,-20,10,-30
+Western Australia,WA,Unknown,Unknown visa,2024-25,2025,0,0,0
