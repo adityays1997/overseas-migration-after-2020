@@ -14,11 +14,12 @@ There were 2.81 million temporary visa holders in the country in June 2026, up 6
 June 2019. The growth is in graduate and bridging visas, not student visas.
 
 **Implication:** don't plan on the post-2020 population rolling back out on its own. Those
-people are still here, and departures are the number to watch. Also, the "migration is still
-high" story is now mostly a WA, NT and Queensland story. In the year to March 2026, NSW and
-Victoria were running *below* their pre-COVID rates of net overseas migration per head. So a
-national growth assumption will overstate Sydney and Melbourne and understate Perth and
-Brisbane.
+people are still here, and departures are the number to watch. Second, use each state's
+current rate, not its old normal and not the national average. Relative to their own history,
+WA, the NT and Queensland are running well above normal, while NSW and Victoria are below. So a
+"back to pre-COVID" assumption overshoots Sydney and Melbourne and undershoots Perth, Darwin and
+Brisbane. A single national rate doesn't fix it either. In the year to March 2026, WA and the NT
+ran about 30% above the national 10.6 per 1,000, and Tasmania about half of it.
 
 ## Data
 
@@ -114,7 +115,11 @@ skilled (-41k) came in below their old pace.
 | NSW | 11.4 | 22.3 | 9.9 | 0.9x |
 
 This is the finding that isn't visible in the national chart. Sydney and Melbourne take the
-most migrants in absolute terms, but per head they're now below their own pre-COVID rates. WA
+most migrants in absolute terms, but per head they're now below their own pre-COVID rates.
+Two different comparisons are going on in this table, and they give different answers.
+Against its own history, Queensland is 1.6 times normal. Against the national rate, it's
+slightly *below* average (9.8 vs 10.6). Victoria is the reverse: below its own normal, but
+above the national rate. Only WA and the NT are high on both measures. WA
 also had the largest five-year excess per head (+42 per 1,000 residents). It was the only state
 where arrivals clearly beat the baseline. WA's ratio is flattered by a low baseline, though,
 because 2015-2019 was the trough after the mining boom.
@@ -152,6 +157,32 @@ like random noise. See `images/06_snapshot_seasonality.png`.
 **Preliminary state numbers move a lot.** Between the December 2025 and September 2026 releases,
 2024-25 NOM was revised by -1.3% nationally. Tasmania moved +22%, the ACT -11% and the NT +9%.
 
+## How this compares with published work
+
+The main finding isn't new. Peter McDonald (ANU/CEPAR) pointed out in 2023 that the
+post-COVID jump in net migration was driven more by people not leaving than by arrivals,
+and the ANU Migration Hub's 2026 report "Can Australia Achieve a Migration Soft Landing?"
+makes the same case. The growth in bridging and graduate visa holders is also tracked
+regularly by commentators using the same Home Affairs data. My numbers line up with theirs,
+and with the ABS's own note that temporary visa departures in 2024-25 (148k) were back above
+the pre-pandemic average.
+
+What I've tried to add is the checking around it: how much the arrivals/departures split
+depends on the choice of baseline, how far the preliminary 2024-25 state figures have
+already been revised, why the ABS and Home Affairs numbers can't be matched visa by visa,
+and a state-by-state view aimed at demand planning.
+
+One point of difference worth being clear about. I compare each state with its own
+pre-COVID rate, and on that measure WA, the NT and Queensland are well above normal.
+McDonald compares states with the national pattern and finds Queensland and WA
+unexceptional. Both can be true. Queensland's current rate (9.8 per 1,000) is below the
+national 10.6. It's just high for Queensland.
+
+Further reading:
+- Peter McDonald, "What's behind the recent surge in Australia's net migration – and will it last?", The Conversation, April 2023
+- ANU Migration Hub, "Can Australia Achieve a Migration Soft Landing?", 2026
+- ANU Policy Brief, "Migration is falling fast – but election politics is spinning a different story"
+
 ## What the data can't tell us
 
 - **Why people stayed.** This is accounting, not causation. Closed borders, a tight labour
@@ -187,9 +218,17 @@ each report page, and the list of screenshots to take.
 
 ```
 python -m venv .venv
-.venv\Scripts\activate          # or: source .venv/bin/activate
+
+# Windows
+.venv\Scripts\activate
+# Mac / Linux
+source .venv/bin/activate
+
 pip install -r requirements.txt
-python src/prepare_data.py      # rebuilds data/processed from data/raw
+
+# optional: rebuild data/processed from data/raw
+python src/prepare_data.py
+
 jupyter notebook notebooks/overseas_migration_analysis.ipynb
 ```
 
@@ -212,4 +251,4 @@ cleaning_log.md           what was dropped, renamed or fixed, with row counts
 
 ## Author
 
-Syaddanapudi
+<my name>
